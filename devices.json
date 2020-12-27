@@ -1,0 +1,200 @@
+[
+   {
+      "brand": "Asus",
+      "codename": "X00TD",
+      "name": "Zenfone Max Pro M1",
+      "supported_versions": [
+         {
+            "maintainer_name": "kaneki Ken",
+            "maintainer_url": "https://t.me/ken_kaneki_69",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Asus",
+      "codename": "X01BD",
+      "name": "Zenfone Max Pro M2",
+      "supported_versions": [
+         {
+            "maintainer_name": "Rams-ek",
+            "maintainer_url": "https://t.me/Rams-ek",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "OnePlus",
+      "codename": "enchilada",
+      "name": "OnePlus 6",
+      "supported_versions": [
+         {
+            "maintainer_name": "Zahid M",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9830048",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "OnePlus",
+      "codename": "fajita",
+      "name": "OnePlus 6T",
+      "supported_versions": [
+         {
+            "maintainer_name": "Chandu",
+            "maintainer_url": "https://forum.xda-developers.com/member.php?u=9830048",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Realme",
+      "codename": "RMX1901",
+      "name": "Realme X",
+      "supported_versions": [
+         {
+            "deprecated": true,
+            "maintainer_name": "ᴠɪʀᴀʟʙᴀɴᴅᴀ™",
+            "maintainer_url": "",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "lmi",
+      "name": "Redmi K30 Pro / POCO F2 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Dinh San",
+            "maintainer_url": "https://github.com/dinhsan2000",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "davinci",
+      "name": "Mi 9T",
+      "supported_versions": [
+         {
+            "maintainer_name": "Louis1977",
+            "maintainer_url": "https://t.me/Louis1977",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "ginkgo",
+      "name": "Redmi Note 8",
+      "supported_versions": [
+         {
+            "maintainer_name": "Khuong Hung(hung2408)",
+            "maintainer_url": "https://github.com/hung2408",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "lavender",
+      "name": "Redmi Note 7",
+      "supported_versions": [
+         {
+            "maintainer_name": "Hung Phan(hungphan2001)",
+            "maintainer_url": "https://t.me/hungphan2001",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "tulip",
+      "name": "Redmi Note 6 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "𝕁𝕖𝕗𝕚𝕟𝕙𝕠",
+            "maintainer_url": "https://t.me/jefinhodatnt",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "vince",
+      "name": "Redmi Note 5/5 Plus",
+      "supported_versions": [
+         {
+            "maintainer_name": "Alan Mathew",
+            "maintainer_url": "https://t.me/alanm07",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "violet",
+      "name": "Redmi Note 7 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "𝗞 𝗔 𝗥 𝗧 𝗛 𝗜 𝗞",
+            "maintainer_url": "https://t.me/karthik558",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
+      "codename": "PHOENIX",
+      "name": "Poco X2",
+      "supported_versions": [
+         {
+            "maintainer_name": "BIBIN dasb",
+            "maintainer_url": "https://t.me/bibindasb",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+
+   {
+      "brand": "Xiaomi",
+      "codename": "whyred",
+      "name": "Redmi Note 5 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "P.M.SALMANKHAN",
+            "maintainer_url": "https://t.me/SALMAN_IS_HERE",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   }
+]
