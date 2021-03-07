@@ -1,17 +1,16 @@
 {
-   "datetime": "1615138189",
-   "donate_url": "https://www.paypal.me/hungphan2001",
-   "error": false,
-   "filehash": "d26af3a50600f8d580c5ec1fb6b2f76e",
-   "filename": "Cherish-OS-v2.3-20210307-1639-lavender-OFFICIAL-GApps.zip",
-   "forum_url": "https://forum.xda-developers.com/t/rom-11-0-lavender-cherishos-official-v2-2-8-aosp.4240861",
-   "id": "d26af3a50600f8d580c5ec1fb6b2f76e",
-   "maintainer": "Hung Phan",
-   "maintainer_url": "https://forum.xda-developers.com/member.php?u=9830048",
-   "news_url": "https://t.me/CherishOS",
-   "size": 1575907266,
-   "telegram_username": "hungphan2001",
-   "url": "https://sourceforge.net/projects/cherish-os/files/device/lavender/Cherish-OS-v2.3-20210307-1639-lavender-OFFICIAL-GApps.zip/download",
-   "version": "11",
-   "website_url": "https://sourceforge.net/projects/cherish-os/files/device"
+"error":false,
+"filename": "Cherish-OS-v2.3-20210307-1815-lavender-OFFICIAL-GApps.zip",
+"datetime": "1615142060",
+"size":1575234631, 
+"url": "https://sourceforge.net/projects/cherish-os/files/device/lavender/Cherish-OS-v2.3-20210307-1815-lavender-OFFICIAL-GApps.zip/download", 
+"filehash":"b32bad97b6421b5a71ea22b5c2f57d49", 
+"version": "11", 
+"id": "b32bad97b6421b5a71ea22b5c2f57d49",
+"donate_url": "https://www.paypal.me/hungphan2001",
+"website_url": "https://sourceforge.net/projects/cherish-os/files/device"
+"news_url":"https:\/\/t.me\/CherishOS",
+"maintainer":"MLZ94",
+"maintainer_url":"https://t.me/hungphan2001,
+"forum_url":"https://forum.xda-developers.com/t/rom-11-0-lavender-cherishos-official-v2-2-8-aosp.4240861"
 }
