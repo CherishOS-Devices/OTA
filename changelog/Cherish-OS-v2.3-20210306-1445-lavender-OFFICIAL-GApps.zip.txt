@@ -5,7 +5,7 @@ DEVICE SIDE:
 • Update redfin fingerprint
 
 ROM SIDE:
-• Fixed Old Mobile Type Icon
+• Fixed Advanced Gestures
 • Added Omni Weather Styles
 • Update translations from crowdin
 • DataUsageView: move it to QQS Status Icons area
