@@ -28,6 +28,20 @@
       ]
    },
    {
+      "brand": "Asus",
+      "codename": "Z01R",
+      "name": "Zenfone 5Z",
+      "supported_versions": [
+         {
+            "maintainer_name": "Vysakh N",
+            "maintainer_url": "https://t.me/Vysakh_N",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "brand": "OnePlus",
       "codename": "enchilada",
       "name": "OnePlus 6",
