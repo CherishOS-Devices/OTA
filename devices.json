@@ -210,5 +210,20 @@
             "xda_thread": ""
          }
       ]
+   },
+
+   {
+      "brand": "Lenovo",
+      "codename": "jd2019",
+      "name": "Lenovo Z5s",
+      "supported_versions": [
+         {
+            "maintainer_name": "Husker",
+            "maintainer_url": "https://t.me/HsyHusker",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
