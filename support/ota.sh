@@ -31,5 +31,5 @@ BUILD_MONTH=${BUILD_DATE:4:2}
 BUILD_DAY=${BUILD_DATE:6:2}
 CHANGELOG_DATE=$(echo $BUILD_YEAR/$BUILD_MONTH/$BUILD_DAY)
 CHANGELOG="Changelog - %s\n\n"
-printf "$CHANGELOG_DATE" > $ROMDIR/OTA/changelogs/$DEVICE/$FILENAME.txt
-echo $ROMDIR/OTA/changelogs/$DEVICE/$FILENAME.txt file created
+printf "$CHANGELOG_DATE" > $ROMDIR/OTA/changelog/$FILENAME.txt
+echo $ROMDIR/OTA/changelog/$FILENAME.txt file created
