@@ -1,7 +1,5 @@
 v2.3//
 
-Changelog v2.3 08/03/2021:
-
 • Fixed Advanced Gestures
 • Added Omni Weather Styles
 • Updated translations from crowdin
