@@ -1,4 +1,4 @@
-DEVICE SIDE:
+v2.3//
 
 • Fixed Advanced Gestures
 • Added Omni Weather Styles
