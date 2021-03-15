@@ -239,5 +239,20 @@
             "xda_thread": ""
          }
       ]
+ },
+
+   {
+      "brand": "xiaomi",
+      "codename": "miatoll",
+      "name": "Redmi Note 9 Series",
+      "supported_versions": [
+         {
+            "maintainer_name": "GismoBe",
+            "maintainer_url": "https://t.me/GismoBe",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
