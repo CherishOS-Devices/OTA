@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.3-20210314-0339-X00TD-OFFICIAL-GApps.zip,
-"datetime": 1615909005,
-"size":1344104879, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/X00TD/Cherish-OS-v2.3-20210314-0339-X00TD-OFFICIAL-GApps.zip/download", 
-"filehash":"592fd6dd37c51971f18daed7a1796688", 
+"filename": Cherish-OS-v2.3.5-20210329-1223-X00TD-OFFICIAL-Vanilla.zip,
+"datetime":1617027431 ,
+"size":917196793, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/X00TD/Cherish-OS-v2.3.5-20210329-1223-X00TD-OFFICIAL-Vanilla.zip/download", 
+"filehash":"adb8eb3c588e750c77a325e900cd46c9", 
 "version": "11", 
-"id": "592fd6dd37c51971f18daed7a1796688",
+"id": "adb8eb3c588e750c77a325e900cd46c9",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Paras Dhiman",
+"maintainer":"Ken_kaneki_69",
 "maintainer_url":"https://t.me/Ken_kaneki_69",
-"forum_url":"https://forum.xda-developers.com/t/official-rom-x00td-11-cherish-os-2-3-14-03-2021.4246913/"
+"forum_url":"soon"
 }
