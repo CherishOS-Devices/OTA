@@ -1,0 +1,18 @@
+• Added custom logo status
+• Added toggle qs media player
+• SoundSearchTile: Extend the use search music from  shazam and soundcloud
+• Improved battery style
+• Added back SELinux info
+• Added sync & reboot/recovery qs tiles
+• Added OOS style tint option (black & white )
+• Fixed custom lockscreen shortcut not work
+• Added GVM Navbar Colors
+• Added OOS Launcher(Vanilla Build)
+• Improved notification header toggle
+• Redesigned About Settings 
+• Added automated DC Dimming 
+• Updated translation from crowdin
+• AutoAODService: Added support for mixed time & sun modes
+• Added scheduling always on display
+• Added ADB ROOT patches
+• Improved  other systems
