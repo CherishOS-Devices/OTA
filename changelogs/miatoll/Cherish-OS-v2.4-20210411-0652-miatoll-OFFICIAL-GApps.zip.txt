@@ -1,0 +1,35 @@
+v2.4//
+
+Device Changelog:
+ • Update to Redfin April Fingerprint 
+ • Last Source update
+ • Added Positron kernel as default
+ • Fixed Google Recorder 
+ • Added Moto Dolby 
+ • Added MiuiCamera & Gcam Go (Third party apps works now)
+ • Lot of Tree changes and improvements 
+
+Source Changelog:
+ • Merged April Security Patch
+ • mediaplayer: Fixed constructor calling sequence
+ • mediaplayer: Added default constructor for media player 
+ • Updated opt/telephony from caf
+ • Reduced padding for clock-notification area & notification
+ • Remake Face Unlock 
+ • Added option Bluetooth timeout feature 
+ • Added option Wi-Fi timeout feature
+ • Added Smart Cutoff
+ • Added toggle for floating notification dismiss button 
+ • Added option quick settings on secure lock screens
+ • Added option media notification background with artwork 
+ • Redesigned Settings 
+ • Added more FOD icons 
+ • Fixed AOSP Dialer is not set default in Vanilla build
+ • Updated translation from crowdin
+ • Fixed crash when going back from battery 
+ • Improved  other systems
+ • New UI for Cherish Settings
+ • Header image size added
+ • Fixed crash when going back from battery 
+ • Improved  other systems
+
