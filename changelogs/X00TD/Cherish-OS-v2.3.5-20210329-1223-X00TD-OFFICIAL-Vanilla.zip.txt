@@ -1,8 +1,0 @@
-================================
-v2.3/.5/
-================================
-* Latest pixel props
-* Fixed app Crash
-* Added Zram/Swap
-* Misc. changes
-
