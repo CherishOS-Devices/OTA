@@ -1,0 +1,25 @@
+Changelog v2.4 14/04/2021:
+
+• Added Flashlight blink on incoming calls
+• Added option to instantly lock app on closing 
+• Made clock truly invisible
+• Optimized status bar center clock for punch hole devices  
+• Added bold, digital and Samsung lockscreens
+• Introduced Fluid lockscreen clock
+• Introduced 404 IDE Clock
+• Introduced Shapeshift Clock
+• EasterEgg: Fixed some warnings 
+• LockSettingsService: Fix face removal when disabling security
+• base: AppLock: Call activityStopped when activity has stopped 
+• Added Android 12 style QS Tile tint
+• Added Samsung Highlight Clock 
+• SystemUI: Fix text clock translations 
+• Added reticker 
+• Fixed after setting QS header image size hidden qs media player
+• Extended quick qs slider position 
+• Used app icon instead of notification icon small
+• Made header image height offset user configurable
+• Redesign screenshot menu buttons 
+• Fixed screen unpinning text on devices that have gestures on fp sensor 
+• Allowed screen unpinning on devices without navbar 
+• Improved other systems

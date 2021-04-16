@@ -1,13 +1,6 @@
-Device changelogs:-
-=================
-• Fixed apn by default
-• Kernel Upstreamd 4.4.256
-• Fixed Round Corners
-• Selinux Enforcing
-• Improved Blur Scale
+v2.4//
+Changelog v2.4 07/04/2021:
 
-Rom changelogs:-
-=================
 • Merged April Security Patch
 • mediaplayer: Fixed constructor calling sequence
 • mediaplayer: Added default constructor for media player 
