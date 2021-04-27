@@ -1,0 +1,17 @@
+==============================
+   CherishOS 2.4 (Vanilla)
+==============================
+Increased earpiece Gain
+Fixed idle drain and deep sleep
+April redfin fp
+Added device codename in settings
+Removed few gapps
+Fixed broken stuff
+Removed oneplus apps except oneplus camera
+Added settings search 
+Misc. stuff
+
+NOTE :
+Cts is true but many apps may show it as false so disable usb debugging to get cts profile true.
+Clear playstore data if your device isnt play portex certified
+If calling screen doesn't appears then set default calling app in settings
