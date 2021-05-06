@@ -1,0 +1,20 @@
+==============================
+   CherishOS 2.5 (Gapps)
+==============================
+Fixed sound distortion on youtube and instagram
+Fixed lock screen media art
+Fixed lock screen weather on custom clock
+Fixed random UI restart and lags
+All zenparts work except speaker gain
+Redfin May SP
+Prebuilt Asus calculator, GcamGO and via browser
+Added asus doze
+Fixed D2W (on default kernel only)
+Disabled Blur by default
+
+NOTE :
+Cts is true but many apps may show it as false so disable usb debugging to get cts profile true.
+Clear playstore data if your device isnt play portex certified.
+IF still facing issues, then flash magisk cts patch and hide things.
+If calling screen doesn't appears then set default calling app in settings.
+I cant remove OP launcher, so if you hate it like me just root the rom and flash shady launcher.
