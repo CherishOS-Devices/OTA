@@ -254,5 +254,21 @@
             "xda_thread": ""
          }
       ]
+   },
+
+   {
+      "brand": "xiaomi",
+      "codename": "jason",
+      "name": "Xiaomi Mi  Note 3",
+      "supported_versions": [
+         {
+            "maintainer_name": "Enweazu Daniel(Danny)",
+            "maintainer_url": "https://t.me/dandollar1",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-cherish-os-2-4-jason-official.4268867/"
+         }
+      ]
    }
+
 ]
