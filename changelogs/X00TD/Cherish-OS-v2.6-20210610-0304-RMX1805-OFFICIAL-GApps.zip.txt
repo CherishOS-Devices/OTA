@@ -9,6 +9,7 @@ Added shady launcher and nuked OP shit
 Using Electroperf's LTO kernel for instant deep sleep.
 Anti sayeed script
 ghost touch fixed
+changed default wallpaper
 Other misc. changes
 
 NOTE :
