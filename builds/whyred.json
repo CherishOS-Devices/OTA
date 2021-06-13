@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.5-20210524-1525-whyred-OFFICIAL-GApps.zip,
-"datetime": 1620455484,
-"size":1381492820, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/whyred/Cherish-OS-v2.5-20210524-1525-whyred-OFFICIAL-GApps.zip/download", 
-"filehash":"9651c927485ae7def64ab3e725326a30", 
+"filename": Cherish-OS-v2.6-20210613-1445-whyred-OFFICIAL-GApps.zip,
+"datetime": ,
+"size":1391679978, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/whyred/Cherish-OS-v2.6-20210613-1445-whyred-OFFICIAL-GApps.zip/download", 
+"filehash":"b0c37955e3e22100211877a2c5980a7d", 
 "version": "11", 
-"id": "9651c927485ae7def64ab3e725326a30",
+"id": "b0c37955e3e22100211877a2c5980a7d",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"P.M.SALMAN KHAN",
 "maintainer_url":"https://t.me/SALMAN_IS_HERE",
-"forum_url":"https://forum.xda-developers.com/t/rom-11-0-r-cherishos-v2-5-official-whyred-25-05-2020.4282069/"
+"forum_url":"https://forum.xda-developers.com/t/rom-11-0-r-cherishos-v2-6-official-whyred-13-06-2020.4291245/"
 }
