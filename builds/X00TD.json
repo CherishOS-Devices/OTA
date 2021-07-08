@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.6-20210610-1347-X00TD-OFFICIAL-GApps.zip,
-"datetime":1623335664,
-"size":1489830123, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/X00TD/Cherish-OS-v2.6-20210610-1347-X00TD-OFFICIAL-GApps.zip/download", 
-"filehash":"e2e2e5948a9c0e491ba0a3d0b59f867e", 
+"filename": Cherish-OS-v2.7-20210708-0911-X00TD-OFFICIAL-GApps.zip,
+"datetime": 1625738961,
+"size":1372863865, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/X00TD/Cherish-OS-v2.7-20210708-0911-X00TD-OFFICIAL-GApps.zip/download", 
+"filehash":"86ec025c6d0769eab482ac55c5216082", 
 "version": "11", 
-"id": "e2e2e5948a9c0e491ba0a3d0b59f867e",
+"id": "86ec025c6d0769eab482ac55c5216082",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Ken_kaneki_69",
+"maintainer":"Paras Dhiman",
 "maintainer_url":"https://t.me/Ken_kaneki_69",
 "forum_url":"soon"
 }
