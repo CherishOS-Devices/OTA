@@ -1,16 +1,22 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.6-20210608-1300-jason-OFFICIAL-GApps.zip,
-"datetime": 1623186842,
-"size":1548717184, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/jason/Cherish-OS-v2.6-20210608-1300-jason-OFFICIAL-GApps.zip/download", 
-"filehash":"4feb00d805e32c1551f50f948b4d395a", 
+"filename": Cherish-OS-v2.7-20210707-2348-jason-OFFICIAL-GApps.zip
+Cherish-OS-v2.7-20210708-0103-jason-OFFICIAL-Vanilla.zip,
+"datetime": 1625705351,
+"size":1368704241
+914520914
+2283225155, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/jason/Cherish-OS-v2.7-20210707-2348-jason-OFFICIAL-GApps.zip
+Cherish-OS-v2.7-20210708-0103-jason-OFFICIAL-Vanilla.zip/download", 
+"filehash":"1042dfac741dd4376b8d646673196ed6
+b31440a661813abcbe7d514f936ab713", 
 "version": "11", 
-"id": "4feb00d805e32c1551f50f948b4d395a",
+"id": "1042dfac741dd4376b8d646673196ed6
+b31440a661813abcbe7d514f936ab713",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Enweazu Daniel(Danny)",
+"maintainer":"Danny",
 "maintainer_url":"https://t.me/dandollar1",
-"forum_url":"https://forum.xda-developers.com/t/rom-11-cherish-os-2-4-jason-official.4268867"
+"forum_url":"https://forum.xda-developers.com/t/rom-11-cherish-os-2-6-jason-official.4268867/"
 }
