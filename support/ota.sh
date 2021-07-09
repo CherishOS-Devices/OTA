@@ -19,7 +19,7 @@ SIZE=$(wc -c out/target/product/$DEVICE/Cherish*.zip | awk '{print $1}')
 URL="https://sourceforge.net/projects/cherish-os/files/device/$DEVICE/$FILENAME/download"
 VERSION="11"
 DONATE_URL="https://www.paypal.me/hungphan2001"
-WEBSITE_URL="https://sourceforge.net/projects/cherish-os/files/device/"
+WEBSITE_URL="https://cherishos.com"
 NEWS_URL="https:\/\/t.me\/CherishOS"
 JSON_FMT='{\n"error":false,\n"filename": %s,\n"datetime": %s,\n"size":%s, \n"url":"%s", \n"filehash":"%s", \n"version": "%s", \n"id": "%s",\n"donate_url": "%s",\n"website_url":"%s",\n"news_url":"%s",\n"maintainer":"%s",\n"maintainer_url":"%s",\n"forum_url":"%s"\n}'
 printf "$JSON_FMT" "$FILENAME" "$DATETIME" "$SIZE" "$URL" "$FILEHASH" "$VERSION" "$ID" "$DONATE_URL" "$WEBSITE_URL" "$NEWS_URL" "$MAINTAINER" "$MAINTAINER_URL" "$FORUM_URL" > $ROMDIR/OTA/builds/$DEVICE.json
