@@ -1,23 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.6-20210617-0243-RMX1805-OFFICIAL-GApps.zip,
-"datetime":1623908844,
-"size":849953330
-850250028
-o1240320081
-2940523439, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/RMX1805/Cherish-OS-v2.6-20210617-0243-RMX1805-OFFICIAL-GApps.zip/download", 
-"filehash":"9f4b2f58603c1137c0a7a9782ad03df7
-4d2017d0415e112ed8cdc232b786efca
-0ef015b99ad03e2567882e9a67aca9af", 
+"filename": Cherish-OS-v2.7-20210709-0900-RMX1805-OFFICIAL-GApps.zip,
+"datetime": 1625822365,
+"size":1133632407, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/RMX1805/Cherish-OS-v2.7-20210709-0900-RMX1805-OFFICIAL-GApps.zip/download", 
+"filehash":"7cff97da44a59b68bd648305301588e3", 
 "version": "11", 
-"id": "9f4b2f58603c1137c0a7a9782ad03df7
-4d2017d0415e112ed8cdc232b786efca
-0ef015b99ad03e2567882e9a67aca9af",
+"id": "7cff97da44a59b68bd648305301588e3",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Abhinav",
 "maintainer_url":"https://t.me/AbhinavVermabest",
-"forum_url":"https://forum.xda-developers.com/"
+"forum_url":"https://forum.xda-developers.com/t/rom-cherishos-v2-7-rmx1805-rmx1811-android-11-official.4303169/"
 }
