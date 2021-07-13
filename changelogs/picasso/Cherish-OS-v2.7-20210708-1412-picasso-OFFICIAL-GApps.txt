@@ -1,0 +1,4 @@
+v2.7//
+//Device Changelog
+- Rebase Device Tree
+- Update prebuilt images to weekly EU 21.6.23 release 
