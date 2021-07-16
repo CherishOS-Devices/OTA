@@ -1,17 +1,16 @@
 {
 "error":false,
-"filename":Cherish-OS-v2.7-20210709-1209-mido-OFFICIAL-GApps.zip,
-"datetime": 1625822365,
-"size":1207627571,
-"url":"https://sourceforge.net/projects/cherish-os/files/device/mido/Cherish-OS-v2.7-20210709-1209-mido-OFFICIAL-GApps.zip/download",
-"filehash":"ef4f08b11d9662ded95fcd8a9216eecb",
+"filename": Cherish-OS-v2.7.5-20210716-1313-mido-OFFICIAL-Gapps.zip,
+"datetime": 1626428527,
+"size":1273058889,
+"url":"https://sourceforge.net/projects/cherish-os/files/device/mido/Cherish-OS-v2.7.5-20210716-1313-mido-OFFICIAL-Gapps.zip/download",
+"filehash":"b1d63ee73e10746a828eb4c74fea34b0",
 "version": "11",
-"id": "ef4f08b11d9662ded95fcd8a9216eecb",
+"id": "b1d63ee73e10746a828eb4c74fea34b0",
 "donate_url": "https://www.paypal.me/hungphan2001",
-"website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
+"website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Hung Phan",
 "maintainer_url":"https://t.me/hungphan2001",
 "forum_url":"https://forum.xda-developers.com/"
 }
-
