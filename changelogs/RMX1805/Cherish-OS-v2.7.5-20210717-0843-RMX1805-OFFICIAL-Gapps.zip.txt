@@ -5,7 +5,7 @@ v2.7.5//
 • Added magisk nodes for some banking apps
 • Fixed battery info
 • CTS passes without magisk
-• and many more improved...
+• and many more improved..
 
 Changelog v2.7.5 16/07/2021:
  
