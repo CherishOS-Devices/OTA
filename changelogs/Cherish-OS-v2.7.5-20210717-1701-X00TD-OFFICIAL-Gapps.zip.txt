@@ -1,0 +1,11 @@
+v2.7.5/
+
+-Updated dolby blobs
+-Banking apps working without any crash
+-Changed default boot animation . Thanks to D.R. Sayeed
+-Changed default wallpaper
+-Blurs are now more smoothened 
+-reduced active drain a little
+
+NOTE: Vanilla build have the same changelog.
+
