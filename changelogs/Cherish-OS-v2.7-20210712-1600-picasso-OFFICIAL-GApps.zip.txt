@@ -1,1 +1,4 @@
 v2.7//
+// Device ChangeLog
+Fixer Crash Youtube
+GPS Google History Woking
