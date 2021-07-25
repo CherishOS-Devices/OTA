@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename":"Cherish-OS-v2.7-20210715-1408-hotdogb-OFFICIAL-GApps.zip",
-"datetime": 1626360395,
-"size": 1606313096,
-"url":"https://sourceforge.net/projects/cherish-os/files/device/hotdogb/Cherish-OS-v2.7-20210715-1408-hotdogb-OFFICIAL-GApps.zip",
-"filehash": "9d0fe75efdb49af82448557035029c22",
-"version": "11",
-"id": "9d0fe75efdb49af82448557035029c22",
+"filename": Cherish-OS-v2.7.5-20210725-1722-hotdogb-OFFICIAL-Gapps.zip,
+"datetime": 1627237415,
+"size":1581422830, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/hotdogb/Cherish-OS-v2.7.5-20210725-1722-hotdogb-OFFICIAL-Gapps.zip/download", 
+"filehash":"9d3c74894ce5aa8e24c43165f82636a2", 
+"version": "11", 
+"id": "9d3c74894ce5aa8e24c43165f82636a2",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Addy",
 "maintainer_url":"https://t.me/Hotdogb_95",
-"forum_url":"https://forum.xda-developers.com/t/rom-11-0-cherisos-v2-7-15-july-2021.4306225"
+"forum_url":"https://forum.xda-developers.com/"
 }
