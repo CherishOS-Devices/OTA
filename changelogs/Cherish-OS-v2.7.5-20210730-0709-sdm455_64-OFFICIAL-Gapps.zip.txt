@@ -1,0 +1,4 @@
+v2.7/.5/
+
+Device Changelog:
+- Initial official build (Tree based on LineageOS nokia sdm660-common)

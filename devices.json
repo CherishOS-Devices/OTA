@@ -269,6 +269,21 @@
             "xda_thread": "https://forum.xda-developers.com/t/rom-11-cherish-os-2-4-jason-official.4268867/"
          }
       ]
+   },
+
+   {
+      "brand": "Qualcomm",
+      "codename": "sdm455_64",
+      "name": "SDM455 QRD",
+      "supported_versions": [
+         {
+            "maintainer_name": "me-cafebabe",
+            "maintainer_url": "https://t.me/me_cafebabe",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
    }
 
 ]
