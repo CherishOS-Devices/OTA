@@ -1,0 +1,28 @@
+﻿==================================
+CherishOS 2.7.5 Device Changelog:
+==================================
+• Kernel upstreamed to 4.4.277
+• Merged LA.UM.9.2.r1-03500-SDMxx0.0 CAF tag
+
+==================================
+Changelog v2.7.5 16/07/2021:
+==================================
+• Introduced Fluid lock clock V2 
+• Introduced Android 12 Style Search bar 
+• Improved Oos like QsClock 
+• Improved and Made Android S Clocks base on wallpaper
+• Updated translation from crowdin
+• Added Xtended System-wide Slider Styles
+• Added 5 charging animation
+• Added 3 styles Brightness slider
+• Added alarm volume slider for SSOS and Miui Vol Panel
+• Added Launcher3 is default in Vanilla Build
+• Added Lawchair 
+• Added support OOS Camera
+• Updated carries missing
+• Fixed search bar not work with vanilla build
+• Fixed Hide Statusbar on Lockscreen 
+• Show SELinux in Settings
+• Fixed issue with banking app
+• Fixed open apps delay
+• Improved other systems
