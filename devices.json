@@ -270,6 +270,21 @@
          }
       ]
    },
+   
+   {
+      "brand": "sony",
+      "codename": "honami",
+      "name": "Sony Xperia Z1",
+      "supported_versions": [
+         {
+            "maintainer_name": "David(daviiid99)",
+            "maintainer_url": "https://t.me/BlueWeiv",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-x-official-cherishos-v2-x-for-xperia-z1-c6903-2021-08-03.4314161/"
+         }
+      ]
+   },
 
    {
       "brand": "Qualcomm",
