@@ -210,7 +210,6 @@
          }
       ]
    },
-
    {
       "brand": "Xiaomi",
       "codename": "whyred",
@@ -225,7 +224,6 @@
          }
       ]
    },
-
    {
       "brand": "Lenovo",
       "codename": "jd2019",
@@ -239,8 +237,7 @@
             "xda_thread": ""
          }
       ]
- },
-
+   },
    {
       "brand": "xiaomi",
       "codename": "miatoll",
@@ -255,7 +252,6 @@
          }
       ]
    },
-
    {
       "brand": "xiaomi",
       "codename": "jason",
@@ -270,7 +266,6 @@
          }
       ]
    },
-   
    {
       "brand": "sony",
       "codename": "honami",
@@ -285,7 +280,6 @@
          }
       ]
    },
-
    {
       "brand": "Qualcomm",
       "codename": "sdm455_64",
@@ -300,7 +294,6 @@
          }
       ]
    },
-
    {
       "brand": "Xiaomi",
       "codename": "pine",
@@ -315,7 +308,6 @@
          }
       ]
    },
-
    {
       "brand": "Xiaomi",
       "codename": "olives",
@@ -329,9 +321,8 @@
             "xda_thread": ""
          }
       ]
-   }
-   
-      {
+   },
+   {
       "brand": "Xiaomi",
       "codename": "umi",
       "name": "Mi 10",
@@ -345,5 +336,4 @@
          }
       ]
    }
-
 ]

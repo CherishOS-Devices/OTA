@@ -1,0 +1,9 @@
+v2.8//
+Device Changelog:
+- Enabled IORap
+- Fixed Smart Charging
+- Hide vendor mismatch pop-up
+- Introduced Haptic Feedback (QTI Haptics)
+- Made SELinux Enforcing
+- Replaced charging daemon from stock P fw
+- Set globally accessible NTP Server
