@@ -1,9 +1,0 @@
-v2.6//
-- June Security Patch
-- Fixed Smart Charging
-- Fixed OK Google not working
-- Fixed Status bar icons padding
-- Fixed Dead ANXCamera(Not fully functional but its working)
--Etherious Kernel by Default thanks to @sonalsingh18
-- Added Xiaomiparts
-- Switched to Pre-Built Audio Hal's

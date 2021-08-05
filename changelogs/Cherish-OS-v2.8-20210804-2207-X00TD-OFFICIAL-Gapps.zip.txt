@@ -1,0 +1,10 @@
+v2.8//
+
+Nuked doby shit for ever. 
+Updated Shady Launcher to latest version.
+New Bootanimation and Wallpaper.
+Fixed blur lag.
+Using sky walker as default.
+Lates pixel props.
+
+NOTE: Vanilla build have the same changelog.
