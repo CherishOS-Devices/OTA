@@ -330,5 +330,20 @@
          }
       ]
    }
+   
+      {
+      "brand": "Xiaomi",
+      "codename": "umi",
+      "name": "Mi 10",
+      "supported_versions": [
+         {
+            "maintainer_name": "Adrian Lam",
+            "maintainer_url": "https://t.me/P4042",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   }
 
 ]
