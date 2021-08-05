@@ -1,1 +1,9 @@
 v2.8//
+// Device Changelog
+Switch to QTI audio blobs
+Import screen brightness and dim config from UMI
+Remove Youtube Vanced
+Add Redfin's Aug 2021 build fingerprint to init
+Add 6 & 8 RAM support
+Import missing keylayout
+Hide Magisk Better
