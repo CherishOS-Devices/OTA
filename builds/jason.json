@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.7.5-20210724-1055-jason-OFFICIAL-Gapps.zip,
-"datetime": 1627128044,
-"size":1368704241, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/jason/Cherish-OS-v2.7.5-20210724-1055-jason-OFFICIAL-Gapps.zip/download", 
-"filehash":"1042dfac741dd4376b8d646673196ed6", 
+"filename": Cherish-OS-v2.8-20210805-0840-jason-OFFICIAL-Gapps.zip,
+"datetime": 1628156750,
+"size":1400731039, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/jason/Cherish-OS-v2.8-20210805-0840-jason-OFFICIAL-Gapps.zip/download", 
+"filehash":"29b60d019fca0e71fdf7272e0e5c611d", 
 "version": "11", 
-"id": "1042dfac741dd4376b8d646673196ed63",
+"id": "29b60d019fca0e71fdf7272e0e5c611d",
 "donate_url": "https://www.paypal.me/hungphan2001",
-"website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
+"website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Danny",
 "maintainer_url":"https://t.me/dandollar1",
-"forum_url":"https://forum.xda-developers.com/t/rom-11-cherish-os-2-6-jason-official.4268867/"
+"forum_url":"https://forum.xda-developers.com/t/rom-11-cherish-os-2-7-5-jason-official.4268867/"
 }
