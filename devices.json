@@ -299,6 +299,36 @@
             "xda_thread": ""
          }
       ]
+   },
+
+   {
+      "brand": "Xiaomi",
+      "codename": "pine",
+      "name": "Redmi 7A",
+      "supported_versions": [
+         {
+            "maintainer_name": "me-cafebabe",
+            "maintainer_url": "https://t.me/me_cafebabe",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+
+   {
+      "brand": "Xiaomi",
+      "codename": "olives",
+      "name": "Redmi 8 Series",
+      "supported_versions": [
+         {
+            "maintainer_name": "me-cafebabe",
+            "maintainer_url": "https://t.me/me_cafebabe",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
    }
 
 ]
