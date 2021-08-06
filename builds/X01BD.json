@@ -1,8 +1,8 @@
 {
 "error":false,
 "filename": Cherish-OS-v2.8-20210805-1326-X01BD-OFFICIAL-Gapps.zip,
-"datetime": 1628213743,
-"size":5488141738, 
+"datetime": 1628113743,
+"size":1488141738, 
 "url":"https://sourceforge.net/projects/cherish-os/files/device/X01BD/Cherish-OS-v2.8-20210805-1326-X01BD-OFFICIAL-Gapps.zip/download",
 "filehash":"130116fbca3d4e8cadb70f3b03a69f61", 
 "version": "11", 
@@ -14,3 +14,4 @@
 "maintainer_url":"https://t.me/rams_ek",
 "forum_url":"https://forum.xda-developers.com/t/rom-11-official-cherishos-v2-x-31-07-2021.4315289/"
 }
+
