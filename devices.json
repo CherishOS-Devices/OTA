@@ -1,5 +1,21 @@
 [
    {
+      "brand": "realme",
+      "codename": "RMX1831",
+      "name": "Realme U1",
+      "supported_versions": [
+         {
+            "maintainer_name": "Jegan.SB",
+            "maintainer_url": "https://t.me/Iam_jegan",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   
+   {
+      
       "brand": "Asus",
       "codename": "X00TD",
       "name": "Zenfone Max Pro M1",
