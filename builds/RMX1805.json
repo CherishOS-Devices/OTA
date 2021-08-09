@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.7.5-20210717-0843-RMX1805-OFFICIAL-Gapps.zip,
-"datetime": 1626616903,
-"size":1136403815, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/RMX1805/Cherish-OS-v2.7.5-20210717-0843-RMX1805-OFFICIAL-Gapps.zip/download", 
-"filehash":"19f6fc5c7a6fe04f0335e83bb117b3f5", 
+"filename": Cherish-OS-v2.8-20210809-1418-RMX1805-OFFICIAL-Gapps.zip,
+"datetime":1628524499,
+"size":1170765382, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/RMX1805/Cherish-OS-v2.8-20210809-1418-RMX1805-OFFICIAL-Gapps.zip/download", 
+"filehash":"3bc3d157da0e32b6ef32c777f9c40cb2", 
 "version": "11", 
-"id": "19f6fc5c7a6fe04f0335e83bb117b3f5",
+"id": "3bc3d157da0e32b6ef32c777f9c40cb2",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Abhinav™",
+"maintainer":"ABHINAV™",
 "maintainer_url":"https://t.me/AbhinavVermabest",
-"forum_url":"https://forum.xda-developers.com/t/rom-cherishos-v2-7-5-rmx1805-rmx1811-official-new-update.4307103/"
+"forum_url":"https://forum.xda-developers.com/"
 }
