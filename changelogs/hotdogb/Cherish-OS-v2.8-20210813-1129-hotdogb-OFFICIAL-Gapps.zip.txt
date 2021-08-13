@@ -1,0 +1,42 @@
+==================================
+CherishOS 2.8 Device Changelog:
+==================================
+-Blob updated
+-FP update to Coral August
+-kernel upstream to 4.14.243
+-Dialer ui changed to Black & White base
+-Improved Auto Brightness
+-Apps Debloated (Seedvault Velvet Photos Ornament MarkupGoogle WallpaperPickerGoogleRelease Pixel Launcher GoogleFeedback SafetyHubPrebuilt)
+
+==================================
+Changelog v2.8 04/08/2021:
+==================================
+Merged August Security Patch 
+• Introduced New Battery UI
+• Added Live previews for applied themes and fonts 
+• Added Big Oos like QsClock 
+• Added framework to set dark mode to the new preview
+• Added Bouncy scrollview from OOS
+• Redesigned themes section 
+• Updated translation from crowdin
+• Added Pulse initial checkin for Android 11
+• Added Vietnamese Lunar Calendar(only Vietnam) is default
+• Extended Pulse to Ambient Screen
+• Solid render: Round lines 
+• Toggled data usage view on QS footer
+• Added QS footer visibilities
+• Added Settings SearchBar style 
+• Added option Hide apps from recents
+• Added OnePlus proprietary vibrator 
+• Added hide black fill-in for display cutout
+• Added Legacy WFD output video mode settings
+• Introduced Immersive Navigation 
+• Added kill button to notification guts(Launcher3)
+• Added Itelecom APN 
+• Android S Clock: Fixed preview and some improvements
+• Lockscreen weather panel improvements 
+• Improved qs footer layout 
+• OPQSFooter: Fixed carrier text glitch when pulling qs
+• Fixed recents text selection in pixel launcher
+• Nuked carrier label
+• Improved other systems

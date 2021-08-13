@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.7.5-20210725-1722-hotdogb-OFFICIAL-Gapps.zip,
-"datetime": 1627237415,
-"size":1581422830, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/hotdogb/Cherish-OS-v2.7.5-20210725-1722-hotdogb-OFFICIAL-Gapps.zip/download", 
-"filehash":"9d3c74894ce5aa8e24c43165f82636a2", 
+"filename": Cherish-OS-v2.8-20210813-1129-hotdogb-OFFICIAL-Gapps.zip,
+"datetime": 1628857347,
+"size":1504668190, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/hotdogb/Cherish-OS-v2.8-20210813-1129-hotdogb-OFFICIAL-Gapps.zip/download", 
+"filehash":"281aef2681c06a4d4537b9d8e1f2ff38", 
 "version": "11", 
-"id": "9d3c74894ce5aa8e24c43165f82636a2",
+"id": "281aef2681c06a4d4537b9d8e1f2ff38",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Addy",
+"maintainer":"Addy™",
 "maintainer_url":"https://t.me/Hotdogb_95",
-"forum_url":"https://forum.xda-developers.com/"
+"forum_url":"https://forum.xda-developers.com"
 }
