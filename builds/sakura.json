@@ -1,15 +1,15 @@
 {
-"error":false,
-"filename": Cherish-OS-v2.7.5-20210720-1208-sakura-OFFICIAL-Gapps.zip,
-"datetime": 1626631603,
-"size":1385334119, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/sakura/Cherish-OS-v2.7.5-20210720-1208-sakura$
-"filehash":"d0f3a4f2f1158a23141593a3d029d65a", 
-"version": "11", 
-"id": "d0f3a4f2f1158a23141593a3d029d65a",
+"filename": Cherish-OS-v2.8-20210818-0624-sakura-OFFICIAL-Gapps.zip,
+"datetime": 1629272598,
+"size":1385334119,
+"url":"https://sourceforge.net/projects/cherish-os/files/device/sakura/Cherish-OS-v2.8-20210818-0624-sakura-OFFICIAL-Gapps.zip",
+"filehash":"4d03b8569aba28819127028a16708f82",
+"version": "11",
+"id": "4d03b8569aba28819127028a16708f82",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"YadavMohit19",
 "maintainer_url":"https://t.me/YadavMohit19",
 "forum_url":"soon"
+}
