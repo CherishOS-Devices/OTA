@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.7.5-20210726-1130-tulip-OFFICIAL-Vanilla.zip,
-"datetime": 1627319667,
-"size":864285060, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/tulip/Cherish-OS-v2.7.5-20210726-1130-tulip-OFFICIAL-Vanilla.zip/downloa>
-"filehash":"c541c00eac8a41d952546f2b1a7bb494", 
+"filename": Cherish-OS-v2.9-20210902-0817-tulip-OFFICIAL-Gapps.zip,
+"datetime": 1630582306,
+"size":1467008320, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/tulip/Cherish-OS-v2.9-20210902-0817-tulip-OFFICIAL-Gapps.zip/download", 
+"filehash":"68b36e536cbfac372d4cdd8b11caa2e0", 
 "version": "11", 
-"id": "c541c00eac8a41d952546f2b1a7bb494",
+"id": "68b36e536cbfac372d4cdd8b11caa2e0",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Rabin",
 "maintainer_url":"https://t.me/professor36",
-"forum_url":"https://forum.xda-developers.com/t/official-rom-11-cherish-os-2-7-5-26-07-2021.4311039/"
+"forum_url":"https://forum.xda-developers.com/t/official-rom-11-cherish-os-2-x-26-07-2021.4311039/"
 }
