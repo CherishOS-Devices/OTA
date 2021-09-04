@@ -2,6 +2,9 @@
 CherishOS 2.9 Device Changelog:
 ==================================
 
+
+-Fixed lags while playing some recorded videos
+-Safetynet passes by default
 -XiaomiParts: Add FPS info
 -Add miui camera
 -Enabled AdaptiveCharging
