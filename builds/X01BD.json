@@ -1,17 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.8-20210805-1326-X01BD-OFFICIAL-Gapps.zip,
-"datetime": 1628113743,
-"size":1488141738, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/X01BD/Cherish-OS-v2.8-20210805-1326-X01BD-OFFICIAL-Gapps.zip/download",
-"filehash":"130116fbca3d4e8cadb70f3b03a69f61", 
+"filename": Cherish-OS-v2.9-20210906-0829-X01BD-OFFICIAL-Gapps.zip,
+"datetime":1630922089,
+"size":1406482897, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/X01BD/Cherish-OS-v2.9-20210906-0829-X01BD-OFFICIAL-Gapps.zip/download",
+"filehash":"7566d1ebaf8080e96123b533510f6686", 
 "version": "11", 
-"id": "130116fbca3d4e8cadb70f3b03a69f61",
+"id": "7566d1ebaf8080e96123b533510f6686",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Rams-ek&Shibi",
 "maintainer_url":"https://t.me/rams_ek",
-"forum_url":"https://forum.xda-developers.com/t/rom-11-official-cherishos-v2-x-31-07-2021.4315289/"
+"forum_url":"https://forum.xda-developers.com/t/rom-11-official-cherishos-v2-x-06-09-2021.4315289/"
 }
-
