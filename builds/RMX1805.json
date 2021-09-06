@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.8-20210809-1418-RMX1805-OFFICIAL-Gapps.zip,
-"datetime":1628524499,
-"size":1170765382, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/RMX1805/Cherish-OS-v2.8-20210809-1418-RMX1805-OFFICIAL-Gapps.zip/download", 
-"filehash":"3bc3d157da0e32b6ef32c777f9c40cb2", 
+"filename": Cherish-OS-v2.9-20210905-1420-RMX1805-OFFICIAL-Gapps.zip,
+"datetime":1630891275,
+"size":1185896208, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/RMX1805/Cherish-OS-v2.9-202$
+"filehash":"905007f5d6c49c76980a1e30c2fb356a", 
 "version": "11", 
-"id": "3bc3d157da0e32b6ef32c777f9c40cb2",
+"id": "905007f5d6c49c76980a1e30c2fb356a",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"ABHINAV™",
+"maintainer":"Abhinav",
 "maintainer_url":"https://t.me/AbhinavVermabest",
 "forum_url":"https://forum.xda-developers.com/"
 }
