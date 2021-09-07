@@ -1,0 +1,4 @@
+v2.9//
+Switched To Coral August FP .
+Removed AdaptLaunch and some other perf .
+Built With ExtendedEAS + Proton Clang 13.0 .
