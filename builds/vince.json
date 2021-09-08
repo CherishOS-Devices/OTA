@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.9-20210906-0936-vince-OFFICIAL-Vanilla.zip,
-"datetime": 1630941660,
-"size":789437037, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/vince/Cherish-OS-v2.9-20210906-0936-vince-OFFICIAL-Vanilla.zip/download", 
-"filehash":"065e54276072f080749e713f2a637def", 
+"filename": Cherish-OS-v2.9-20210908-0649-vince-OFFICIAL-Vanilla.zip,
+"datetime": 1631085647,
+"size":870314465, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/vince/Cherish-OS-v2.9-20210908-0649-vince-OFFICIAL-Vanilla.zip/download", 
+"filehash":"a3a394d1cbc243d1387a2dfbc67b3e97", 
 "version": "11", 
-"id": "065e54276072f080749e713f2a637def",
+"id": "a3a394d1cbc243d1387a2dfbc67b3e97",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"gamingghost",
 "maintainer_url":"https://t.me/gamingghost",
-"forum_url":"https://forum.xda-developers.comm/gaming-ghost.11771571/"
+"forum_url":"https://forum.xda-developers.com/gaming-ghost.11771571"
 }
