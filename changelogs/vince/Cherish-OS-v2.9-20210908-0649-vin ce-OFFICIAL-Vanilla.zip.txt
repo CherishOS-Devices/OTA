@@ -1,15 +1,16 @@
 ==================================
 CherishOS 2.9 Device Changelog:
 ==================================
-    • Kernel upstreamed with dark ages to .268
-    • Fixed Default APN
+    • Kernel upstreamed with dark ages
     • Fixed System UI Crash
     • Slow Charging Fixed 
     • Battery Backup Increased 
+    • Fixed Default APN Fixed APN Broken
+    • Fixed Some Overlays
+    • Added OP Launcher
 ==================================
 Changelog v2.9 02/09/2021:
 ==================================
- 
 • Implemented Monet Wannabe 
 • Added Lottie Animation selection for Keyguard clock styles 
 • Added supported AM/PM for Big OOS clock
