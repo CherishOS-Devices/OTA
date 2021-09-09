@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.8-20210813-1129-hotdogb-OFFICIAL-Gapps.zip,
-"datetime": 1628857347,
-"size":1504668190, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/hotdogb/Cherish-OS-v2.8-20210813-1129-hotdogb-OFFICIAL-Gapps.zip/download", 
-"filehash":"281aef2681c06a4d4537b9d8e1f2ff38", 
+"filename": Cherish-OS-v2.9-20210909-1704-hotdogb-OFFICIAL-Gapps.zip,
+"datetime": 1631215310,
+"size":1511186170, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/hotdogb/Cherish-OS-v2.9-20210909-1704-hotdogb-OFFICIAL-Gapps.zip/download", 
+"filehash":"16a0afb3852683885b4f136d36638b0d", 
 "version": "11", 
-"id": "281aef2681c06a4d4537b9d8e1f2ff38",
+"id": "16a0afb3852683885b4f136d36638b0d",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Addy™",
+"maintainer":"Addy",
 "maintainer_url":"https://t.me/Hotdogb_95",
-"forum_url":"https://forum.xda-developers.com"
+"forum_url":"https://forum.xda-developers.com/t/rom-11-0-cherisos-v2-9-9-september-2021.4306225/"
 }
