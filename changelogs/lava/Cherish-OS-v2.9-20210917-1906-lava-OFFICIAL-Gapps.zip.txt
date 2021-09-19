@@ -1,6 +1,6 @@
-v2.9//
-- Initial release
-- Included MIUICamera and MIUICore
-- Improved Fingerprint unlock speed
-- Using based pizza kernel (R-vendor)
-- Imporoved system stability by fw from MIUI 12.5
+r1.0 v2.9
+Initial release
+Included MIUICamera and MIUICore
+Improved Fingerprint unlock speed
+Using based pizza kernel (R-vendor)
+Imporoved system stability by fw from MIUI 12.5
