@@ -354,6 +354,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "lava",
+      "name": "Xiaomi Redmi 9 & Poco M2",
+      "supported_versions": [
+         {
+            "maintainer_name": "marat2509",
+            "maintainer_url": "https://t.me/marat2509",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "umi",
       "name": "Mi 10",
       "supported_versions": [
