@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.8-20210805-0614-olives-OFFICIAL-Gapps.zip,
-"datetime": 1628149034,
-"size":1339255553, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/olives/Cherish-OS-v2.8-20210805-0614-olives-OFFICIAL-Gapps.zip/download", 
-"filehash":"8edf6ea6080fc91a0161fadbdee34c01", 
+"filename": Cherish-OS-v2.9-20210919-0653-olives-OFFICIAL-Gapps.zip,
+"datetime": 1632034387,
+"size":1420676032, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/olives/Cherish-OS-v2.9-20210919-0653-olives-OFFICIAL-Gapps.zip/download", 
+"filehash":"898a39cc277a7fda481fcb38dd2f399f", 
 "version": "11", 
-"id": "8edf6ea6080fc91a0161fadbdee34c01",
+"id": "898a39cc277a7fda481fcb38dd2f399f",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"me-cafebabe",
-"maintainer_url":"https://t.me/me_cafebabe",
+"maintainer_url":"https://t.me/CherishOS_Mi8937",
 "forum_url":"none"
 }
