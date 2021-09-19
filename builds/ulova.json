@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.8-20210826-1536-ulova-OFFICIAL-Gapps.zip,
-"datetime": 1628992000,
-"size":1265218025, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/ulova/Cherish-OS-v2.8-20210826-1536-ulova-OFFICIAL-Gapps.zip/download", 
-"filehash":"8ec6c3aede1c0bff8ad969433d0d6b2e", 
+"filename": Cherish-OS-v2.9-20210919-1347-ulova-OFFICIAL-Gapps.zip,
+"datetime": 1632059255,
+"size":1267388880, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/ulova/Cherish-OS-v2.9-20210919-1347-ulova-OFFICIAL-Gapps.zip/download", 
+"filehash":"8b361519834ca5be00a58f3c5a641c8b", 
 "version": "11", 
-"id": "8ec6c3aede1c0bff8ad969433d0d6b2e",
+"id": "8b361519834ca5be00a58f3c5a641c8b",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"me-cafebabe",
-"maintainer_url":"https://t.me/me_cafebabe",
+"maintainer_url":"https://t.me/CherishOS_Mi8937",
 "forum_url":"none"
 }
