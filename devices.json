@@ -312,6 +312,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "land",
+      "name": "Redmi 3S / 3S Prime / 3X",
+      "supported_versions": [
+         {
+            "maintainer_name": "me-cafebabe",
+            "maintainer_url": "https://t.me/me_cafebabe",
+            "version_code": "eleven",
+            "version_name": "Eleven",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "ulova",
       "name": "Redmi 4A / 5A / Note 5A / Y1",
       "supported_versions": [
