@@ -3,7 +3,7 @@
 "filename": Cherish-OS-v2.10-20211008-1027-mojito-OFFICIAL-Gapps.zip,
 "datetime":1633688718,
 "size":1624563917, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/mojito/Cherish-OS-v2.10-20211008-1027-mojito-OFFIC>
+"url":"https://sourceforge.net/projects/cherish-os/files/device/mojito/Cherish-OS-v2.10-20211008-1027-mojito-OFFICIAL-Gapps.zip/download", 
 "filehash":"c15dcb627ff64f66b567035c51d2e35c", 
 "version": "11", 
 "id": "c15dcb627ff64f66b567035c51d2e35c",
@@ -12,5 +12,5 @@
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"Tejas_Kamat",
 "maintainer_url":"https://t.me/DrTK001",
-"forum_url":""
+"forum_url":"https://forum.xda-developers.com/"
 }
