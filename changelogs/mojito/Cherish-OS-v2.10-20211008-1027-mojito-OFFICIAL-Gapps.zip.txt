@@ -1,0 +1,59 @@
+Device changelog
+
+Fixed libperfmgr nodes crash
+
+• Added power stats moke service hals
+
+• Smarter decisions on whether to use 2/5Ghz AP
+
+• Disabled wifi firmware logging
+
+• Disabled NUD failure occurs logging
+
+• Added stock permission for hwcomposer service
+
+• Fixed ueventd permissions crash
+
+• Switched to multihal sensor service hal to 2.1
+
+• Enabled Wi-Fi hals power saving
+
+• Switched to Codec2 by default
+
+• Enabled Codec2 input surface
+
+• Enabled dalvik dex2oat64
+
+• Fixed props crashes in logs
+
+• Fixed SDM and ultrasound_extn crashes
+
+• Fixed whatsapp mic delay or crashes
+
+• Improved overall system performance
+
+• Mic issue is completely fixed other variant
+
+• synced with latest evolution sources 
+
+• shipped with west coast kernel 
+
+• Redesigned status bar overlay (New look)
+
+• Added ANX CAMERA
+
+• Added thermal profiles 
+
+• Added Dirac sound 
+
+• Added Xiaomeme parts
+
+• Fixed lag while screen recording
+
+• Shipped with west coast kernel 
+
+• Kernel compiled using proton clang
+
+• Sync With latest sources 
+
+• Updated security patch to october
