@@ -1,0 +1,42 @@
+Changelog v2.10 08/10/2021:
+
+• Merged Oct Security Patch 
+• Add more overlay Monet 
+• LyricTicker: Follow status bar padding 
+• Pulse: Fix potential SystemUI FC 
+• Made IME button space optional 
+• Redesigned Dialer Ui from Octavi
+• Added left and right virtual buttons while typing 
+• Updated battery info every second when device is charging
+• Introduce Battery Landscape | Left Battery Text 
+• Added System Charging Animation  
+• Added VoWiFi/VoLTE Icons 
+• Added sensors off tile  
+• Screen Recording: Redesigned the dialog to match guidelines
+• Improved other systems
+
+Device Changelog: v2.10 15/10/2021
+
+- Added auto Dc dimming
+- Fix Battery percentage overlap on FOD
+- Fixed oos camera crashed,while switching modes
+- Improved auto brightness
+- Improved haptics
+- Fixed pick-up sensor not working
+- Fixed Moto dolby not working in few cases
+- Oneplus Camera Updated to v6.4.66
+- Oneplus Gallery Updated to v4.0.227
+- Cleanup & fixes.
+
+===========
+Notes:
+Camera crash when switching 30fps to 60fps or 1080 to 4K.
+===========
+
+===========
+Credit:
+
+@Mukesh22584 (bug fixing)
+@Passee (tester)
+@TeamCherish-Os
+===========
