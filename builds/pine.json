@@ -1,16 +1,16 @@
 {
 "error":false,
-"filename": Cherish-OS-v2.8-20210805-0358-pine-OFFICIAL-Gapps.zip,
-"datetime": 1628149034,
-"size":1326365507, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/pine/Cherish-OS-v2.8-20210805-0358-pine-OFFICIAL-Gapps.zip/download", 
-"filehash":"8d98d18731cfeb992b263a14bd468b8d", 
+"filename": Cherish-OS-v2.10-20211010-0835-pine-OFFICIAL-Gapps.zip,
+"datetime": 1633854768,
+"size":1407071578, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/pine/Cherish-OS-v2.10-20211010-0835-pine-OFFICIAL-Gapps.zip/download", 
+"filehash":"aeb04ba42dd133f6d17287160ef158ed", 
 "version": "11", 
-"id": "8d98d18731cfeb992b263a14bd468b8d",
+"id": "aeb04ba42dd133f6d17287160ef158ed",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
 "maintainer":"me-cafebabe",
-"maintainer_url":"https://t.me/me_cafebabe",
+"maintainer_url":"https://t.me/CherishOS_Mi8937",
 "forum_url":"none"
 }

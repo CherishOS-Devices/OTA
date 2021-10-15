@@ -1,8 +1,7 @@
-v2.9//
-
-Changelog v2.9 02/09/2021:
+Changelog v2.9 10/09/2021:
  
 • Implemented Monet Wannabe 
+• September Security Patch Merged
 • Added Lottie Animation selection for Keyguard clock styles 
 • Added supported AM/PM for Big OOS clock
 • Added Edge Music Control Gesture
@@ -39,5 +38,18 @@ Changelog v2.9 02/09/2021:
 • Removed gradient picker 
 • Improved other systems
 
-If you like our work you can donate us at
-Paypal :- paypal.me/hungphan2001
+Device Changelog: v2.9 11/09/2021
+
+• Enable & Fix Smart Charging 
+• Boost GPU on specific events  
+• Update Gcam from Parrot043
+• Fine-tune schedutil rate limits
+• Disable cnss_diag service
+• Enable the pre-rendering feature
+• Checkout audio policy configuration to stock
+• Label hwc and hwversion props
+
+===================
+Credits:
+===================
+@ghostrider_reborn 

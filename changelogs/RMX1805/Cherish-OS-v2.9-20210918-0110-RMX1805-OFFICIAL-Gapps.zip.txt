@@ -1,0 +1,31 @@
+v2.9//
+
+Device Changelogs:
+Fp switch to coral september
+Fix battery info denials
+Enable device controls feature in power menu
+Disable slow blur effect to avoid laggish blur effect
+Fix the incorrect mtp property
+Faster face unlock
+Added A12 calculator
+OxygenOS apps and Asus Weather as your wish
+Many more......
+
+-------------
+NOTES:
+-------------
+CTS will be passed and Banking apps will be working considering the cureent Magisk related issues.
+
+--------------------------------------------------------
+Personal Recommendations for smooth and best Experience:
+--------------------------------------------------------
+fw: A.71
+Recovery: Twrp
+Gapps: Nik Core Only for Vanilla build
+Magisk modules: DtsX ultra , ViperFX, Vanced Module 
+
+------------
+Credits:
+------------
+@ryan_ryz
+Team CherishOS
