@@ -1,0 +1,4 @@
+v2.10
+- land + santoni = landtoni
+- Latest Mi8937 Kernel changes
+- Minor changes on device tree

@@ -1,2 +1,0 @@
-v2.9//
-- Initial official build (Tell in @CherishOS_Mi8937 group if you got issues with goodix fingerprint, you'll get a fix)

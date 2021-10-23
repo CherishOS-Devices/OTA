@@ -326,8 +326,8 @@
    },
    {
       "brand": "Xiaomi",
-      "codename": "land",
-      "name": "Redmi 3S / 3S Prime / 3X",
+      "codename": "landtoni",
+      "name": "Redmi 3S / 3X / 4X",
       "supported_versions": [
          {
             "maintainer_name": "me-cafebabe",
