@@ -1,5 +1,0 @@
-v2.10
-
-Device changelog:
-- Many minor changes in device tree
-- Upstreamed kernel to 4.9.285

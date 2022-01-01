@@ -1,9 +1,0 @@
-v2.9//
-- Improved Fingerprint unlock speed on ugg
-- Rebased Kernel to KudProject 4.9.282
-- Switched to AOSP WFD (Thanks to SebaUbuntu)
-- Enabled Lawnchair Launcher for Vanilla builds
-- Fixed In-App Camera Flashlight issue
-- Fixed Notification LED on rolex (Always fine on other devices)
-- Updated Redfin build fingerprint to redfin-user 11 RQ3A.210905.001 7511028 release-keys
-- Maybe more which I didn't remember...

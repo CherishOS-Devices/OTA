@@ -326,22 +326,8 @@
    },
    {
       "brand": "Xiaomi",
-      "codename": "landtoni",
-      "name": "Redmi 3S / 3X / 4X",
-      "supported_versions": [
-         {
-            "maintainer_name": "me-cafebabe",
-            "maintainer_url": "https://t.me/me_cafebabe",
-            "version_code": "eleven",
-            "version_name": "Eleven",
-            "xda_thread": ""
-         }
-      ]
-   },
-   {
-      "brand": "Xiaomi",
-      "codename": "ulova",
-      "name": "Redmi 4A / 5A / Note 5A / Y1",
+      "codename": "mi8937",
+      "name": "Redmi 3S/3X/4A/4X/5A/Note5A/Y1",
       "supported_versions": [
          {
             "maintainer_name": "me-cafebabe",
