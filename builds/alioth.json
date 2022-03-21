@@ -5,12 +5,12 @@
 "size":1715426600,                                                              
 "url":"https://sourceforge.net/projects/cherish-os/files/device/alioth/Cherish-OS-v2.10-20211009-0558-alioth-OFFICIAL-Gapps.zip/download",
 "filehash":"5316e87e546b808ff2c129ccaa8d2576",                                  
-"version": "11",                                                                
+"version": "12",                                                                
 "id": "5316e87e546b808ff2c129ccaa8d2576",                                       
 "donate_url": "https://www.paypal.me/hungphan2001",                             
 "website_url":"https://cherishos.com",                                          
 "news_url":"https:\/\/t.me\/CherishOS",                                         
-"maintainer":"revolwoc",                                                        
+"maintainer":"revolwoc&hungphan2001",                                                        
 "maintainer_url":"https://t.me/revolwoc",                                       
 "forum_url":"https://forum.xda-developers.com/"                                 
 }
