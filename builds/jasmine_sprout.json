@@ -7,10 +7,9 @@
 "filehash":"6360bf3a76abc39fb93a3bc9fa7fb315", 
 "version": "12", 
 "id": "86515404bdbd84999c2446893af1f17457674a7375be868875eb8bd016847de1",
-"donate_url": "https://www.paypal.me/hungphan2001",
-"website_url":"https://sourceforge.net/projects/cherish-os/files/device/",
-"news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"Hung Phan",
-"maintainer_url":"https://t.me/hadesthegod",
-"forum_url":"https://forum.xda-developers.com/"
+"pexv": "4.2", 
+"tg_username": "Hung Phan", 
+"device_name":"Mi A2", 
+"device":"jasmine_sprout", 
+"xda_thread":"https://forum.xda-developers.com/"
 }
