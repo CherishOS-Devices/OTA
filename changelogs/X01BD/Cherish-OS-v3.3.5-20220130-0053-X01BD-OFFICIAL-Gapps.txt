@@ -1,0 +1,6 @@
+v3.3.5 - Official
+
+- Welcome TioBurla
+- X01BD: NFC Fixed
+- X01BD: Recovery not remove
+- X01BD: Kernel Upstream 4.4.299
