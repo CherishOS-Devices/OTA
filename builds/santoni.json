@@ -1,18 +1,16 @@
 {
 "error":false,
-"filename":Cherish-OS-v2.7.5-20210716-1858-santoni-OFFICIAL-Vanilla.zip,
-"datetime":1626462623,
-"size":1381290220,
-"url":"https://sourceforge.net/projects/cherish-os/files/device/santoni/Cherish-OS-v2.7.5-20210716-1858-santoni-OFFICIAL-Vanilla.zip/download"
-"filehash":"da746742607fd4780c87e07b1bf2a9a2",  
-"version": "11", 
-"id": "da746742607fd4780c87e07b1bf2a9a2",
+"filename": Cherish-OS-v3.5.5-20220329-1319-santoni-OFFICIAL-GApps.zip,
+"datetime": 1648567057,
+"size":1401834173, 
+"url":"https://sourceforge.net/projects/cherish-os/files/device/santoni/Cherish-OS-v3.5.5-20220329-1319-santoni-OFFICIAL-GApps.zip/download", 
+"filehash":"da927aabab2ed37b61300fdd35881e68", 
+"version": "12", 
+"id": "da927aabab2ed37b61300fdd35881e68",
 "donate_url": "https://www.paypal.me/hungphan2001",
 "website_url":"https://cherishos.com",
 "news_url":"https:\/\/t.me\/CherishOS",
-"maintainer":"XDDEATH69",
-"maintainer_url":"https://t.me/XDDEATH69",
+"maintainer":"EvilAnsh",
+"maintainer_url":"https://t.me/EvilAnsh",
 "forum_url":"https://forum.xda-developers.com/"
 }
- 
-
