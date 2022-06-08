@@ -1,9 +1,0 @@
-v2.9//
-- Added Miui Camera
-- Fixed Notification LED
-- Switched to AOSP WFD (Thanks to SebaUbuntu)
-- Enabled Lawnchair Launcher for Vanilla builds
-- Updated device specific blobs to MIUI 12.5 Release
-- Using Joel's KudProject 4.9.282 Rebased Kernel (No PRLMK now)
-- Imported SarControllerI from stock fw (Reduces radiation when calling)
-- Updated Redfin build fingerprint to redfin-user 11 RQ3A.210905.001 7511028 release-keys

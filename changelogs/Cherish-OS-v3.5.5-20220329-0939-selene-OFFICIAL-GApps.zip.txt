@@ -1,4 +1,0 @@
-v3.5.5
-
-Rom Changelog :
-Upstream latest source

@@ -1,7 +1,0 @@
-v2.10/.0/
-Device Changelog:
-- remove anx camera
-- scrolling is now more smother
-- switch to immensity kernel
--added twicks to  improved battery backup
-- many more .

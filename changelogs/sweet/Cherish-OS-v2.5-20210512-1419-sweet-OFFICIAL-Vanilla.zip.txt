@@ -1,9 +1,0 @@
-Changelog
-
-Rom side
-- Fixed SysUI crash when using Live wallpaper with Colored UI
-
-Device side
-- Added options to press or touch fingerprint sensor
-- Imported batterysecret for 33w charging (But it maybe not working as you think)
-

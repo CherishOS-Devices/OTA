@@ -1,7 +1,0 @@
-v2.10
-
-Device Changelog:
-- Merged landtoni&ulova as mi8937
-- Lots of changes in device tree and kernel
-- Mi Sound Enhancer (Use any 3rd-party Music apps)
-- Bringing up Android 12 on these 4~6 years old devices slowly...
