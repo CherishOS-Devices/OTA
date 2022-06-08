@@ -1,15 +1,27 @@
 {
-"error":false,
-"filename": "Cherish-OS-v3.6.5-20220502-0931-alioth-OFFICIAL-GApps.zip",
-"datetime": 1651483849,
-"size":1450876595, 
-"url":"https://sourceforge.net/projects/cherish-os/files/device/alioth/Cherish-OS-v3.6.5-20220502-0931-alioth-OFFICIAL-GApps.zip/download", 
-"filehash":"92808c0ef3e8640a39f9ae510516fd39", 
-"version": "12", 
-"id": "92808c0ef3e8640a39f9ae510516fd39",
-"pexv": "4.2", 
-"tg_username": "Hung Phan", 
-"device_name":"Mi A2", 
-"device":"jasmine_sprout", 
-"xda_thread":"https://forum.xda-developers.com/"
+	"response": [
+		{
+			"maintainer": "hungphan2001",
+			"oem": "Mi",
+			"device": "Mi A2/Mi 6X",
+			"filename": "Cherish-OS-v3.8-20220502-0931-XXX-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/alioth/Cherish-OS-v3.6.5-20220502-0931-xxx-OFFICIAL-GApps.zip/download",
+			"timestamp": 1653691812,
+			"md5": "d01dbee4199f86a465c91fc50f9e40c9",
+			"sha256": "e70a3825c06dda847985f9f6ffb79c97223ac64ca5dd6d18335d96318c756983",
+			"size": 1823084252,
+			"version": 3.8,
+			"buildtype": "Cherish OS V3.8 Official",
+			"forum": "https://forum.xda-developers.com/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://eu.dl.twrp.me/alioth/",
+			"paypal": "https://paypal.me/hungphan2001",
+			"telegram": "https://t.me/cherishos",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
