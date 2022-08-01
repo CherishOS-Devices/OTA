@@ -1,23 +1,28 @@
 Read This Before Proceeding :-
 
-After you finish compiling a build, before uploading, you need to type this into your terminal:
+U need made a device.json in builds see and copy 
 
 ```bash 
-     date +%s
+     cd vendor/OTA
 ```
-It will generation for u it is datetime and add it after generate json
 
-Clone the OTA repo in your ROM directory.
-To generate json and push OTA,
+```bash 
+     nano builds/device.json 
+```
+
+Notes : device=codename (alioth.json)
+
+After copy all in alioth.json and paste in device.json just made and save 
+
+To geenerate json will auto made after u build rom.
+
 ```bash
-bash OTA/support/ota.sh <device_codename> <rom_folder> <maintainer_name> <maintainer_url> <forum_url>
-
-e.g.
-bash OTA/support/ota.sh lavender cherish "Hung Phan" https://t.me/hungphan2001 https://forum.xda-developers.com/
+cd  folder_rom/out/target/product/device/device.json
 ```
-After uploading........
+After copy and paste and builds/device.json
+
+Final uploading........
 
 NOTES:
-- ROM directory will look for *home/<os_username>/<rom_folder>*.
 - Use double quotes for parameters with more than a single word, like maintainer name in the example above.
 - All parameters are mandatory.
