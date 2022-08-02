@@ -4,14 +4,14 @@
 			"maintainer": "hungphan2001",
 			"oem": "Mi",
 			"device": "Mi A2/Mi 6X",
-			"filename": "Cherish-OS-v3.8-20220609-1211-jasmine_sprout-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherish-os/files/device/jasmine_sprout/Cherish-OS-v3.8-20220609-1211-jasmine_sprout-OFFICIAL-GApps.zip/download",
-			"timestamp": 1754799414,
-			"md5": "7917a35c0fc9075d6c0fba73f64ec3e2",
-			"sha256": "07437eacdf15ec592e68df2e4bb5ad2436148152b47b8a694f992e154ad4e375",
-			"size": 1398204735,
-			"version": 3.8,
-			"buildtype": "Cherish OS V3.8 Official",
+			"filename": "Cherish-OS-v3.9.5-20220802-1302-jasmine_sprout-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/jasmine_sprout/Cherish-OS-v3.9.5-20220802-1302-jasmine_sprout-OFFICIAL-GApps.zip/download",
+			"timestamp": 1659445273,
+			"md5": "299e0d0da4813cfa2802f0ad0311f1c3",
+			"sha256": "9be4f5c9464e2afb9bd91003ed887295ec57df53151b0d30cac9fc3ae67e18a5",
+			"size": 1286345829,
+			"version": 3.9.5,
+			"buildtype": "Cherish OS V3.9.5 Official",
 			"forum": "https://forum.xda-developers.com/",
 			"firmware": "",
 			"modem": "",
@@ -25,3 +25,4 @@
 		}
 	]
 }
+
