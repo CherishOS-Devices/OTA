@@ -393,5 +393,19 @@
             "xda_thread": ""
          }
       ]
+   },
+   {
+      "brand": "Realme",
+      "codename": "RMX1851",
+      "name": "Realme 3 pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "Cykeek",
+            "maintainer_url": "https://t.me/CykeekBuilds",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
    }
 ]
