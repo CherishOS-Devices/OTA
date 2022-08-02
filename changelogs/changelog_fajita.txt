@@ -3,5 +3,5 @@ Build type: Weekly
 Device: OnePlus 6T
 Device maintainer: vikas(optimusprime)
 
-====01 August, 2022 ====
+====02 August, 2022 ====
 * Initial ota tesing build
