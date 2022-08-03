@@ -1,0 +1,30 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 3 Pro
+Device maintainer: Cykeek
+
+=====3rd august, 2022======
+
+Miscellaneous changes regarding smoothness and RAM Management
+
+Added smarter decision on whether to use 2ghz or 5ghz
+
+Switched to OpenGL rendering (fixed video Green tint issues and LMC Gcam crash)
+
+Disable phantom process monitoring which boosts performance slightly
+
+Disabled SF client composition cache
+
+reduce screenshot delay to 0 sec
+
+adapt screen bar height for June SP
+
+killed IMS logspam
+
+Default Bluetooth and Auto brightness disabled
+
+Disabled Zram writeback which provides better ram management and smoothness in UI
+
+Optimized Ui slightly for a better experience
+
+Reverted Back some magisk hide and sepolicy related commits which causing bootloop and Fingerprint enrollment issues
