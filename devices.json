@@ -13,9 +13,9 @@
          }
       ]
    },
-   
+
    {
-      
+
       "brand": "Asus",
       "codename": "X00TD",
       "name": "Zenfone Max Pro M1",
@@ -79,6 +79,20 @@
          {
             "maintainer_name": "Vikasyaduvanshi",
             "maintainer_url": "https://t.me/OptimussPriime",
+            "version_code": "twelve",
+            "version_name": "twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "OnePlus",
+      "codename": "avicii",
+      "name": "OnePlus Nord",
+      "supported_versions": [
+         {
+            "maintainer_name": "Snippetguy",
+            "maintainer_url": "https://t.me/snippetguy",
             "version_code": "twelve",
             "version_name": "twelve",
             "xda_thread": ""
