@@ -256,6 +256,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "santoni",
+      "name": "Redmi 4/4X",
+      "supported_versions": [
+         {
+            "maintainer_name": "EvilAnsh",
+            "maintainer_url": "https://t.me/EvilAnsh",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "PHOENIX",
       "name": "Poco X2",
       "supported_versions": [

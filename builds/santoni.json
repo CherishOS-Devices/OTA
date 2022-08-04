@@ -1,0 +1,27 @@
+{
+  "response": [
+    {
+	"maintainer": "EvilAnsh",
+	"oem": "Xiaomi",
+	"device": "Redmi 4/4X",
+	"filename": "Cherish-OS-v3.9.5-20220804-1357-santoni-OFFICIAL-Vanilla.zip",
+	"download": "https://sourceforge.net/projects/cherish-os/files/device/santoni/Cherish-OS-v3.9.5-20220804-1357-santoni-OFFICIAL-Vanilla.zip/download",
+	"timestamp": 1659629933,
+	"md5": "60866f7b7b0a5ce5f47eaaa8c80e6e83",
+	"sha256": "f26b04a03bad7d138cb89d79599783ceaf32a49d770c70d2d4820fe74337aa93",
+	"size": 872889373,
+	"version": "3.9.5",
+	"buildtype": "Monthly",
+	"forum": "",
+	"gapps": "https://t.me/crDroidSantoni/79045",
+	"firmware": "https://xiaomifirmwareupdater.com/download/?file=fw_santoni_miui_HM4XGlobal_V11.0.2.0.NAMMIXM_eae1390b46_7.1.zip",
+	"modem": "",
+	"bootloader": "",
+	"recovery": "https://t.me/jabiyeff_caf/114",
+	"paypal": "",
+        "telegram": "https://t.me/AnshPrjkt",																	  "dt": "https://github.com/CherishOS-Devices/device_xiaomi_santoni",
+	"common-dt": "",
+	"kernel": "https://github.com/EvilAnsh/kernel_xiaomi_santoni"
+    }
+  ]																	
+}

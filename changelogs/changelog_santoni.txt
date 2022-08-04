@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi 4/4X (santoni)
+Device maintainer: Ansh Singh (EvilAnsh)
+Required firmware: v45 or higher
+
+===== 2022.08.04 =====
+• Synced Latest CherishOS v3.9.5 changes
+• Updated to July security patch
+• Fixed VoLTE issue on before july release
+• Kernel: 4.9.227 (CAF)-LA.UM.10.6.2.r1-02200-89xx.0 (Clang 14.0.2)
+• Misc. Fixes and Improvements
