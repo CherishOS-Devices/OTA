@@ -1,14 +1,11 @@
- Highlights & Device Specific Changes:
- Build type: Monthly
- Device: Xiaomi Mi A3
- Device maintainer: RAYAN
-  
- ====02 August , 2022=====
+====04 August , 2022=====
 
-# Added miui camera
-# Added Dolby Atmos
-# Added updated pixel mod launchr 
-# Enable force fast charging by increasing 900ma
+# Added miui camera 
+# Added Dolby Atmos Added updated pixel mod launchr Enable force 
+# fast charging by increasing 900ma
 # Increase speaker and mice volume Increase 
-# haptic feedback Ui smoother tweak
-# Kernel upstreamed
+# haptic feedback Ui smoother tweak 
+# Kernel upstreamed to v4.14.289
+# Enable screen of udfps Better stability and accuracy 
+# Added smart charging
+# Updated config  for S

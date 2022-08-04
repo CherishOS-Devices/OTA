@@ -448,6 +448,19 @@
            "xda_thread": ""
          },
       ]
+      {
+     "brand": "Xiaomi",
+     "codename": "laurel_sprout",
+     "name": "Mi A3",
+     "supported_versions": [
+        {
+           "maintainer_name": "RAYAN",
+           "maintainer_url": "https://t.me/Universeworldbekind",
+           "version_code": "twelve",
+           "version_name": "Twelve",
+           "xda_thread": ""
+         },
+      ]
      {
      "brand": "Xiaomi",
      "codename": "certus",
