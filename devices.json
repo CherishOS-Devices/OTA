@@ -102,6 +102,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "SURYA/KARNA",
+      "name": "Poco X3 NFC",
+      "supported_versions": [
+         {
+            "maintainer_name": "PranjalSingh™",
+            "maintainer_url": "https://t.me/HornyKarna",
+            "version_code": "twelve",
+            "version_name": "twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "lmi",
       "name": "Redmi K30 Pro / POCO F2 Pro",
       "supported_versions": [
