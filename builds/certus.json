@@ -1,0 +1,24 @@
+{
+          "response": [
+                {
+                        "maintainer": "Chikoni_UwU",
+                        "oem": "",
+                        "device": "Redmi 6/6a",
+                        "filename": "Cherish-OS-v3.9.5-20220804-1427-certus-OFFICIAL-Vanilla.zip",                                                                              "download": "https://sourceforge.net/projects/cherish-os/files/device/certus/Cherish-OS-v3.9.5-20220804-1427-certus-OFFICIAL-Vanilla.zip/download",                                                                                 "timestamp": 1659623256,
+                        "md5": "7adf60d22af12bdaf26e89e3107f8b0e",
+                        "sha256": "30aa65f64844c17ee419913c31ef894cfbbc2028a3362c377ec4108929f4f7d1",                                                                           "size": 723873971,                                                          "version": 3.9.5,
+                        "buildtype": "vanilla",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "t.me/chikoniroms",
+                        "dt": "https://github.com/cherishos-devices/device_xiaomi_certus",
+                        "common-dt": "",
+                        "kernel": "https://github.com/cherishos-devices/kernel_xiaomi_mt6765"
+                }
+        ]
+}
