@@ -19,7 +19,8 @@
 	"bootloader": "",
 	"recovery": "https://t.me/jabiyeff_caf/114",
 	"paypal": "",
-        "telegram": "https://t.me/AnshPrjkt",																	  "dt": "https://github.com/CherishOS-Devices/device_xiaomi_santoni",
+        "telegram": "https://t.me/AnshPrjkt",
+	"dt": "https://github.com/CherishOS-Devices/device_xiaomi_santoni",
 	"common-dt": "",
 	"kernel": "https://github.com/EvilAnsh/kernel_xiaomi_santoni"
     }
