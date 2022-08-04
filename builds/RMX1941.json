@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "ADI",
+			"oem": "REALME",
+			"device": "REALME C2",
+			"filename": "Cherish-OS-v3.9.5-20220803-1626-RMX1941-OFFICIAL-Vanilla.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/RMX1941/Cherish-OS-v3.9.5-20220803-1626-RMX1941-OFFICIAL-Vanilla.zip/download",
+			"timestamp": 1659543871,
+			"md5": "e99f95cadd60e5ad5c53eac60431394f",
+			"sha256": "b1a1d89d037c83dd7ec729867fecdec51e6d6e681cff06bef0d473cdd61f9d34",
+			"size": 1158589121,
+			"version": 3.9.5,
+			"buildtype": "Active Development Releases",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "NikGapps",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://eu.dl.twrp.me/RMX1941/",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/Adi_builds",
+			"dt": "https://github.com/Adi-sdm/android_device_realme_RMX1941",
+			"common-dt": "",
+			"kernel": "https://github.com/P-Salik/kernel_realme_RMX1941"
+		}
+	]
+}
