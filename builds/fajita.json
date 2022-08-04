@@ -1,29 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "vikas yaduvanshi",
-                        "oem": "OnePlus",
-                        "device": "OnePlus 6T",
-                        "filename": "Cherish-OS-v3.9-20220801-1046-fajita-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/fajita/Cherish-OS-v3.9-20220802-0633-fajita-OFFICIAL-GApps.zip/download",
-                        "timestamp":1659423443,
-                        "md5": "53d893269f0190043f7789ba3035ddb8",
-                        "sha256": "f6de5855b31682975d2868a4f009c3a071b7e0bf1baf4b45802e738a693d95cd",
-                        "size": 1450644708,
-                        "version": 3.9,
-                        "buildtype": "Active Development Releases",
-                        "forum": "",
-			             "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "https://t.me/op6serieshub",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
- }
- 
+	"response": [
+		{
+			"maintainer": "vikas yaduvanshi",
+			"oem": "OnePlus",
+			"device": "OnePlus 6T",
+			"filename": "Cherish-OS-v3.9.5-20220804-1214-fajita-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/fajita/Cherish-OS-v3.9.5-20220804-1214-fajita-OFFICIAL-GApps.zip/download",
+			"timestamp": 1659615211,
+			"md5": "f17a9f772ca568ebb86c0f3c1f6efc4b",
+			"sha256": "31aa0e0f04a13236ab19b5693d34c4208727e7c9264b531adc2e41a7e53bfa59",
+			"size": 1456902817,
+			"version": 3.9.5,
+			"buildtype": "Active Development Releases",
+			"forum": "",
+            "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/oneplus-6-series/files",
+			"paypal": "http://www.paypal.me/vikasyaduvanshii",
+			"telegram": "https://t.me/op6serieshub",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
