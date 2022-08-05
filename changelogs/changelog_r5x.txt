@@ -1,0 +1,26 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 5 Series (5/5i/5s/NFC)
+Device maintainer: Christopher Keith Irvine (MAdMiZ)
+Required firmware: Realme UI c.67 or higher
+
+===== 2022.08.05 =====
+× Fully Fixed Random Freeze For Few Units
+× Disabled Post Render CleanUp
+× Fixed Lag On YouTube 1440p/2k Video Playback
+× Addressed Some More Denials
+× Fixed Low Mic Volume Input
+× RealmeDirac: Adapt To SnowCone UI And Update Strings
+× Update PowerHint From Pixel
+× Fixed Slow Charging While Display Is On
+× Many More Improvements Under The Hood
+× Upstreamed Kernel To 4.14.290
+× Fixed Battery Status Info
+× Fully Fixed AUX Cameras
+× Fully Fixed NFC
+× Enabled USB Force FastCharge By Default
+× Fixed GPS Accuracy For Asia (Now Lightning Fast)
+× Disabled Phantom Process Monitoring
+× Switched to OPlus AIDL Power HAL
+× Fixed Every Mic Isses
+× Many More Improvements Under The Hood
