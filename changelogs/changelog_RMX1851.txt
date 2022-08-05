@@ -11,20 +11,17 @@ Added smarter decision on whether to use 2ghz or 5ghz
 
 Switched to OpenGL rendering (fixed video Green tint issues and LMC Gcam crash)
 
-Disable phantom process monitoring which boosts performance slightly
-
-Disabled SF client composition cache
-
 reduce screenshot delay to 0 sec
 
 adapt screen bar height for June SP
 
-killed IMS logspam
-
-Default Bluetooth and Auto brightness disabled
-
 Disabled Zram writeback which provides better ram management and smoothness in UI
 
-Optimized Ui slightly for a better experience
-
 Reverted Back some magisk hide and sepolicy related commits which causing bootloop and Fingerprint enrollment issues
+
+=====5th august, 2022======
+
+* Fixed selinux issues where selinux shows permissive instead of enforcing 
+* Fixed USB 3 issues on Fastboot (May be Buggy)
+* Now CTS profile is passed (added Raven July Fingerprint)
+
