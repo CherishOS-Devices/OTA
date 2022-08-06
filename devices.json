@@ -1,5 +1,19 @@
 [
    {
+      "brand": "Realme",
+      "codename": "X2",
+      "name": "Realme X2",
+      "supported_versions": [
+         {
+            "maintainer_name": "VISHAL",
+            "maintainer_url": "https://t.me/vishal_buildsforX2",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "brand": "realme",
       "codename": "RMX1831",
       "name": "Realme U1",
