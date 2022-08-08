@@ -14,6 +14,20 @@
       ]
    },
    {
+      "brand": "Realme",
+      "codename": "CPH1859",
+      "name": "Realme 1",
+      "supported_versions": [
+         {
+            "maintainer_name": "MARK99",
+            "maintainer_url": "https://t.me/ark_mark99",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "brand": "realme",
       "codename": "RMX1831",
       "name": "Realme U1",
