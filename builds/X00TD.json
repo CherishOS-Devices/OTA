@@ -1,0 +1,26 @@
+{
+    "response": [{
+        "maintainer": "NotHarshhaa",
+        "oem": "Asus",
+        "device": "X00TD",
+        "filename": "Cherish-OS-v3.9.5-20220813-1800-X00TD-OFFICIAL-Vanilla.zip",
+        "download": "https://sourceforge.net/projects/cherish-os/files/device/X00TD/Cherish-OS-v3.9.5-20220813-1800-X00TD-OFFICIAL-Vanilla.zip/download",
+        "timestamp": 1660413606,
+        "md5": "bebf502a274e6638eada9c06d32652f5",
+        "sha256": "3cb9b71c3f3ebbfd121fd0079b4adaa12d3b340cf6024b0c7c44e7198c2af59b",
+        "size": 1077590214,
+        "version": 3.9 .5,
+        "buildtype": "Active Development Releases",
+        "forum": "https://t.me/cherishOS",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/hungphan2001",
+        "telegram": "https://t.me/CherishOS",
+        "dt": "",
+        "common-dt": "",
+        "kernel": ""
+    }]
+}

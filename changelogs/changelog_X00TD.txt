@@ -1,0 +1,23 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Asus Zenfone Max Pro M1(X00TD)
+Device maintainer: NotHarshhaa
+
+====15 August, 2022 ====
+• Reverted FP to Stock
+• Enabled config_avoidGfxAccel for 3GB variants
+• Added back thermal-engine definition
+• Overlay: Don't pin launcher app in memory
+• Props: Enabled GL comp backpressure
+• Props: Disabled ahardware buffer
+• Added missing vendor properties
+• Updated SF offset duration
+• Props: Disabled client composition cache
+• Props: Set UI rendering Skiagl with skiaglthreaded
+• Props: Enabled skia reduceOpsTaskSplitting
+• Overlay: Added wifi tcp buffer overlay
+• Props: Dropped all SF offset related props
+• Updated SurfaceFlinger pin on all targets
+• Fixed all camera issues
+• Fixed Gcam lags
+• Misc small improvements and bug fixes
