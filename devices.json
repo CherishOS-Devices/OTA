@@ -186,6 +186,19 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "picasso",
+      "name": "Redmi K30 5G",
+      "supported_versions": [
+         {
+            "maintainer_name": "masarou",
+            "maintainer_url": "https://github.com/masarou",
+            "version_code": "twelve",
+            "version_name": "Twelve",
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "mojito",
       "name": "Redmi Note 10",
       "supported_versions": [

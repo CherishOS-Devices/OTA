@@ -1,27 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "Minh Son",
-                        "oem": "Redmi",
-                        "device": "Redmi K30 5G",
-                        "filename": "Cherish-OS-v3.9.5-20220805-1712-picasso-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/picasso/Cherish-OS-v3.9.5-20220805-1712-picasso-OFFICIAL-GApps.zip/download",
-                        "timestamp": 1459701630,
-                        "md5": "4004e0dc09a10e6da35a09f51109f526",
-                        "sha256": "6e491d5101bdf1e8c0c8093e36be16e1b7bd5f47b0dbe1875f6b1668ad17434f",
-                        "size": 1698857065,
-                        "version": 3.9.5,
-                        "buildtype": "Active Development Releases",
-                        "forum": "https://t.me/cherishOS",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "https://www.paypal.me/hungphan2001",
-                        "telegram": "https://t.me/CherishOS",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "masarou",
+			"oem": "Redmi",
+			"device": "Redmi K30 5G",
+			"filename": "Cherish-OS-v3.9.5-20220815-1302-picasso-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/picasso/Cherish-OS-v3.9.5-20220815-1302-picasso-OFFICIAL-GApps.zip/download",
+			"timestamp": 1660568332,
+			"md5": "b6a6d8f94f463b41cc51720e72741800",
+			"sha256": "f77ebecbeb901839b0ac2cc8e5e0f65dc6d0cec641bcf8c614f4bd50d779b4da",
+			"size": 2199818124,
+			"version": 3.9.5,
+			"buildtype": "Active Development Releases",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/CherishOS",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
 }
