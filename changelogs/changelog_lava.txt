@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+ Build type: Monthly
+ Device: xiaomi Redmi 9/Poco M2
+ Device maintainer: marat2509&orkunergun
+  
+ ====10 August , 2022=====
+
+• Bump to 3.9.5
+• July security patch
+• New powerhal changes from bengris32
