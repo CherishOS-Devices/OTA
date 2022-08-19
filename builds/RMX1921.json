@@ -4,12 +4,12 @@
                         "maintainer": "Anuj Barwal",
                         "oem": "Realme",
                         "device": "Realme XT",
-                        "filename": "Cherish-OS-v3.9.5-20220815-0636-RMX1921-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/RMX1921/Cherish-OS-v3.9.5>                        
-                        "timestamp": 1660545367,
-                        "md5": "6160a4fd184aff227cd2fdac04b26f6e",
-                        "sha256": "a6245845705fbacef7a2ec392f7043992ee962e86e5d595fdc0b61cfa7056a5c",
-                        "size": 1844605538,
+                        "filename": "Cherish-OS-v3.9.5-20220817-0410-RMX1921-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/RMX1921/Cherish-OS-v3.9.5-20220817-0410-RMX1921-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1660709349,
+                        "md5": "52b4ad76213276b0a5f2df4f9259f1dc",
+                        "sha256": "d0e899ac1989a88d9779667aaa4831b19fd72ed1f82a716035b1b34a78f96422",
+                        "size": 1825998020,
                         "version": 3.9.5,
                         "buildtype": "Active Development Releases",
                         "forum": "https://t.me/cherishOS",
@@ -26,3 +26,4 @@
                 }
         ]
 }
+
