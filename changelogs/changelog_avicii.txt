@@ -1,0 +1,16 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Oneplus Nord
+Device maintainer: Snippetguy
+
+=====5th august, 2022======
+
+-Added overlay for smart pixels
+
+-disabled night light FOD
+
+-Added overlay for pocket lock
+
+-Added show min/max in display settings
+
+-Switched to PTC kernel
