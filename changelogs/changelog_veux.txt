@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco
+Device maintainer: Monu
+
+=====20th Sept, 2022======
+
+- Fixed recovery sdcard and otg support
+- Fixed mtp not working
+- Some mics fixes
