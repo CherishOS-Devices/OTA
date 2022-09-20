@@ -14,6 +14,20 @@
       ]
    },
    {
+      "brand": "Xiaomi",
+      "codename": "veux",
+      "name": "Poco x4 Pro 5G/Redmi Note 11 Pro 5G",
+      "supported_versions": [
+         {
+            "maintainer_name": "Monu",
+            "maintainer_url": "https://t.me/Monu_ohlyan",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
 
       "brand": "Realme",
       "codename": "CPH1859",
