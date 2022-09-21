@@ -1,0 +1,9 @@
+Device: lavender
+Device maintainer: Shizukachanwa
+
+=====21th Sept, 2022======
+
+- DT2W Fixed
+- Night Light and Extra Dim Fixed
+- Deep Sleep Fixed
+- Shipped kernel wirh Nexus 10.1 QTI
