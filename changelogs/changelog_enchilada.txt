@@ -1,23 +1,9 @@
 Highlights & Device Specific Changes:
 Build type: boi-Weekly
 Device: OnePlus 6
-Device maintainer: vikas(optimusprime)
+Device maintainer: vikas.optimusprime
 
-====11 August, 2022 ====
-Device changelog:(04/08/2022)
--Sync with new updated sources 11/08/2022
--Rom source sie lots of fixes /and ui changes /improvemnets done
--Added prebuilt: Update GrapheneOS Camera
--Fixed oneplus TouchGestures 
--bring back android auto pre-built app
--livedisplay: Drop SunlightEnhancement & AntiFlicker 
--hidl: inscreen: Set thread to high CFS priority 
--Check PRODUCT_SOONG_NAMESPACES instead of BOARD_VENDOR in build guard 
--KeyHandler: Restore state on boot 
--Disable debug.sf.latch_unsignaled from prop , reduces notification flicker, UI performance
--init: Change Acess permission to hide Magisk in banking apps
--Updated Primus Kernel to 4.9.258
--Update Default Clang to clang 14.0.2 r445002
--Silence clang warnings during kernel compile 
--Safetynet passes by default
--Minor improvements 
+====21 Sept, 2022 ====
+Device changelog:(21/09/2022)
+-stable a13 official bringup
+ 
