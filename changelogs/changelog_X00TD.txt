@@ -3,21 +3,26 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====15 August, 2022 ====
-• Reverted FP to Stock
-• Enabled config_avoidGfxAccel for 3GB variants
-• Added back thermal-engine definition
-• Overlay: Don't pin launcher app in memory
-• Props: Enabled GL comp backpressure
-• Props: Disabled ahardware buffer
-• Added missing vendor properties
-• Updated SF offset duration
-• Props: Disabled client composition cache
-• Props: Set UI rendering Skiagl with skiaglthreaded
-• Props: Enabled skia reduceOpsTaskSplitting
-• Overlay: Added wifi tcp buffer overlay
-• Props: Dropped all SF offset related props
-• Updated SurfaceFlinger pin on all targets
-• Fixed all camera issues
-• Fixed Gcam lags
+====21 September, 2022 ====
+• Synced with latest cherish source changes
+• Decrypted by default
+• audio: Use qcom implementation for sw effects
+• overlay: Allow more cached apps in the background
+• overlay: Compact cached app heaps in the background
+• rootdir: restart qcrild on data switch
+• overlay: Add night display color temperature calibration from coral
+• props: Added few props for performance
+• rootdir: Remove unsupported fstab flag
+• fstab: Switch zram swap to /data/per_boot
+• props: Use dex2oat64 on our device
+• CTS passed by default
 • Misc small improvements and bug fixes
+
+=> Notes : -
+• SELinux Enforcing
+• OTA Support added
+• GApps are included
+• Based on 4.4 kernel , NON-FBE
+• Orfox R11.1/BRP/Twrp-3.6.1_9.0 recovery is recommended
+• Recommended Firmware : 063,087 and higher
+• Clean flash is necessary
