@@ -408,6 +408,20 @@
       ]
    },
    {
+      "brand": "Xiaomi",
+      "codename": "beryllium",
+      "name": "Pocophone F1",
+      "supported_versions": [
+         {
+            "maintainer_name": "AYUSH",
+            "maintainer_url": "https://t.me/baka_hokage",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
       "brand": "sony",
       "codename": "honami",
       "name": "Sony Xperia Z1",

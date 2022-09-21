@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Pocophone F1
+Device maintainer: AYUSH
+
+=====20th Sept, 2022======
+
+- Initial Build
+- Fixed WFD
+- Fixed MTP
+- Fixed QS lag
