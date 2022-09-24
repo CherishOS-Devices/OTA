@@ -4,6 +4,13 @@ Device: Redmi 4/4X (santoni)
 Device maintainer: Ansh Singh (EvilAnsh)
 Required firmware: v45 or higher
 
+===== 2022.09.23 =====
+• Synced Latest CherishOS v4.0.5 changes
+• Initial Android 13 release
+• Kernel: Switched to Evil-Kernel v1.1 4.9.329 (Compiled with Cosmic Clang)
+• Known Issue: BT Audio
+• Misc. Fixes and Improvements
+
 ===== 2022.08.04 =====
 • Synced Latest CherishOS v3.9.5 changes
 • Updated to July security patch
