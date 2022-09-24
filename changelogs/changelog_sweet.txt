@@ -1,0 +1,12 @@
+Device: Redmi Note 10 Pro
+Device maintainer: Niranjan & Cykeek
+
+=====24th september, 2022======
+• Update blobs from MIUI V13.0.13.0.SKFEUXM
+• Added back Moto dolby
+• Disable debug.sf.enable_hwc_vds
+• parts: Move Thermal Profiles to battery section
+• Disallow aux cam usage for Telegram / Telegram X
+• Add night display color temperature calibration from Coral
+• Disable intrusive gms components
+• Added props for  smoother scrolling and better responsiveness

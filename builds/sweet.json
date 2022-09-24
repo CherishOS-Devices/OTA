@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Niranjan&Cykeek",
+			"oem": "Redmi",
+			"device": "Redmi note 10 Pro",
+			"filename": "Cherish-OS-v4.0.5-20220923-1438-sweet-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/sweet/Cherish-OS-v4.0.5-20220923-1438-sweet-OFFICIAL-GApps.zip/download",
+			"timestamp": 1659464521,
+			"md5": "bc09c0e083c5f1320979d209adfbf267",
+			"sha256": "4dd5bf8008928e597a305aef885c8ac5ce9909116bedd5b7a3483a255c50f379",
+			"size": 1817741916,
+			"version": 4.0.5,
+			"buildtype": "Active Development Releases",
+			"forum": "https://t.me/cherishOS",
+			"gapps": "",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/sweet/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://t.me/foxbuilds/93695",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/foxbuilds",
+			"dt": "https://github.com/sm6150/device_xiaomi_sweet",
+			"common-dt": "https://github.com/sm6150/device_xiaomi_sm8150-common",
+			"kernel": "https://github.com/sm6150/kernel_xiaomi_sm8150"
+		}
+	]
+}
