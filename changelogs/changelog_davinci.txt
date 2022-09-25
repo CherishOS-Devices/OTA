@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi 9T
+Device maintainer: Ruais
+
+=====24th Sept, 2022======
+
+- Initial Build
+- Updated Adreno drivers from LA.UM.9.14.r1-20200-LAHAINA.QSSI13.0.
+- Switched to MiniGapps package
+- Includes Graphene Camera
