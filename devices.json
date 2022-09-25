@@ -28,6 +28,20 @@
       ]
    },
    {
+      "brand": "Xiaomi",
+      "codename": "munch",
+      "name": "Redmi K40S/Poco F4 5G",
+      "supported_versions": [
+         {
+            "maintainer_name": "HDzungx",
+            "maintainer_url": "https://t.me/hdzungx",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
 
       "brand": "Realme",
       "codename": "CPH1859",
