@@ -3,8 +3,8 @@ Build type: Monthly
 Device: Poco
 Device maintainer: Monu
 
-=====21th Sept, 2022======
+=====26th Sept, 2022======
 
-- Initial OTA test
+- Hotfix build
 - Sync with latest source 
-- Some fixes under the hood
+- Fixed mtp not working for some users
