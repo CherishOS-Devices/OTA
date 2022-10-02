@@ -231,10 +231,10 @@
       "name": "Redmi Note 10",
       "supported_versions": [
          {
-            "maintainer_name": "Tejas Kamat",
-            "maintainer_url": "https://github.com/DrTK001",
-            "version_code": "eleven",
-            "version_name": "Eleven",
+            "maintainer_name": "Ahmed Arefin",
+            "maintainer_url": "https://github.com/asrafin",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
             "xda_thread": ""
          }
       ]
