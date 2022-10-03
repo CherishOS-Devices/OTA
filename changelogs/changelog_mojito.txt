@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10
+Device maintainer: Arefin
+
+=====3rd October, 2022======
+- Update blobs from MIUI V13.0.10.SKGMIXM
+- Hotfix build
+- Sync with latest source
