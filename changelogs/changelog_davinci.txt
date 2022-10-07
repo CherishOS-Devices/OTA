@@ -1,7 +1,15 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi 9T
-Device maintainer: Ruais
+Device maintainer: Rumais
+
+=====07th Oct, 2022======
+
+- Update to CherishOS 4.1
+- Added Vibration Control
+- Corrected Statusbar padding
+- More under the hood changes
+
 
 =====24th Sept, 2022======
 
