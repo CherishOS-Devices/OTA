@@ -3,18 +3,20 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====21 September, 2022 ====
+====07 October, 2022 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• audio: Use qcom implementation for sw effects
-• overlay: Allow more cached apps in the background
-• overlay: Compact cached app heaps in the background
-• rootdir: restart qcrild on data switch
-• overlay: Add night display color temperature calibration from coral
-• props: Added few props for performance
-• rootdir: Remove unsupported fstab flag
-• fstab: Switch zram swap to /data/per_boot
-• props: Use dex2oat64 on our device
+• Updated to OCT raven FP
+• October security patch
+• Disabled compressed APEX
+• Updated ZRAM configuration
+• Cleanup and refactored audio_amplifier
+• Imported stock Dalvik heap overrides
+• Added qmi_fw configs
+• camera: Disabled thermal adapter
+• camera: Use the largest fps range during video record
+• camera: Improve ZSL/HDR processing
+• Disabled HW overlays
 • CTS passed by default
 • Misc small improvements and bug fixes
 
