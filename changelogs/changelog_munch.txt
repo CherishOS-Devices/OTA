@@ -2,15 +2,13 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-=====25th september, 2022======
+=====9th october, 2022======
 
-Synced Latest CherishOS v4.0.5 changes
-
-Bluetooth fixed
-
-Prebuilt MGC GCam by Parrot043
-
-Update MIUI blobs to Global_V13.0.5.0.SLMMIXM
-
+Add Dolby Atmos (Thanks to @johnmart19)
+Add Per-app refresh rate
+Update audio props from stock
+Improve Audio quality.
+Import LDAC & LHDC prebuilts
+Import vibrator effect
+Synced with latest Cherish sources
 Misc. Fixes and Improvements
-

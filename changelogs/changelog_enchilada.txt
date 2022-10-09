@@ -1,22 +1,84 @@
 Highlights & Device Specific Changes:
 Build type: boi-Weekly
-Device: OnePlus 6
+Device: OnePlus 6T
 Device maintainer: vikas(optimusprime)
 
-====11 August, 2022 ====
-Device changelog:(04/08/2022)
--Sync with new updated sources 11/08/2022
--Rom source sie lots of fixes /and ui changes /improvemnets done
--Added prebuilt: Update GrapheneOS Camera
--Fixed oneplus TouchGestures 
--bring back android auto pre-built app
+====10 September 2022, 2022 ====
+
+Changelog CherishOS v4.0.5 + CherishOS v4.1 10/10/2022
+- Merge Oct Patch 
+- Added applock
+- Added animations to quick settings tiles
+- Added interpolators to qs tiles animation
+- Added Power/reboot menu transparency
+- Added custom monet from protonOS
+-Added doubletap/longpress power to toggle torch 
+- Added Display actual charge tech in battery settings
+- Added Display Turbo charging in battery settings 
+- Added refactor statusbar bluetooth icon 
+- Added ability to toggle bluetooth battery level 
+- Added option app icons in statusbar optional
+-Added notification counters
+- Added vanilla builds
+-Fixed bug Device that can't support adoptable storage cannot read the sdcard.
+- Fixed list style alert dialog to use system font 
+- Fixed crash/race condition when destroyActivity 
+- Fixed bluetooth pan memory leakage
+-WallpaperService: Fixed half black wallpaper after rotating quickly
+- Updated to various icons
+-Shorten wait time for shutdown time optimization
+- Improved other systems
+- Added support VoWIFI icons
+- Added cutout force full screen
+- Added option ripple effect on unlock 
+- Added UDFPS icons and animations
+- Added FOD pressed colors 
+- Added Custom(User Selected) UDFPS Icon
+- Added Custom LS Clock Support
+- Added refresh rate tile
+- Added Custom settings layout 
+- Added Bluetooth Panel instead of full Settings
+- Added Mobile Data panel 
+- Added reticker
+- Added navigation mode settings
+- Added ZCAM implementation with sRGB interface 
+- Added support center and right position in Status bar Clock background chip
+- Added Integrate Google Lens into Screenshot UI 
+- More slower & Gradual QS Fade-in/out animation in QS Tile
+- Made QS Ripple animation more prominent in QS Tile
+- Fixed the problem with some apps show not supported for this device
+- Fixed the problem with mobile data/wifi tile qs
+- Fixed QS expand lag when VoLTE/VoWiFi icons are enabled 
+- Fixed pm cache directory invalidate on new builds 
+- Fixed the hardware volume key not work after the screen off
+- Fixed shutter sound 
+- Fixed can not read the storage in cherish recovery
+- ThemedIcons: Bring some more icons
+- Improved other systems
+
+
+
+Device changelog:(10/08/2022)
+
+--Updated Primus Kernel to 4.9.309
+-Include udfps animation
+-verlay: Set BT controller voltage in the power profile
+-Sync audio props with OOS 11 
+-sepolicy: Allow fingerprint rw access for soc:fpc_fpc1020
+-Remove deprecated TARGET_USES_QTI_CAMERA_DEVICE 
+-proprietary-files update missing camera blobs 
+- Switch to AOSP Bluetooth
+-Removed audio A2dp from device.mk 
+-sdm845-common: Fix typo when copying media_codecs_google_video_le  
+-Revert "sdm845-common: Make enchilada goodix FP HAL loadable
 -livedisplay: Drop SunlightEnhancement & AntiFlicker 
 -hidl: inscreen: Set thread to high CFS priority 
+-fingerprint: Add blank callbacks for udfps 
 -Check PRODUCT_SOONG_NAMESPACES instead of BOARD_VENDOR in build guard 
 -KeyHandler: Restore state on boot 
 -Disable debug.sf.latch_unsignaled from prop , reduces notification flicker, UI performance
 -init: Change Acess permission to hide Magisk in banking apps
--Updated Primus Kernel to 4.9.258
+-Updated Primus Kernel to 4.9.309
 -Update Default Clang to clang 14.0.2 r445002
 -Silence clang warnings during kernel compile 
 -Safetynet passes by default
