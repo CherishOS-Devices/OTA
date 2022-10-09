@@ -269,6 +269,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "Mi439",
+      "name": "Redmi 7A/8/8A/8A Pro/8A Dual (mi439)",
+      "supported_versions": [
+         {
+            "maintainer_name": "RaidenIshigami",
+            "maintainer_url": "https://t.me/raidenprjkts",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "laurel_sprout",
       "name": "Xiaomi Mi A3",
       "supported_versions": [
