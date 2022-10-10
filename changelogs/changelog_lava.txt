@@ -3,6 +3,12 @@ Highlights & Device Specific Changes:
  Device: xiaomi Redmi 9/Poco M2
  Device maintainer: marat2509&orkunergun
   
+=====08th Oct, 2022======
+
+- Update to CherishOS 4.1
+- Initial A13 Build
+- October Security Patch
+
  ====10 August , 2022=====
 
 • Bump to 3.9.5
