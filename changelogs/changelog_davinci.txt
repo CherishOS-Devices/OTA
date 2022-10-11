@@ -3,6 +3,11 @@ Build type: Monthly
 Device: Mi 9T
 Device maintainer: Rumais
 
+=====11th Oct, 2022======
+
+- Fixed GooglePay not working
+- Spoofed device fp for cts profile mismatch on Play integrity api checker
+
 =====07th Oct, 2022======
 
 - Update to CherishOS 4.1
