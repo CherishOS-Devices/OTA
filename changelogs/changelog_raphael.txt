@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi 9T Pro / Redmi K20 Pro
+Device maintainer: DanipunK1
+
+=====10th Oct, 2022======
+
+
+- Added OTA support 
+- Set Cian as default UDFPS pressed color
+- Update surfaceflinger props
+- Kang libcdfw_remote_api.so from davinci and added Libshim
+- Camera shim improvement 
+- Shim the GetPreviewImageData symbol on libpiex
+- Enable VoLTE and VoWIFI support for Movistar
+- Fixed Sim Lock after reboot with some carriers
+
