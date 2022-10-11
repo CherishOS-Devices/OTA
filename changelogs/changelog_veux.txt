@@ -3,8 +3,7 @@ Build type: Monthly
 Device: Poco
 Device maintainer: Monu
 
-=====26th Sept, 2022======
+=====09th Oct, 2022======
 
-- Hotfix build
 - Sync with latest source 
-- Fixed mtp not working for some users
+- Lazy to write feel urself and explore
