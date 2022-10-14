@@ -1,0 +1,32 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi439
+Device maintainer: RaidenIshigami
+
+=====14th october 2022======
+
+• Cleanup commit history
+
+• Re-categorize some commits for each android versions branches
+
+• Update init scripts/GPS stack/configs to LA.UM.9.6.3.r1-06200-89xx.0
+
+• Initial support for kernel 4.19 based on LA.UM.9.6.3.r1-06200-89xx.0
+
+• Add Framework Manifest and Framework Compatibility Matrix
+
+• [A13] Migrate to AIDL ClearKey DRM HAL
+
+• [A13] More Bluetooth fixes
+
+• [A13] Remove Extra VNDKs in system
+
+• [Mi439_4_19] Initial device tree bringup for kernel 4.19
+
+• Misc changes
+
+• Kernel:
+
+• [Mi439_4_19] Switch to LOLZ kernel
+
+• [Mi439] Upstream to 4.9.329
