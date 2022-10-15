@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "RaidenIshigami",
+                        "oem": "Xiaomi",
+                        "device": "Mi439",
+                        "filename": "Cherish-OS-v4.1-20221014-1729-Mi439-OFFICIAL-Vanilla.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/Mi439/Cherish-OS-v4.1-20221014-1729-Mi439-OFFICIAL-Vanilla.zip/download",
+                        "timestamp": 1665768464,
+                        "md5": "a61f2e238d2a00c0bb83a5adc8011b0b",
+                        "sha256": "875c7c24a64dacea00982d7da4c8ff05302e52a32aaefe9db164a85d717c21d0",
+                        "size": 1004433445,
+                        "version": 4.1,
+                        "buildtype": "Monthly",
+                        "forum": "https://t.me/cherishOS",
+                        "gapps": "https://nikgapps.com/",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.me/hungphan2001",
+                        "telegram": "https://t.me/raidenprjkts",
+                        "dt": "https://github.com/raidenkkj/android_device_xiaomi_Mi439",
+                        "common-dt": "",
+                        "kernel": "https://github.com/raidenkkj/android_kernel_xiaomi_sdm439"
+                }
+        ]
+}
