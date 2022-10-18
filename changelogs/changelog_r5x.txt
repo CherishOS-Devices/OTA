@@ -4,6 +4,16 @@ Device: Realme 5 Series (5/5i/5s/NFC)
 Device maintainer: Christopher Keith Irvine (MAdMiZ)
 Required firmware: Realme UI c.67 or higher
 
+===== 2022.10.19 =====
+× Initial Android 13 Release
+× Almost* Everything Working
+× Safetynet Passes By Default
+× Selinux Is Enforcing
+× Encrypted By Default (Format /data is mandatory on clean flash)
+× No Known Issues. Incase You Find Any, Report With Proper Logs
+× Happy Flashing !
+
+
 ===== 2022.08.05 =====
 × Fully Fixed Random Freeze For Few Units
 × Disabled Post Render CleanUp
