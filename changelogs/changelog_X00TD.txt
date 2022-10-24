@@ -3,27 +3,25 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====07 October, 2022 ====
+====24 October, 2022 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Updated to OCT raven FP
-• October security patch
-• Disabled compressed APEX
-• Updated ZRAM configuration
-• Cleanup and refactored audio_amplifier
-• Imported stock Dalvik heap overrides
-• Added qmi_fw configs
-• camera: Disabled thermal adapter
-• camera: Use the largest fps range during video record
-• camera: Improve ZSL/HDR processing
-• Disabled HW overlays
+• Cleaned up some overlays
+• Allowed usage of custom binary linker (LD)
+• props: Tweaked fling velocity system props
+• Disabled QTI perf lock usage in camera HAL
+• props: Updated camera properties
+• Removed dummy HIDL libs
+• camera: Hacks to make camera HAL compatible with blobs
+• camera: VNDK Compliance changes
+• camera: Switched to display_headers lib include
+• Added Google AR Support
 • CTS passed by default
 • Misc small improvements and bug fixes
 
 => Notes : -
 • SELinux Enforcing
-• OTA Support added
-• GApps are included
+• GApps not included
 • Based on 4.4 kernel , NON-FBE
 • Orfox R11.1/BRP/Twrp-3.6.1_9.0 recovery is recommended
 • Recommended Firmware : 063,087 and higher
