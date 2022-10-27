@@ -2,13 +2,28 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-=====9th october, 2022======
+=====27th october, 2022======
 
-Add Dolby Atmos (Thanks to @johnmart19)
-Add Per-app refresh rate
-Update audio props from stock
-Improve Audio quality.
-Import LDAC & LHDC prebuilts
-Import vibrator effect
-Synced with latest Cherish sources
-Misc. Fixes and Improvements
+Changelog :
+• Synced with latest Cherish sources
+• GPay fixed
+• Prebuilt MiuiCamera (Bug: 64MP Mode)
+• Iclude firmware
+• Fixed some audio issues
+• Fixed DAC for some devices
+• Nonerofs Rom
+• Misc. Fixes and Improvements
+
+Note: 
+• NONEROFS ROM
+• Clean flash mandatory
+• Flash via custom recovery (OFOX/TWRP) (No need to flash fw)
+
+Credits :
+• @madmax7896 For trees
+• @spkal01 For MiuiCamera
+• @utsavthecunt For Oss kernel
+• @johnmart19 For Dolby
+
+
+
