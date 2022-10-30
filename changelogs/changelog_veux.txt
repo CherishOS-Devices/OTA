@@ -3,7 +3,11 @@ Build type: Monthly
 Device: Poco
 Device maintainer: Monu
 
-=====09th Oct, 2022======
+=====30th Oct, 2022======
 
 - Sync with latest source 
-- Lazy to write feel urself and explore
+- Updated with latest 13.0.4.0 vendor 
+- All pervious known bugs fixed
+- Removed device specific settings
+- Added xiaomi parts (thanks to SharmaG and all other devs)
+- Rest u tell me when u install
