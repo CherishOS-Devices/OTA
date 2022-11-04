@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Rams-ek",
+			"oem": "Motorola",
+			"device": "Motorola one fusipn plus",
+			"filename": "Cherish-OS-v4.1.4-20221104-0346-liber-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/liber/Cherish-OS-v4.1.4-20221104-0346-liber-OFFICIAL-GApps.zip/download",
+			"timestamp": 1667533426,
+			"md5": "4b57a75b72a1a3431fac791b71d1a3d9",
+			"sha256": "d3ab892d583f6d261785417e57c5085fa758ced794947c113113c015e80b7899",
+			"size": 1659999343,
+			"version": 4.1.4,
+			"buildtype": "Active Development Releases",
+			"forum": "",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/hungphan2001",
+			"telegram": "https://telegram.me/romforliber",
+			"dt": "https://gitlab.com/Rams-ek/device_motorola_liber.git",
+			"common-dt": "https://gitlab.com/Rams-ek/device_motorola_sm6150-common.git",
+			"kernel": "https://gitlab.com/Rams-ek/kernel-motorola-sm6150-backup.git"
+		}
+	]
+}
