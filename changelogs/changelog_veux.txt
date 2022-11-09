@@ -6,4 +6,4 @@ Device maintainer: Monu
 =====09th Oct, 2022======
 
 - Sync with latest source 
-- Lazy to write feel urself and explore
+- Rest u tell me when u install
