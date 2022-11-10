@@ -3,6 +3,19 @@ Build type: Monthly
 Device: Mi 9T Pro / Redmi K20 Pro
 Device maintainer: DanipunK1
 
+=====10th Nov, 2022======
+
+
+- Fixed screen content never gets updated with AOD
+- Fixed deep sleep in some cases of ambient display
+- Fixed v4aFX stop processing audio via bluetooth and not processing with some apps like YT
+- Enabled AOD auto brightness
+- Added Battery Health
+- Added Smart Charging
+- Added UDFPS haptic and error/authentication vibration options
+- Removed Aperture camera
+
+
 =====10th Oct, 2022======
 
 
