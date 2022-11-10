@@ -3,7 +3,7 @@ Build type: Monthly
 Device: Poco
 Device maintainer: Monu
 
-=====09th Oct, 2022======
+=====09th Nov, 2022======
 
 - Sync with latest source 
 - Rest u tell me when u install
