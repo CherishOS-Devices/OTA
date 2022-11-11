@@ -3,25 +3,26 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====24 October, 2022 ====
+====11 November, 2022 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Cleaned up some overlays
-• Allowed usage of custom binary linker (LD)
-• props: Tweaked fling velocity system props
-• Disabled QTI perf lock usage in camera HAL
-• props: Updated camera properties
-• Removed dummy HIDL libs
-• camera: Hacks to make camera HAL compatible with blobs
-• camera: VNDK Compliance changes
-• camera: Switched to display_headers lib include
-• Added Google AR Support
+• Switched FP to cheetah November
+• Removed bdroid_buildcfg.h
+• Switched to threaded Skia render engine backend
+• Dropped audiod
+• libshims: Added shim for camera blobs
+• Switched to common usb-in-recovery configuration
+• Restored recovery import of device-specific script
+• Enabled zygote critical window
+• Migrated to AIDL ClearKey DRM HAL
+• Dropped component overrides
+• Dropped default DRM service
 • CTS passed by default
 • Misc small improvements and bug fixes
 
 => Notes : -
 • SELinux Enforcing
-• GApps not included
+• GApps are included
 • Based on 4.4 kernel , NON-FBE
 • Orfox R11.1/BRP/Twrp-3.6.1_9.0 recovery is recommended
 • Recommended Firmware : 063,087 and higher
