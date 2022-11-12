@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Device: Lenovo Z6 Pro (zippo)
+Device maintainer: @kanstmablason
+
+===== November 12, 2022 ======
+
+November Security Patch
+Kernel upstream to v4.14.299 + LA.UM.9.1.r1-12800-SMxxx0.0
+Aperture aux cams added successfully
+More fixes and new bugs added
+

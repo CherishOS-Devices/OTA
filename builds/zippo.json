@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "EinarG",
+			"oem": "Lenovo",
+			"device": "Lenovo Z6 Pro",
+			"filename": "Cherish-OS-v4.2-20221112-1208-zippo-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/zippo/Cherish-OS-v4.2-20221112-1208-zippo-OFFICIAL-GApps.zip/download",
+			"timestamp": 1668254823,
+			"md5": "120148c96981237b625dea3ac6b4e16f",
+			"sha256": "",
+			"size": 1850955747,
+			"version": 4.2,
+			"buildtype": "",
+			"forum": "https://t.me/cherishOS",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
