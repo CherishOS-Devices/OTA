@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "hungphan2001",
+			"maintainer": "hungphan2001&revolwoc",
 			"oem": "Poco",
 			"device": "Redmi K40/ POCO F3/ Mi 11x",
-			"filename": "Cherish-OS-v3.9.5-20220802-1824-alioth-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherish-os/files/device/alioth/Cherish-OS-v3.9.5-20220802-1824-alioth-OFFICIAL-GApps.zip/download",
-			"timestamp": 1659464521,
-			"md5": "bc09c0e083c5f1320979d209adfbf267",
-			"sha256": "4dd5bf8008928e597a305aef885c8ac5ce9909116bedd5b7a3483a255c50f379",
-			"size": 1817741916,
-			"version": 3.9.5,
-			"buildtype": "Active Development Releases",
+			"filename": "Cherish-OS-v4.2-20221116-1037-alioth-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/alioth/Cherish-OS-v4.2-20221116-1037-alioth-OFFICIAL-GApps.zip/download",
+			"timestamp": 1668594964,
+			"md5": "7badc584ede50c29bc51b02627fb7b61",
+			"sha256": "5b837738dc432713b452e057f1e37a8de9a19105a7124cc64e36ca7f11c89a15",
+			"size": 1909065124,
+			"version": 4.2,
+			"buildtype": "Releases",
 			"forum": "https://t.me/cherishOS",
-			"gapps": "",
+                        "gapps": "",
 			"firmware": "https://xiaomifirmwareupdater.com/firmware/alioth/",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "https://eu.dl.twrp.me/alioth/",
 			"paypal": "https://www.paypal.me/hungphan2001",
 			"telegram": "https://t.me/cherishos_alioth",
-			"dt": "https://github.com/VoidUI-Devices/device_xiaomi_alioth",
-			"common-dt": "https://github.com/VoidUI-Devices/device_xiaomi_sm8250-common",
-			"kernel": "https://github.com/VoidUI-Devices/kernel_xiaomi_sm8250"
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
