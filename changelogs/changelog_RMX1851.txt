@@ -3,70 +3,7 @@ Build type: Monthly
 Device: Realme 3 Pro
 Device maintainer: Cykeek
 
-=====7th october 2022======
+=====18th october 2022======
 
-• Disabled Intrusive GMS component (Better Deep Sleep up to 96%)
-
-• DPI set to around 400
-
-• Limit some background Processes (Better Idle Drain)
-
-• Added Some NiTRON Tweaks thanks to @Kartik728 
-
-• Added RealmePart
-
-• Now Display VOOC charging instead of charging rapidly
-
-• Removed Pre-rendering props to save CPU and Battery cost
-
-• Welcome back Moto Dolby
-
-• Removed some incompatible HALs
-
-• Enabled vibration intensity control
-
-• Added Freeform Windows (Buggy)
-
-• Now settings cache will be cleared automatically after dirty Flash.
-
-• Fix Cam interfaces on Vilte Calls
-
-• Enabled USB and Skin temperature Warnings
-
-• By default Disabled GMS intent Operation service (pm disable com.google.android.gms/.chimera.GmsIntentOperationService)
-
-• Grant notification listener to Launcher 3
-
-• Enabled  google LILY_EXPERIENCE feature [ works on Android Go-specific features for Android Go Apps]
-
-• Disable Blur on app-launch
-
-• Disable touch sound by default (Who needs that?)
-
-• Fix GBoard side Padding
-
-• Remove the camera from background Apps to save RAM space
-
-• Force disabled Google Now playing feature ( only works on Pixel devices )
-
-• Added Gapps debloater (Only Basic Gapps has been added rest are kicked)
-
-• Set animation speed to 1.1 (Better sm0othness in App opening)
-
-• Fixed FP ripple animation Lags
-
-• Allow more cached apps in the background
-
-• Added AOSP RCS packages
-
-• Import oriole cpuctl tunings
-
-• Added Google Battery HALs
-
-• Force Disable Low ram configs
-
-• Disable vendor.audio.feature.kpi_optimize.enable
-
-• Drop config_setColorTransformAccelerated 
-
-• Place the volume Panel by left (Our volume buttons on the left side and it makes sense to keep the volume flyout to be shown on left side)
+- Miscellaneous Changes and stability
+- Upgraded kernel Rice v1 to V1.1+
