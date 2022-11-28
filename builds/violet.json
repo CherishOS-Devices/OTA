@@ -1,0 +1,28 @@
+{
+    "response": [
+            {
+                    "maintainer": "kibria5",
+                    "oem": "Redmi",
+                    "device": "Redmi note 7 Pro",
+                    "filename": "Cherish-OS-v4.2-20221128-1251-violet-OFFICIAL-GApps.zip",
+                    "download": "https://sourceforge.net/projects/cherish-os/files/device/violet/Cherish-OS-v4.2-20221128-1251-violet-OFFICIAL-GApps.zip/download",
+                    "timestamp": 1669639841,
+                    "md5": "d2c5ff92576371ff55943744120f1dc7",
+                    "sha256": "91130636bad43fe65f42014e40f107f73c3ac19e5216372bacb98560f7414d84",
+                    "size": 1569485825,
+                    "version": 4.2,
+                    "buildtype": "Releases",
+                    "forum": "https://t.me/cherishOS",
+                    "gapps": "",
+                    "firmware": "https://xiaomifirmwareupdater.com/firmware/violet/stable/V12.5.1.0.QFHINXM/",
+                    "modem": "",
+                    "bootloader": "",
+                    "recovery": "https://t.me/RedmiNote7ProChannel/2100",
+                    "paypal": "",
+                    "telegram": "https://t.me/kibria5build",
+                    "dt": "",
+                    "common-dt": "",
+                    "kernel": ""
+            }
+    ]
+}
