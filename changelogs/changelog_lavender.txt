@@ -1,2 +1,16 @@
-v3.9.5//
-Initial Official Release!
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 7
+Device maintainer: Yuu Hinode
+
+=====14th october, 2022======
+
+• Revert: lavender: `test kang sensors`
+
+• lavender: adjust ROUNDED_CORNER_CONTENT_PADDING
+
+• lavender: Update sensor blobs
+
+• lavender: Update ims.apk blobs from LA.UM.9.6.2.r1-04100-89xx.0
+
+• lavender: rootdir: Stop bootanimation service after boot

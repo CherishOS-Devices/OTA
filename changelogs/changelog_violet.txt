@@ -1,0 +1,29 @@
+Highlights & Device Specific Changes:
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: kibria5
+
+=====28th Nov, 2022======
+
+- Inital official A13 release
+- November security patch
+- kernel Azure+
+- MotoDolby and GCamGo Included
+- Set Google autofill service as default
+- Set Window animation/transition scale to 0%(Feels way smoother)
+- Add Max visible notification icons for normal 6 and dark 7
+- Add BatteryHealth Overlay & Label sepolicy 
+- smoother scrolling and better responsiveness 
+- Use HintManager for HWUI 
+- Increase In-call earpiece volume
+- increase 5 GHz network signal tolerance 
+- Adjust lux stability time needed for updating auto-brightness values
+- allocate heap values dynamically
+- rm package cache on early boot 
+- add nodes to hide Magisk in banking apps 
+- Enable display force split 
+- Added logo to dirac header
+- Added more dirac presets
+- Improved dirac QS tile long press logic
+
+Note:- Firmware Not Included
+     - Rom is encrypted by default

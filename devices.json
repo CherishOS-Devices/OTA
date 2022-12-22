@@ -78,8 +78,8 @@
          {
             "maintainer_name": "MAdMiZ",
             "maintainer_url": "https://t.me/MAdMiZ",
-            "version_code": "twelve",
-            "version_name": "twelve",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
             "xda_thread": "https://forum.xda-developers.com/t/rom-oss-12l-cherishos-3-7-5-official-realme5-5i-5s-nfc-21-may.4290881/"
          }
       ]
@@ -329,11 +329,11 @@
       "name": "Redmi Note 7 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "𝗞 𝗔 𝗥 𝗧 𝗛 𝗜 𝗞",
-            "maintainer_url": "https://t.me/karthik558",
-            "version_code": "eleven",
-            "version_name": "Eleven",
-            "xda_thread": ""
+            "maintainer_name": "kibria5",
+            "maintainer_url": "https://t.me/kibria5",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-13-0-violet-unofficial-cherish-os-v4-1-09-10-2022.4503281/"
          }
       ]
    },
@@ -399,10 +399,10 @@
       "name": "Redmi Note 9 Series",
       "supported_versions": [
          {
-            "maintainer_name": "GismoBe",
-            "maintainer_url": "https://t.me/GismoBe",
-            "version_code": "eleven",
-            "version_name": "Eleven",
+            "maintainer_name": "COSMIC",
+            "maintainer_url": "https://t.me/cos0i",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
             "xda_thread": ""
          }
       ]
