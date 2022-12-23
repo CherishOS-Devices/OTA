@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Poco x3 Pro
+Device maintainer: randomas3000
+
+===== 23 Dec, 2022 =====
+
+- initial official build
+- december 2022 security patches
+- fixed issues with blur
+- added battery health and pocked mode overlay

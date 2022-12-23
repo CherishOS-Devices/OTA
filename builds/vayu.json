@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "randomas3000",
+			"oem": "Poco",
+			"device": "Poco x3 Pro",
+			"filename": "Cherish-OS-v4.3-20221223-2028-vayu-OFFICIAL-Vanilla.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/vayu/Cherish-OS-v4.3-20221223-2028-vayu-OFFICIAL-Vanilla.zip/download",
+			"timestamp": 1671827295,
+			"md5": "5e61773419ed60c083c241cb055cd01b",
+			"sha256": "d337968a4a1e6b961b0a7847eb3a2cdf5532a1e283794d9a51112b801a227ac3",
+			"size": 1249138542,
+			"version": 4.3,
+			"buildtype": "MONTHLY",
+			"forum": "",
+                        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-T/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/cherishos_vayu",
+			"dt": "https://github.com/randomas3000/device_xiaomi_vayu",
+			"common-dt": "",
+			"kernel": "https://github.com/randomas3000/kernel_xiaaomi_vayu"
+		}
+	]
+}
