@@ -3,6 +3,17 @@ Build type: Monthly
 Device: Mi 9T Pro / Redmi K20 Pro
 Device maintainer: DanipunK1
 
+=====23th Dec, 2022======
+
+
+- Switch to Bool-X kernel
+- Disable handling audio directing changes between call states
+- Add Bluetooth power overlays to sysprops
+- Uprev audio hal to 7.0
+- Use bluetooth audio 2.1
+- Remove all stock audio postprocess
+
+
 =====10th Nov, 2022======
 
 
