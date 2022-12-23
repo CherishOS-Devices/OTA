@@ -4,13 +4,13 @@
                         "maintainer": "MAdMiZ",
                         "oem": "Realme",
                         "device": "Realme 5 Series",
-                        "filename": "Cherish-OS-v4.2-20221109-0511-r5x-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/r5x/Cherish-OS-v4.2-20221109-0511-r5x-OFFICIAL-GApps.zip/download",
-                        "timestamp": 1667970557,
-                        "md5": "7c5273f1cf74fef5f2b3b74d6d9403f7",
-                        "sha256": "6ce41a0e70098ce44e0908b03dd0e25d3da056cf3e07ba7fa7502b89b14dd9d4",
-                        "size": 1713773436,
-                        "version": 4.2,
+                        "filename": "Cherish-OS-v4.3-20221223-1205-r5x-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/r5x/Cherish-OS-v4.3-20221223-1205-r5x-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1671796981,
+                        "md5": "6822073c0780a5e10774965adaa83a44",
+                        "sha256": "fb6714620b0019f2b12a1bfd89d86deb0b3b5eccb450ea448208b6554013b771",
+                        "size": 1696852567,
+                        "version": 4.3,
                         "buildtype": "Active Development Releases",
                         "forum": "https://t.me/cherishOS",
                         "firmware": "https://github.com/realme-trinket-organization/firmware_files_RMX1911/releases",
@@ -21,7 +21,7 @@
                         "telegram": "https://t.me/HOME_MAdMiZ,
                         "dt": "https://github.com/CherishOS-Devices/device_realme_r5x",
                         "common-dt": "https://github.com/CherishOS-Devices/vendor_realme_r5x",
-                        "kernel": "https://codeberg.org/mizdrake7/kernel_realme_r5x"
+                        "kernel": "https://github.com/mizdrake7/Graveyard_r5x"
                 }
         ]
 }
