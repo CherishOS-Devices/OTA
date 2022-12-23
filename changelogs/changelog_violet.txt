@@ -1,0 +1,24 @@
+Highlights & Device Specific Changes:
+Device: Redmi Note 7 Pro (violet)
+Device maintainer: kibria5
+
+=====23th Nov, 2022======
+
+- December security patch
+- MotoDolby removed
+- Disable sf auto latch_unsignaled
+- Disable Skia tracing by default 
+- Add dirac logo
+- Disabled dial pad tones by default
+- Disabled screen locking sounds by default
+- Enabled vibrate for calls by default
+- Disable UI touch haptic feedback by default
+- Fix Fingerprint Wake-up Animation 
+- Implement Clear Speaker
+- Enable suspend to RAM 
+- Do not block binder thread on incoming calls
+- Fixed google call apps issue
+- More improve and stable
+
+Note:- Firmware Not Included
+     - Rom is encrypted by default

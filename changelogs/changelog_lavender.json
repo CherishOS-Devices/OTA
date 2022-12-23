@@ -1,9 +1,10 @@
-Device: lavender
-Device maintainer: Shizukachanwa
+Highlights & Device Specific Changes:
+Device: Redmi Note 7/7S (lavender)
+Device maintainer: Yuuchanwa
 
-=====21th Sept, 2022======
+=====12th Nov, 2022======
 
-- DT2W Fixed
-- Night Light and Extra Dim Fixed
-- Deep Sleep Fixed
-- Shipped kernel wirh Nexus 10.1 QTI
+- Built with latest source
+- Shipped kernel with Nexus 10.1 QTI
+- Camera freezing fixed (In case, change kernel)
+- With November patch

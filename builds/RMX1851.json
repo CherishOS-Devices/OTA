@@ -1,17 +1,17 @@
 
 {
-        "response": [
-                {
+	"response": [
+		{
 			"maintainer": "Cykeek",
 			"oem": "Realme",
 			"device": "Realme 3 Pro",
-			"filename": "Cherish-OS-v4.1-20221007-0643-RMX1851-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherish-os/files/device/RMX1851/Cherish-OS-v4.1-20221007-0643-RMX1851-OFFICIAL-GApps.zip/download",
-			"timestamp": 1665124765,
-			"md5": "de903c3c8aceadf34c08f8f808f091fa",
-			"sha256": "d41bf387962ed0a307108d117ff151b35202a00e4320c46e45b1f5943f4c7218",
-			"size": 1554877493,
-			"version": 4.1,
+			"filename": "Cherish-OS-v4.2-20221118-0621-RMX1851-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/RMX1851/Cherish-OS-v4.2-20221118-0621-RMX1851-OFFICIAL-GApps.zip/download",
+			"timestamp": 1668752301,
+			"md5": "403c318ab8be32646ecd83a68f308d97",
+			"sha256": "6120c57835404869a2ad740ba21d35354b2e61d66e6ac688391058ed0bacaa83",
+			"size": 1781246052,
+			"version": 4.2,
 			"buildtype": "Active Development Releases",
 			"forum": "https://t.me/cherishOS",
                         "gapps": "",
@@ -24,6 +24,6 @@
 			"dt": "https://github.com/Cykeek/android_device_realme_RMX1851",
 			"common-dt": "https://github.com/Cykeek/android_device_realme_RMX1851",
 			"kernel": "https://github.com/HyperTeam/android_kernel_realme_sdm710"
-                }
-        ]
+		}
+	]
 }
