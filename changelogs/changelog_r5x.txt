@@ -4,6 +4,19 @@ Device: Realme 5 Series (5/5i/5s/NFC)
 Device maintainer: Christopher Keith Irvine (MAdMiZ)
 Required firmware: Realme UI c.67 or higher
 
+===== 2022.12.23 =====
+× Upstreamed Kernel To 4.14.302
+× Fixed Wi-Fi Display
+× Fixed Offline Charging For All Variants
+× Dropped RealmeDirac And Imported OnePlus Dolby Atmos
+× Enabled zygote critical window
+× Disabled per_app_memcg
+× Enabled config_avoidGfxAccel for 3GB variants
+× Adressed some denails
+× Fixed Mic Input Noise And Volume
+× Maybe More Which My Lazyness Is Not Allowing To Recall
+
+
 ===== 2022.11.09 =====
 × Dropped Encryption Fully (As per users requests)
 × Switch To AIDL Wi-Fi HAL
