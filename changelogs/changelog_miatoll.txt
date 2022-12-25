@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
+Device maintainer: COSMIC
+
+===== 25 Dec, 2022 =====
+
+- Synced with latest cherish source changes
+- Switched FP to cheetah December
+- Added dirac
+- Nuked FM
+- Disabled launcher and camera app from pinning 
+- Enabled zygote critical window
+- Fixed cabc mode
+- Misc small improvements and bug fixes
