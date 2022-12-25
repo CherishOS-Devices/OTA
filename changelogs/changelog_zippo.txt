@@ -2,6 +2,12 @@ Highlights & Device Specific Changes:
 Device: Lenovo Z6 Pro (zippo)
 Device maintainer: @kanstmablason
 
+===== December 25, 2022 ======
+
+December Security Patch
+Kernel upstream to v4.14.302 + LA.UM.9.1.r1-13000-SMxxx0.0
+More fixes and new bugs added
+
 ===== November 12, 2022 ======
 
 November Security Patch
