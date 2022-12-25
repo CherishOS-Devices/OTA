@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "COSMIC",
+			"oem": "Xiaomi",
+			"device": "Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)",
+			"filename": "Cherish-OS-v4.3-20221225-0734-miatoll-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/miatoll/Cherish-OS-v4.3-20221225-0734-miatoll-OFFICIAL-GApps.zip/download",
+			"timestamp": 1671953469,
+			"md5": "f273ab4ff0d5f12f9519aec8959e28c7",
+			"sha256": "1d540fc4a5a9bac09658b3c99f1a3a3600119fb031ef8a46b098e151c2cdc33a",
+			"size": 1848218877,
+			"version": 4.3,
+			"buildtype": "Active Development Releases",
+			"forum": "",
+            		"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/hungphan2001",
+			"telegram": "https://t.me/itz_miatoll_zone404",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
