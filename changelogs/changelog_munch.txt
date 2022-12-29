@@ -2,17 +2,21 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== November 12, 2022 ======
+===== December 29, 2022 ======
 
-Optimise dex flags
-Implement LiveDisplay HAL 
-Fixed smart charging
-Enable wifi 6GHz band
-Enable support for IEEE80211AX /IEEE80211AC
-Drop MiuiCam now
-Force disable low ram config
-Include Firmware
-Sync with lastest source
-Switch to N0Kernel with WeebX Clang 16
-Optimized round corner & punch hole overlays
-Misc. Fixes and Improvement
+Changelogs:
+
+- Synced with latest cherish source changes
+- Improved battery drain on aod
+- Introduced HBM mode
+- Misc. Fixes and Improvement
+
+Notes :
+- Clean Flash Recommended
+
+Credit: 
+- @madmax7896 for dt.
+- @NotZeetaa for Nexus kernel
+- @spkal for miui camera port
+
+CherishOS | Built with 💖
