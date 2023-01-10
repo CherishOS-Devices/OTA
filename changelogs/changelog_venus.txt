@@ -1,14 +1,4 @@
-CherishOS for Xiaomi Mi 11. [CHANGELOG]
-Mi 11 Releases by kota69th.August 16, 2022
-
-Updated to latest CherishOS 3.9.5 (latest as of 16th of August)
-Fixed QS Status Bar being sticked to holepunch.
-Added CutoutRingService from RiceDroid (shows a ring when using front camera)
-Moved ueventd.qcom.rc to /vendor/etc
-Implemented Mi Sound Enhancer (WIP, the feature doesn't work yet)
-Switched to BOARD_VENDOR_SEPOLICY_DIRS
-Fixed Discord/Twitter Scroll/UI jitters.
-Fixed blue Instagram/"Personal Tiktok" videos. 
-Enabled harmonkardon audio in Vendor Properties.
-Overall Tree Cleanup and improvements to XiaomiParts.
-Fixed OTA Updater.
+Xiaomi Mi 11 | Changelog (10th of January Build)
+- Bumped source to CherishOS 4.4
+- Modified status bar values to fix landscape mode
+- Bump to the latest kernel from FlowerSea0208, thanks FlowerSea!
