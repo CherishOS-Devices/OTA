@@ -3,6 +3,15 @@ Build type: Monthly
 Device: Mi 9T
 Device maintainer: Rumais
 
+
+=====10th Jan, 2023======
+
+- Includes Launcher3 mod by @AMRGAMAL1Store based on Ricedroid10
+- Fod improvements to kernel by @xnombre
+- Added smart pixels
+- Under the hood improvements
+
+
 =====22nd Dec, 2022======
 
 - Upstreamed Kernel to 4.14.302
