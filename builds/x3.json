@@ -1,1 +1,29 @@
-There is no official support for this device yet
+{
+        "response": [
+                {
+                        "maintainer": "Perses",
+                        "oem": "Realme",
+                        "device": "Realme X3",
+                        "filename": "Cherish-OS-v4.4-20230110-1107-x3-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/x3/Cherish-OS-v4.4-20230110-1107-x3-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1673348737,
+                        "md5": "e5ee7defdd4272e57225e264b20aa870",
+                        "sha256": "2bf78fcef53af3ae4e0201602daac5a23bebcdd023442f8a6c9743adc55a86e6",
+                        "size": 1441353043,
+                        "version": 4.4,
+                        "buildtype": "Active Development Releases",
+                        "forum": "",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://t.me/RealmeX3Updates/112",
+                        "paypal": "https://www.paypal.me/hungphan2001",
+                        "telegram": "https://t.me/persesupdate",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
+
