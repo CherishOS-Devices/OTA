@@ -3,6 +3,17 @@ Build type: Monthly
 Device: Mi 9T Pro / Redmi K20 Pro
 Device maintainer: DanipunK1
 
+=====14th Jan, 2023======
+
+
+- Updated to Bool-X V1.2 kernel
+- Fixed bluetooth connection
+- Fixed MTP
+- Added Kprofiles
+- Switch to gcam LMC 8.4 r15
+- Debloated Gapps
+
+
 =====23th Dec, 2022======
 
 
