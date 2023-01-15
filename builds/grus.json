@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Toyohama",
+			"oem": "Xiaomi",
+			"device": "Xiaomi MI 9 SE",
+			"filename": "Cherish-OS-v4.4-20230115-0712-grus-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/grus/Cherish-OS-v4.4-20230115-0712-grus-OFFICIAL-GApps.zip/download",
+			"timestamp": 1673766072,
+			"md5": "1a71a16e0dd5f1b5109f1fd20b5632bf",
+			"sha256": "bcbf53cdeab172e6c4b1f1ea064a02571f9b867d244189def8f35defd52a0618",
+			"size": 2046909670,
+			"version": 4.4,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "https://xiaomifirmwareupdater.com/firmware/grus/stable/V12.5.4.0.RFBCNXM/",
+			"modem": "",
+			"bootloader": "",
+			"recovery": """,
+			"paypal": "",
+			"telegram": "https://t.me/toybuilds_support",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Releases
+Device: Xiaomi MI 9 SE
+Device maintainer: Toyohama
+
+=====15th Jan, 2023======
+
+- Initial Build
+- Added some Chinese translations
+- Update to Twilight Kernel
+- Update blobs from MIUI
