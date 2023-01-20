@@ -3,19 +3,20 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====24 December, 2022 ====
+====20 January, 2022 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Switched FP to cheetah December
-• Switched to Vulkan for UI rendering
-• Doze: Fix compilation for QPR1 merge
-• Audio: Disabled ULL mode
-• Audio: Don't advertise vorbis offloading support
-• Audio: Enabled BLE Hearing Aid
-• Audio: Tuned audio config files a bit
-• Updated fqnames for Data factory HAL
-• Disabled AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE
-• Removed useless perf props
+• Switched FP to cheetah January
+• Enabled perf hint window
+• Disabled partial split strategy in sdm
+• Disabled Async MTE on System Server
+• Disabled zram writeback
+• Disabled hwc vds in surface flinger
+• Compiled with HWUI for performance
+• Fixedup audio io policy voip_rx flags
+• Wifi: tuned bmps listening interval
+• Enabled zygote critical window
+• Dropped audio.a2dp.default
 • CTS passed by default
 • Misc small improvements and bug fixes
 
