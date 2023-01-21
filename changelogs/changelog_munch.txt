@@ -2,21 +2,24 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== December 29, 2022 ======
+===== Jan 21, 2022 ======
 
 Changelogs:
 
 - Synced with latest cherish source changes
-- Improved battery drain on aod
-- Introduced HBM mode
+- Use N0Kernel with WeebX clang
 - Misc. Fixes and Improvement
 
 Notes :
-- Clean Flash Recommended
+- Flash with any custom recovery. 
+- U can dirty flash, but Clean Flash Is Recommended
+- Non erofs rom
+- Included FW
+- Include Leica Cam
 
 Credit: 
 - @madmax7896 for dt.
-- @NotZeetaa for Nexus kernel
+- @EmanuelCN0 for N0kernel
 - @spkal for miui camera port
 
 CherishOS | Built with 💖
