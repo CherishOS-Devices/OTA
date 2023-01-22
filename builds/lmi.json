@@ -1,0 +1,26 @@
+{
+    "response": [{
+        "maintainer": "a1exeei",
+        "oem": "Xiaomi",
+        "device": "Poco F2 Pro",
+        "filename": "Cherish-OS-v4.4-20230122-1846-lmi-OFFICIAL-GApps.zip",
+        "download": "https://sourceforge.net/projects/cherish-os/files/device/lmi/Cherish-OS-v4.4-20230122-1846-lmi-OFFICIAL-GApps.zip/download",
+        "timestamp": 1674187737,
+        "md5": "6C0950D587F8335A8EEF7A67E5BB99C4",
+        "sha256": "2FFF1C6A565CF0D5CB82E540A56D2D85EA281AE02A8F619E4A0678170B8C23F1",
+        "size": 1788665549,
+        "version": 4.4,
+        "buildtype": "Active Development Releases",
+        "forum": "https://t.me/CherishOS_F2Pro",
+        "gapps": "",
+        "firmware": "https://xiaomifirmwareupdater.com/firmware/lmi/",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/hungphan2001",
+        "telegram": "https://t.me/CherishOS",
+        "dt": "https://github.com/alexeei/device_lmi_new",
+        "common-dt": "",
+        "kernel": "https://github.com/alexeei/kernel_xiaomi_lmi"
+    }]
+}
