@@ -9,3 +9,15 @@ Device maintainer: Toyohama
 - Added some Chinese translations
 - Update to Twilight Kernel
 - Update blobs from MIUI
+
+=====27th Jan, 2023======
+
+-Add encryption
+-Fix wrong model name
+-Add support for wechat fingerprint payment
+-Update WFD system stack from T blobs
+-Update graphics blobs from LA.UM.9.3.r1-02700-sdm845.0
+-Update soter blobs from raphael
+-Added battery health (Can't use now)
+-Synchronize to the latest source code
+-Adjust status bar spacing to accommodate more notification icons
