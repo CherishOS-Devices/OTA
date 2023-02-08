@@ -1,42 +1,29 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi K40/Poco F3
-Device maintainer: hungphan2001 @ revolwoc
+Device maintainer: hungphan2001 
 
-=====16th Nov 2022======
-* Added smart charging supported
-* Added battery healthy info supported
-* Merged Nov Patch 
-* Added more battery styles
-* Added Face Unlock
-* Added Controllable squiggle animation in playing songs
-* Added Bluetooth dialog 
-* Added extended/"L" back swipe to trigger actions/app/activities
-* Added support for one shot auto-brightness 
-* Added Volume Long Press Skip Tracks 
-* Added burnIn protection 
-* Added missing animations for gestures and features
-* Added more DNS providers
-* Added an activity for saved Bluetooth devices fragment
-* Added Smart Charging 
-* Added battery health info
-* Added Aperture Camera is default
-* Redesigned all lockscreen buttons 
-* Used wireless charging animation for wired charging too 
-* Show more APK details on App info screen 
-* Fixed some games force close
-* Fixed issues with hidden mode in clock
-* Fixed the flicker issue in streaming video
-* Fixed moblie data not work for old devices
-* Fixed screen unpinning text on devices that have gestures on fp sensor
-* Fixed custom lockscreen shortcut icons being white
-* Fixed action bar font family on material themes
-* Fixed ialways return first package for mock location app in developer options.
-* Fixed NPE crash in TextToSpeechSettings
-* Fixed crash when input illegal proxy port number
-* Fixed NetlinkListener error in recovery
-* Fixed NPE when finishing remote animation
-* reTicker: Do not jump to app when clicked in games
-* Improved QS styles
-* Improved battery styles
-* Improved other systems
+=====08th Feb 2023======
+Changelog v4.5 08/02/2023🎉🎉🎉
+
+- Merged Feb security patch
+- Added more styles for lockscreen clock
+- Added configuring Navbar Radius 
+- Added Navigation Pill thinner
+- Added custom Ambient Lights 
+- Added Black theme
+- Added comeback volte/vowifi icon
+- Added option for random colors in EdgeLighting
+- Added Ambient Customizations
+- Added custom vibration patterns
+- Updated some games props
+- Fixed Lockscreen clock font spacing
+- Fixed expanded QS clock color
+- Fixed an issue that the FoldStateListener induces a memory leak 
+- Fixed multiple QS background scrim issues
+- Fixed stuck screen from display change timeout
+- Improved double tap to sleep gesture 
+- Improved the system
+
+If you like our work you can donate to us at
+Paypal:- paypal.me/hungphan2001
