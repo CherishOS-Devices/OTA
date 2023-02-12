@@ -21,3 +21,11 @@ Device maintainer: Toyohama
 -Added battery health (Can't use now)
 -Synchronize to the latest source code
 -Adjust status bar spacing to accommodate more notification icons
+
+=====12th Feb, 2023======
+
+-Update to Cherish 4.5
+-Fix random reboot
+-Fix battery health
+-Fix failed to start dspservice
+-Fluency optimization
