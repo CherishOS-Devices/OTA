@@ -2,6 +2,13 @@ Highlights & Device Specific Changes:
 Device: Lenovo Z6 Pro (zippo)
 Device maintainer: @kanstmablason
 
+===== February 12, 2022 ======
+
+Switched to TRB Clang 17
+Kernel upstream to v4.14.305
+Wifi Drivers upstream to LA.UM.9.1.c11-48400-SMxxx0.QSSI13.0
+Fixed some bugs and added new bugs
+
 ===== December 25, 2022 ======
 
 December Security Patch
