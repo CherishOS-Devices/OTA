@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Mi 9T
 Device maintainer: Rumais
 
+=====11th Feb, 2023======
+
+- Uses VantomSyndra Kernel based on Vantom
+- Kernel includes KernelSU support
+- Added udfps improvements by Arian & xnombre
+- Switch back to stock launcher from source
+- Many under the hood improvements 
 
 =====10th Jan, 2023======
 
