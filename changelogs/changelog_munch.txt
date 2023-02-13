@@ -5,17 +5,14 @@ Device maintainer: HDzungx
 ===== Jan 21, 2022 ======
 
 Changelogs:
-
+- Fix sound for some apps
+- CTS Passed by default
 - Synced with latest cherish source changes
-- Use N0Kernel with WeebX clang
 - Misc. Fixes and Improvement
 
-Notes :
-- Flash with any custom recovery. 
-- U can dirty flash, but Clean Flash Is Recommended
-- Non erofs rom
-- Included FW
-- Include Leica Cam
+Note:
+- Fw included
+- Included Leica Cam
 
 Credit: 
 - @madmax7896 for dt.
