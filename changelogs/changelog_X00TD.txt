@@ -3,20 +3,18 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====20 January, 2022 ====
+====14 February, 2022 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Switched FP to cheetah January
-• Enabled perf hint window
-• Disabled partial split strategy in sdm
-• Disabled Async MTE on System Server
-• Disabled zram writeback
-• Disabled hwc vds in surface flinger
-• Compiled with HWUI for performance
-• Fixedup audio io policy voip_rx flags
-• Wifi: tuned bmps listening interval
-• Enabled zygote critical window
-• Dropped audio.a2dp.default
+• Switched FP to cheetah February 
+• Switched to audio HAL to V7
+• Audio: Disabled stereo support for voip
+• Audio: Add offload gapless support flag
+• Disabled dynamic fps
+• Disabled HWC composition strategy prediction
+• Disabled phantom process monitoring
+• Disabled redir_party_num
+• Audio: Removed pro audio capability
 • CTS passed by default
 • Misc small improvements and bug fixes
 
