@@ -3,6 +3,28 @@ Build type: Monthly
 Device: Mi 9T Pro / Redmi K20 Pro
 Device maintainer: DanipunK1
 
+=====17th Feb, 2023======
+
+
+- ViperFX redesigned with monet support 
+- Switch to new Udfps implementation
+- Gcam LMC: added some missing permissions
+- Switch to Xiaomi common light hal
+- Fixed battery and notification led
+- Fixed notification settings crash 
+- Disabled some gms components
+- Enable zygote critical window
+- Allow more cached apps in the background
+- Improved multitasking 
+- Tweak auto brightness configs
+- Improved scrolling
+- Switch to OpenGL hwui renderer
+- Update adreno blobs
+- Update bool-x kernel
+- Changed colors for Shishu Nights theme
+- More improvements under the hood
+
+
 =====14th Jan, 2023======
 
 
