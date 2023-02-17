@@ -1,51 +1,29 @@
 {
 
         "response": [
-
                 {
 
                         "maintainer": "kibria5&Dr.Opto",
-
                         "oem": "Redmi",
-
                         "device": "Redmi note 7 Pro",
-
-                        "filename": "Cherish-OS-v4.4-20230113-1852-violet-OFFICIAL-GApps.zip",
-
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/violet/Cherish-OS-v4.4-20230113-1852-violet-OFFICIAL-GApps.zip/download",
-
-                        "timestamp": 1673635782,
-
-                        "md5": "b3c23fbb1cd0955b10f304104b599d83",
-
-                        "sha256": "9b0309c41e0271d00a42c662e7463a474b400b9f7f1650c5523c373cfe5a2ffe",
-
-                        "size": 1913616192,
-
-                        "version": 4.4,
-
+                        "filename": "Cherish-OS-v4.5-20230215-1522-violet-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/violet/Cherish-OS-v4.5-20230215-1522-violet-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1676474452,
+                        "md5": "3d9da6d748e3681fbdd5fe21126a3204",
+                        "sha256": "127527f49d68ff75f01d98ad87f56cfca598523cd4856017d78e1100ed9606f0",
+                        "size": 1929218887,
+                        "version": 4.5,
                         "buildtype": "Active Development Releases",
-
                         "forum": "https://t.me/cherishOS",
-
                         "gapps": "",
-
                         "firmware": "https://xiaomifirmwareupdater.com/firmware/violet/stable/V12.5.1.0.QFHINXM/",
-
                         "modem": "",
-
                         "bootloader": "",
-
                         "recovery": "https://t.me/RedmiNote7ProChannel/2100",
-
                         "paypal": "",
-
                         "telegram": "https://t.me/kibria5build",
-
                         "dt": "",
-
                         "common-dt": "",
-
                         "kernel": ""
 
                 }
