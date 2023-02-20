@@ -586,6 +586,19 @@
            "xda_thread": ""
          },
       ]
+      {
+     "brand": "Xiaomi",
+     "codename": "mars",
+     "name": "Mi 11 Pro",
+     "supported_versions": [
+        {
+           "maintainer_name": "Crisp",
+           "maintainer_url": "https://t.me/Crisp_su",
+           "version_code": "tiramisu",
+           "version_name": "Tiramisu",
+           "xda_thread": ""
+         },
+      ]
      {
      "brand": "Xiaomi",
      "codename": "certus",
