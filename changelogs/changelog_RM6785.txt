@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
+Device maintainer: ꪖ​ꪀ𝘴ꫝ|邪惡的 (EvilAnsh)
+Required firmware: Latest
+
+===== 2023.02.23 =====
+• Initial Official Build
+• Synced Latest CherishOS v4.5 changes
+• Updated to February security patch
+• 4.14.305 N.E.O.L.I.T. Wasabi Kernel
+• Misc. Fixes and Improvements
