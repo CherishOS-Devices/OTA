@@ -1,14 +1,9 @@
 Highlights & Device Specific Changes:
 Device: Redmi K30 5G
-Device maintainer: masarou
+Device maintainer: alosrobot
 
-===== 2022.08.15 =====
+===== 2023.02.26 =====
 [Device side]
-× Fixed DT2W & XiaomiParts bring back (thanks to EndCredits & masemoel)
-× Fixed OTA
-× Reverted to AOSP Camera (temporarily for now, so many issues with MIUICamera)
+× Added Miui Camera
+× Added Moto Dolby
 × Addressed Some More Denials
-× Moved to uclamp for better performance
-
-[Source side] 
-× Reverted back to A12 QS style.

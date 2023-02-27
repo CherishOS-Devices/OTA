@@ -218,10 +218,10 @@
       "name": "Redmi K30 5G",
       "supported_versions": [
          {
-            "maintainer_name": "masarou",
-            "maintainer_url": "https://github.com/masarou",
-            "version_code": "twelve",
-            "version_name": "Twelve",
+            "maintainer_name": "alosrobot",
+            "maintainer_url": "https://github.com/anischotora",
+            "version_code": "tiramisu",
+            "version_name": "tiramisu",
          }
       ]
    },
