@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Poco
-Device maintainer: Monu
+Device: Redmi
+Device maintainer: mlzdbz
 
 =====09th Nov, 2022======
 
