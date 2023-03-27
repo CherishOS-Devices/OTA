@@ -2,8 +2,7 @@ Highlights & Device Specific Changes:
 Device: Redmi K30 5G
 Device maintainer: alosrobot
 
-===== 2023.02.26 =====
+===== 2023.03.26 =====
 [Device side]
-× Added Miui Camera
-× Added Moto Dolby
+× Added Kprofile
 × Addressed Some More Denials
