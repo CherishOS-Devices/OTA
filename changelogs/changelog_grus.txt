@@ -29,3 +29,16 @@ Device maintainer: Toyohama
 -Fix battery health
 -Fix failed to start dspservice
 -Fluency optimization
+
+=====19th Mar, 2023======
+
+-Update kernel to v4.9.337
+-Disable client composition cache
+-Allow more cached apps in the background
+-Enable the pre-rendering feature
+-Set globally accessible NTP server
+-Disable per-cgroup PSI accounting for performance
+-Disable VSync for CPU rendered apps
+-Fix smart charging
+-Fix udfps pressed color
+-Switch to QTI Vibrator AIDL
