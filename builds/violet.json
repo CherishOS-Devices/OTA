@@ -1,18 +1,16 @@
 {
-
         "response": [
                 {
-
                         "maintainer": "kibria5&Dr.Opto",
                         "oem": "Redmi",
                         "device": "Redmi note 7 Pro",
-                        "filename": "Cherish-OS-v4.5-20230215-1522-violet-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/violet/Cherish-OS-v4.5-20230215-1522-violet-OFFICIAL-GApps.zip/download",
-                        "timestamp": 1676474452,
-                        "md5": "3d9da6d748e3681fbdd5fe21126a3204",
-                        "sha256": "127527f49d68ff75f01d98ad87f56cfca598523cd4856017d78e1100ed9606f0",
-                        "size": 1929218887,
-                        "version": 4.5,
+                        "filename": "Cherish-OS-v4.6-20230326-1137-violet-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/violet/Cherish-OS-v4.6-20230326-1137-violet-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1679830590,
+                        "md5": "c4d89294a333c1abcbaa78c9703ee922",
+                        "sha256": "5df15d99efdb25bd83c61d4b194987234632fafb10422669c6c74bc1a4270fc6",
+                        "size": 1438540797,
+                        "version": 4.6,
                         "buildtype": "Active Development Releases",
                         "forum": "https://t.me/cherishOS",
                         "gapps": "",
@@ -25,10 +23,34 @@
                         "dt": "",
                         "common-dt": "",
                         "kernel": ""
-
                 }
-
         ]
-
 }
-
+{
+          "response": [
+                        {
+                        "maintainer": "kibria5&Dr.Opto",
+                        "oem": "Redmi",
+                        "device": "Redmi note 7 Pro",
+                        "filename": "Cherish-OS-v4.6-20230327-0412-violet-OFFICIAL-Vanilla.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/violet/Cherish-OS-v4.6-20230327-0412-violet-OFFICIAL-Vanilla.zip/download",
+                        "timestamp": 1679890282,
+                        "md5": "e4794fb87bb089ec3a35a7239b98bffd",
+                        "sha256": "90f5a2592dab1d8c2a03c6785f26337b681fdc822a1d359973007867351a3ae3",
+                        "size": 1164011518,
+                        "version": 4.6,
+                        "buildtype": "Active Development Releases",
+                        "forum": "https://t.me/cherishOS",
+                        "gapps": "",
+                        "firmware": "https://xiaomifirmwareupdater.com/firmware/violet/stable/V12.5.1.0.QFHINXM/",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://t.me/RedmiNote7ProChannel/2100",
+                        "paypal": "",
+                        "telegram": "https://t.me/kibria5build",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+        ]
+}
