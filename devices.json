@@ -218,10 +218,10 @@
       "name": "Redmi K30 5G",
       "supported_versions": [
          {
-            "maintainer_name": "masarou",
-            "maintainer_url": "https://github.com/masarou",
-            "version_code": "twelve",
-            "version_name": "Twelve",
+            "maintainer_name": "alosrobot",
+            "maintainer_url": "https://github.com/anischotora",
+            "version_code": "tiramisu",
+            "version_name": "tiramisu",
          }
       ]
    },
@@ -583,6 +583,19 @@
            "maintainer_url": "https://t.me/Universeworldbekind",
            "version_code": "twelve",
            "version_name": "Twelve",
+           "xda_thread": ""
+         },
+      ]
+      {
+     "brand": "Xiaomi",
+     "codename": "mars",
+     "name": "Mi 11 Pro",
+     "supported_versions": [
+        {
+           "maintainer_name": "Crisp",
+           "maintainer_url": "https://t.me/Crisp_su",
+           "version_code": "tiramisu",
+           "version_name": "Tiramisu",
            "xda_thread": ""
          },
       ]
