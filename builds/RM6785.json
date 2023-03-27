@@ -1,0 +1,27 @@
+{
+        "response": [
+                {
+                        "maintainer": "EvilAnsh",
+                        "oem": "Realme",
+                        "device": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+                        "filename": "Cherish-OS-v4.5-20230223-1809-RM6785-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/RM6785/Cherish-OS-v4.5-20230223-1809-RM6785-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1677184039,
+                        "md5": "cc345eee9454985fedfd13db6161835a",
+                        "sha256": "6bbd7acf8717915b4130421e93a9f1167435b31addbcd6d90f0103d10402d251",
+                        "size": 1808110900,
+                        "version": 4.5,
+                        "buildtype": "Monthly",
+                        "forum": "https://t.me/cherishOS",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.me/hungphan2001",
+                        "telegram": "https://t.me/EvilAnsh",
+                        "dt": "https://github.com/EvilAnsh/android_device_realme_RM6785",
+                        "common-dt": "https://github.com/EvilAnsh/proprietary_vendor_realme",
+                        "kernel": "https://github.com/sarthakroy2002/kernel_realme_wasabi"
+                }
+        ]
+}
