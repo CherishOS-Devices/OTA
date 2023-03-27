@@ -1,5 +1,19 @@
 [
    {
+      "brand": "Xiaomi",
+      "codename": "Sweet",
+      "name": "Redmi Note 10 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "JYR_RC",
+            "maintainer_url": "https://t.me/JYR_RC",
+            "version_code": "Tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": "https://forum.xda-developers.com/m/jyr_rc.12465769/"
+         }
+      ]
+   },
+   {
       "brand": "Realme",
       "codename": "X2",
       "name": "Realme X2",
