@@ -1,5 +1,19 @@
 [
    {
+      "brand": "Xiaomi",
+      "codename": "Sweet",
+      "name": "Redmi Note 10 Pro",
+      "supported_versions": [
+         {
+            "maintainer_name": "JYR_RC",
+            "maintainer_url": "https://t.me/JYR_RC",
+            "version_code": "Tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": "https://forum.xda-developers.com/m/jyr_rc.12465769/"
+         }
+      ]
+   },
+   {
       "brand": "Realme",
       "codename": "X2",
       "name": "Realme X2",
@@ -16,11 +30,11 @@
    {
       "brand": "Xiaomi",
       "codename": "veux",
-      "name": "Poco x4 Pro 5G/Redmi Note 11 Pro 5G",
+      "name": "POCO X4 Pro 5G/Redmi Note 11 Pro 5G/Redmi Note 11E Pro 5G/Redmi Note 11 Pro+ 5G",
       "supported_versions": [
          {
-            "maintainer_name": "Monu",
-            "maintainer_url": "https://t.me/Monu_ohlyan",
+            "maintainer_name": "mlzdbz",
+            "maintainer_url": "https://t.me/mlzdbz",
             "version_code": "tiramisu",
             "version_name": "Tiramisu",
             "xda_thread": ""
@@ -218,10 +232,10 @@
       "name": "Redmi K30 5G",
       "supported_versions": [
          {
-            "maintainer_name": "masarou",
-            "maintainer_url": "https://github.com/masarou",
-            "version_code": "twelve",
-            "version_name": "Twelve",
+            "maintainer_name": "alosrobot",
+            "maintainer_url": "https://github.com/anischotora",
+            "version_code": "tiramisu",
+            "version_name": "tiramisu",
          }
       ]
    },
@@ -371,10 +385,10 @@
       "name": "Redmi Note 5 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "P.M.SALMANKHAN",
-            "maintainer_url": "https://t.me/SALMAN_IS_HERE",
-            "version_code": "eleven",
-            "version_name": "Eleven",
+            "maintainer_name": "ARIJIT SAHA",
+            "maintainer_url": "https://t.me/whyred_404",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
             "xda_thread": ""
          }
       ]
@@ -583,6 +597,19 @@
            "maintainer_url": "https://t.me/Universeworldbekind",
            "version_code": "twelve",
            "version_name": "Twelve",
+           "xda_thread": ""
+         },
+      ]
+      {
+     "brand": "Xiaomi",
+     "codename": "mars",
+     "name": "Mi 11 Pro",
+     "supported_versions": [
+        {
+           "maintainer_name": "Crisp",
+           "maintainer_url": "https://t.me/Crisp_su",
+           "version_code": "tiramisu",
+           "version_name": "Tiramisu",
            "xda_thread": ""
          },
       ]

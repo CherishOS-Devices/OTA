@@ -1,12 +1,49 @@
 Device: Redmi Note 10 Pro
-Device maintainer: Niranjan & Cykeek
+Device maintainer: JYR_RC
 
-=====24th september, 2022======
-• Update blobs from MIUI V13.0.13.0.SKFEUXM
-• Added back Moto dolby
-• Disable debug.sf.enable_hwc_vds
-• parts: Move Thermal Profiles to battery section
-• Disallow aux cam usage for Telegram / Telegram X
-• Add night display color temperature calibration from Coral
-• Disable intrusive gms components
-• Added props for  smoother scrolling and better responsiveness
+=====27th MARCH, 2023====== 
+
+CherishOS v4.6 - OFFICIAL | Android 13
+
+Build Gapps And Vanilla
+
+Nik gapps recommended In vanilla.
+
+Latest kernel Aghisna version
+LA.UM.9.1.r1-13000-SMxxx0.QSSIxxx
+Ln8000 Driver
+
+Update blobs from 
+LA.UM.9.1.r1-12900-SMxxx0.0
+Update blobs from sweet
+V14.0.2.0.TKFEUXM
+
+Update Codecs Audio One Plus 8.
+
+Support Variants Japan
+G,R,P,I And sweetin Nfc.
+
+Add Missing Media Codecs.
+
+Battery Health support
+
+Smart Charging support.
+
+AOD Ambient Display.
+Customization Colors and Text.
+
+Refresh Rate In Devicessetings.
+
+Refresh Rate Profiles.
+
+Attenuation CC.
+
+Thermal Profiles.
+
+Sound Hi-fi.
+
+Clear Speaker.
+
+OrangeFox Recovery Recommended.
+
+Clean install is recommended.

@@ -3,20 +3,18 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====11 November, 2022 ====
+====14 February, 2022 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Switched FP to cheetah November
-• Removed bdroid_buildcfg.h
-• Switched to threaded Skia render engine backend
-• Dropped audiod
-• libshims: Added shim for camera blobs
-• Switched to common usb-in-recovery configuration
-• Restored recovery import of device-specific script
-• Enabled zygote critical window
-• Migrated to AIDL ClearKey DRM HAL
-• Dropped component overrides
-• Dropped default DRM service
+• Switched FP to cheetah February 
+• Switched to audio HAL to V7
+• Audio: Disabled stereo support for voip
+• Audio: Add offload gapless support flag
+• Disabled dynamic fps
+• Disabled HWC composition strategy prediction
+• Disabled phantom process monitoring
+• Disabled redir_party_num
+• Audio: Removed pro audio capability
 • CTS passed by default
 • Misc small improvements and bug fixes
 

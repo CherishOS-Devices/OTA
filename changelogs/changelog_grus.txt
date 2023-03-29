@@ -1,0 +1,44 @@
+Highlights & Device Specific Changes:
+Build type: Releases
+Device: Xiaomi MI 9 SE
+Device maintainer: Toyohama
+
+=====15th Jan, 2023======
+
+- Initial Build
+- Added some Chinese translations
+- Update to Twilight Kernel
+- Update blobs from MIUI
+
+=====27th Jan, 2023======
+
+-Add encryption
+-Fix wrong model name
+-Add support for wechat fingerprint payment
+-Update WFD system stack from T blobs
+-Update graphics blobs from LA.UM.9.3.r1-02700-sdm845.0
+-Update soter blobs from raphael
+-Added battery health (Can't use now)
+-Synchronize to the latest source code
+-Adjust status bar spacing to accommodate more notification icons
+
+=====12th Feb, 2023======
+
+-Update to Cherish 4.5
+-Fix random reboot
+-Fix battery health
+-Fix failed to start dspservice
+-Fluency optimization
+
+=====19th Mar, 2023======
+
+-Update kernel to v4.9.337
+-Disable client composition cache
+-Allow more cached apps in the background
+-Enable the pre-rendering feature
+-Set globally accessible NTP server
+-Disable per-cgroup PSI accounting for performance
+-Disable VSync for CPU rendered apps
+-Fix smart charging
+-Fix udfps pressed color
+-Switch to QTI Vibrator AIDL

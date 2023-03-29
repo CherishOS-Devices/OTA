@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme x3/x3 superzoom
+Device maintainer: Perses
+
+=====10th Jan, 2023======
+* Merged Jan Patch
+* Merge Kernel to CLO tag LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0
+* Improved Performance
+* Safetynet Passes By Default
+* Many More Improvements Under The Hood
