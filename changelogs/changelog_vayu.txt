@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Poco x3 Pro
 Device maintainer: randomas3000
 
+
+===== 29 march, 2023 =====
+
+- updated to latest sources
+- added bass boost preset for dirac
+- some other changes and improvements
+
 ===== 23 Dec, 2022 =====
 
 - initial official build
