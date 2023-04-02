@@ -3,35 +3,9 @@ Build type: Monthly
 Device: Redmi Note 5 Pro
 Device maintainer: ARIJIT SAHA
 
-=====27th March 2023======
+=====2 April 2023======
 
-• Synced with latest CherishOS source
-• Speed up heavy system apps
-• Speed up system profile services
-• Added Relax Wifi
-• Disable blur on app launch
-• Disabled system blur
-• Added offline charging led indicator
-• Added better ram management prop
-• Added display use smooth motion prop
-• Disabled by default Bluetooth on after first boot
-• Enabled extended wifi service
-• Disabled by default Adaptive brightness on after first boot
-• Disabled by default ui touch sound on after first boot
-• Disabled ripple unlock animation by default
-• Added props for smoother scrolling and better
-• Added a system property for System UI compiler filter
-• Increased handset speaker and mic volume to 100
-• Limit screen recorder frame rate to 60fps
-• Added few touch props
-• Switch to SkiaGL threaded
-• Dropped status bar padding
-• Added prop for make the ui more smoother
-• Disabled slow blur affect to avoid laggish blur affect
-• Disabled TTS force stop warning
-• Set window animation/transition scale to 0%
-• Added init for remove package cache early in boot
-• Added device settings and device doze
-• Added initial support for dirac
-• Removed aptX(HD) encoder shared libs
-• Added prop for enable pre rendering
+• Synced with latest cherish 4.6.1 source
+• Rebased on new 4.4 dt
+• Added 4.4 qti kissMe kernel
+• Others are same as 27th March changelog
