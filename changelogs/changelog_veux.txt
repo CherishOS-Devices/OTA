@@ -1,9 +1,27 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
-Device: Redmi
+Device: Redmi/POCO
 Device maintainer: mlzdbz
+![Device Changelog](https://github.com/CherishOS/android_manifest/raw/tiramisu/assets/cherish.png)
 
-=====09th Nov, 2022======
+## v4.6.1
+```
+veux: Fixed Mobile Data
+veux: Fixed 60Hz Lags
+veux: Added zram
+veux: Boosted performance
+Minor fixes and improvements
+```
 
-- Sync with latest source 
-- Rest u tell me when u install
+## v4.6
+```
+veux: Fixed RIL
+veux: Switched to CN kernel
+veux: Updated GPS HAL
+veux: Updated vendor and kernel from latest MIUI v13.0.5.0 SKCMIXM
+veux: Improved WiFi configurations
+veux: Improved overall smoothness and stability
+veux: Fixed SafetyNet and Google Pay
+veux: Fixed fingerprint for some European users
+veux: Fixed lockscreen to always-on display animation
+```
