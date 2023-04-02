@@ -3,22 +3,15 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====30th Mar 2023======
+=====02 Apr 2023======
 
-- Synced Latest CherishOS v4.6.1 changes
-- Fix Thermal Profiles
-- Add support of LiveDisplay Hal
-- Removed AntiFlicker support from LiveDisplay
-- Updated mi_thermald configs from 14.0.7.0 EU
-- Updated Sensor libs from Miui China V14.0.23.3.13.DEV
-- Added support of 4K 120FPS video recording to Aperture
-- Added support of 1080p 60fps video recording on front camera in Aperture
-- Import IMS app from Renoir
-- Fixing some weird IMS logspams
-- Fixed wallpaper not work
-- Removed gamespace shortcut in mics settings
-- Added Ambient Music Ticker
-- Fixed edited qs after clicking system crash
+- Synced nexus kernel latest from branch staging
+- Fixed overlay in lockscreen
+- Added Volte icon(reboot systemui recommended)
+- Fixed notification always translate 
+- Pre-grant POST_NOTIFICATIONS to some apps 
+- Implemented firewall status bar indicator
+- Added Global VPN feature 
 - Misc. Fixes and Improvements
 
 If you like our work you can donate to us at
