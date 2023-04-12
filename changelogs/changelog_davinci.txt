@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Mi 9T
 Device maintainer: Rumais
 
+=====12thth Apr, 2023======
+
+- Cherish 4.7 Update
+
+=====30th Mar, 2023======
+- Cherish 4.6.1 Qpr2 Update - Need coean flash
+
 =====11th Feb, 2023======
 
 - Uses VantomSyndra Kernel based on Vantom
