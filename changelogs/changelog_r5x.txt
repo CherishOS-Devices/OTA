@@ -4,6 +4,22 @@ Device: Realme 5 Series (5/5i/5s/NFC)
 Device maintainer: Christopher Keith Irvine (MAdMiZ)
 Required firmware: Realme UI c.67 or higher
 
+===== 2023.03.31 =====
+× Added RealmeParts
+× Sync LMKD values from RMX3197 A13
+× Enable ro.hwui.render_ahead and set it to 20 frames
+× Force Fast Charge upto 3000mA
+× Disable Skia tracing by default
+× Converted all overlays to rro_overlays also dropped deprecated ones
+× Ship with latest Cgroup and Task_profiles
+× Move many services to task_profiles ServiceCapacityLow
+× Update Google Hotword permissions
+× Add hwui props from stock RUI 2.0
+× Disable useless LMKD stats logging
+× Switch to new GNSS stack
+× wifi: Disable RX wakelock feature
+
+
 ===== 2023.02.12 =====
 × Upstreamed Kernel To 4.14.304
 × Add passthrough implementation for a2dp
