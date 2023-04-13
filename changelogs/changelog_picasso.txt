@@ -2,6 +2,9 @@ Highlights & Device Specific Changes:
 Device: Redmi K30 5G
 Device maintainer: alosrobot
 
+===== 2023.04.12 =====
+[Device side]
+× added google call record
 ===== 2023.03.26 =====
 [Device side]
 × Added Kprofile
