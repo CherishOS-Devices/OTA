@@ -3,16 +3,21 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====02 Apr 2023======
+=====13 Apr 2023======
 
-- Synced nexus kernel latest from branch staging
-- Fixed overlay in lockscreen
-- Added Volte icon(reboot systemui recommended)
-- Fixed notification always translate 
-- Pre-grant POST_NOTIFICATIONS to some apps 
-- Implemented firewall status bar indicator
-- Added Global VPN feature 
-- Misc. Fixes and Improvements
+- Merged April security patch
+- Added blur toggle to Display options
+- Fixed QS Lag  
+- Fixed: "Clear All" recent app screen loop bug 
+- Fixed FC RecordingService in GameSpace 
+- Fixed battery color on QS for circle battery styles 
+- Dismiss screenshot window on touch outside
+- Enabled Partial Screensharing 
+- Reduced keyguard indication text padding 
+- Redesigned lockscreen bottom buttons 
+- Updated to various icons
+- Improved the system
+- Added some new customizations
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001
