@@ -1,27 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "EvilAnsh",
-                        "oem": "Realme",
-                        "device": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
-                        "filename": "Cherish-OS-v4.6.1-20230330-0308-RM6785-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/RM6785/Cherish-OS-v4.6.1-20230330-0308-RM6785-OFFICIAL-GApps.zip/download",
-                        "timestamp": 1680145552,
-                        "md5": "d974be41fe3b0053c8efcf50083c093f",
-                        "sha256": "09cae7564c78a2d3c8f27792e5769bd6ecf2efcf84f81b706e5eb30479db8009",
-                        "size": 1798689521,
-                        "version": 4.6.1,
-                        "buildtype": "Monthly",
-                        "forum": "https://t.me/cherishOS",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "https://www.paypal.me/hungphan2001",
-                        "telegram": "https://t.me/EvilAnsh",
-                        "dt": "https://github.com/EvilAnsh/android_device_realme_RM6785",
-                        "common-dt": "https://github.com/EvilAnsh/proprietary_vendor_realme",
-                        "kernel": "https://github.com/sarthakroy2002/kernel_realme_wasabi"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "EvilAnsh",
+			"oem": "Realme",
+			"device": "Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G",
+			"filename": "Cherish-OS-v4.7-20230413-1359-RM6785-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/RM6785/Cherish-OS-v4.7-20230413-1359-RM6785-OFFICIAL-GApps.zip/download",
+			"timestamp": 1681394338,
+			"md5": "b1b8d91006b6e651cc3ea0a9d05f7579",
+			"sha256": "37ba2bc97d21cb2a8ec3b2014c12026efa9dfa37c994b57f4097d8724b769862",
+			"size": 2076634238,
+			"version": 4.7,
+			"buildtype": "Monthly",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/EvilAnsh",
+			"dt": "https://github.com/EvilAnsh/android_device_realme_RM6785",
+			"common-dt": "https://github.com/EvilAnsh/proprietary_vendor_realme",
+			"kernel": "https://github.com/sarthakroy2002/kernel_realme_wasabi"
+		}
+	]
 }
