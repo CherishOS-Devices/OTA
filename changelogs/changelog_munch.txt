@@ -4,20 +4,21 @@ Device maintainer: HDzungx
 
 ===== Apr 05, 2023 ======
 
-Changelogs:
-- KProfiles
-- Update blobs to Miui 14
-- CTS Passed by default
-- Synced latest cherish source changes
+Changelog:
+- Fix nfc for some devices
+- Synced latest cherish v4.7 source changes
+- Updated to April security patch
 - Misc. Fixes and Improvement
-- Others...
 
 Note:
+- Skkk TWRP Recommended 
+- OTA Support
 - Fw included
-- Included Leica Cam
+- Dolby Included
+- MiuiCam (Leica) Included
 
 Credit: 
 - @madmax7896 for dt.
--  @NotZetaa for kernel
+- @NotZetaa for kernel
 
 CherishOS | Built with 💖
