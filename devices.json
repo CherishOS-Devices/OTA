@@ -639,5 +639,18 @@
            "xda_thread": ""
          }
    }
+     {
+     "brand": "Samsung",
+     "codename": "a10",
+     "name": "Samsung Galaxy A10",
+     "supported_versions": [
+        {
+           "maintainer_name": "ryan",
+           "maintainer_url": "https://t.me/itzryanhere",
+           "version_code": "tiramisu",
+           "version_name": "Tiramisu",
+           "xda_thread": ""
+         }
+   }
    ]
 ]

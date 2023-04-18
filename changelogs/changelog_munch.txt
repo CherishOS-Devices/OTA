@@ -2,21 +2,23 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== Jan 21, 2022 ======
+===== Apr 05, 2023 ======
 
-Changelogs:
-- Fix sound for some apps
-- CTS Passed by default
-- Synced with latest cherish source changes
+Changelog:
+- Fix nfc for some devices
+- Synced latest cherish v4.7 source changes
+- Updated to April security patch
 - Misc. Fixes and Improvement
 
 Note:
+- Skkk TWRP Recommended 
+- OTA Support
 - Fw included
-- Included Leica Cam
+- Dolby Included
+- MiuiCam (Leica) Included
 
 Credit: 
 - @madmax7896 for dt.
-- @EmanuelCN0 for N0kernel
-- @spkal for miui camera port
+- @NotZetaa for kernel
 
 CherishOS | Built with 💖
