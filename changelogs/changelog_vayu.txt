@@ -2,7 +2,11 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Poco x3 Pro
 Device maintainer: randomas3000
-
+===== 25 apr, 2023 =====
+ - updated to latest sources
+- april security patch
+- enabled LTE_CA feature
+- some other changes and improvements
 
 ===== 29 march, 2023 =====
 
