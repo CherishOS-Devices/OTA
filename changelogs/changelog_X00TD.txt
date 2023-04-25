@@ -3,18 +3,20 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====14 February, 2022 ====
+====12 April, 2023 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Switched FP to cheetah February 
-• Switched to audio HAL to V7
-• Audio: Disabled stereo support for voip
-• Audio: Add offload gapless support flag
-• Disabled dynamic fps
-• Disabled HWC composition strategy prediction
-• Disabled phantom process monitoring
-• Disabled redir_party_num
-• Audio: Removed pro audio capability
+• Switched FP to cheetah April
+• Added offline charging support
+• Set down swappiness to a lower value of 30
+• Enabled aptX(HD) offload
+• Defer triggering WiFi load to HAL
+• Dropped config_setColorTransformAccelerated
+• Enabled ro.hwui.render_ahead and set it to 20 frames
+• Enabled suspend to RAM
+• Disabled vsync for CPU rendered Apps
+• Added Turn off blur option under display settings
+• Allowed all apps to use smart replies
 • CTS passed by default
 • Misc small improvements and bug fixes
 

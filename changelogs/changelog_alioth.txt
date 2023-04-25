@@ -3,18 +3,21 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====27th Feb 2023======
+=====13 Apr 2023======
 
-- Import of DisplayFeature Service
-- Import of TouchFeature Services
-- Import of all Display Calibation configs
-- Add kernel support of Mi_thermald service
-- Fix kernel support of DC Dimming and HBM
-- Add support of DC Dimming and HBM in parts & QS tiles
-- Update VibratorFeature from Munch
-- Add touch profiles for gaming and benchmarking
-- Use game thermal as fallback for GameSpace's listed apps
-- Add touchfeature impl of dt2w
+- Merged April security patch
+- Added blur toggle to Display options
+- Fixed QS Lag  
+- Fixed: "Clear All" recent app screen loop bug 
+- Fixed FC RecordingService in GameSpace 
+- Fixed battery color on QS for circle battery styles 
+- Dismiss screenshot window on touch outside
+- Enabled Partial Screensharing 
+- Reduced keyguard indication text padding 
+- Redesigned lockscreen bottom buttons 
+- Updated to various icons
+- Improved the system
+- Added some new customizations
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001

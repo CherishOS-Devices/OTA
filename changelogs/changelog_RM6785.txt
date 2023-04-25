@@ -4,6 +4,24 @@ Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 Device maintainer: ꪖ​ꪀ𝘴ꫝ|邪惡的 (EvilAnsh)
 Required firmware: Latest
 
+===== 2023.04.13 =====
+• Synced Latest CherishOS v4.7 changes
+• Updated to April security patch
+• 4.14.311 N.E.O.L.I.T Wasabi kernel
+• Fixed QS lag
+• Fix BT disconnect issue
+• Misc. Fixes and Improvements
+
+===== 2023.03.30 =====
+• Synced Latest CherishOS v4.6.1 changes
+• Updated to March security patch
+• 4.14.311 N.E.O.L.I.T. Wasabi Kernel
+• Fixed wallpaper not work
+• Removed gamespace shortcut in mics settings
+• Added Ambient Music Ticker
+• Fixed edited qs after clicking system crash
+• Misc. Fixes and Improvements
+
 ===== 2023.03.28 =====
 • Synced Latest CherishOS v4.6 changes
 • Updated to March security patch
