@@ -3,21 +3,33 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====13 Apr 2023======
+=====26 Apr 2023======
 
-- Merged April security patch
-- Added blur toggle to Display options
-- Fixed QS Lag  
-- Fixed: "Clear All" recent app screen loop bug 
-- Fixed FC RecordingService in GameSpace 
-- Fixed battery color on QS for circle battery styles 
-- Dismiss screenshot window on touch outside
-- Enabled Partial Screensharing 
-- Reduced keyguard indication text padding 
-- Redesigned lockscreen bottom buttons 
-- Updated to various icons
+- Added Combined signal icons toggle
+- Added QS Header Image
+- Added Add support 120fps for Asphalt 9
+- Added custom monet
+- Added support for parallel space (Launcher3)
+- Added locki all apps visible in launcher3
+- Added Pause apps feature (Launcher3)
+- Made brightness mirror background transparent 
+- Fixed crash with HW assist button 
+- Fixed scrim issues regarding transparency
+- Fixed lockscreen album art with no filters
+- Fixed Dynamically adjust Lockscreen clock font spacing 
+- Fixed some problems in DataSwitchTile 
+- Fixed some problems with audio in some sdm660 devices
+- Fixed documents UI not read the storage
 - Improved the system
-- Added some new customizations
+
+Device Changelog:
+
+- Cleanly rework Alioth trees and vendor according to t.me/althafvly V14.0.4.0.TKHMIXM update
+- Speed profile services and wifi-service to reduce RAM and storage
+- Added DC Dimming
+- Removed mi camera(because the problem with front cam)
+- Upstreamed kernel 4.19.280
+- Other Performance optimizations
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001
