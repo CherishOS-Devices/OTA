@@ -1,6 +1,20 @@
 [
    {
       "brand": "Xiaomi",
+      "codename": "Mojito",
+      "name": "Redmi Note 10",
+      "supported_versions": [
+         {
+            "maintainer_name": "Bishal Das",
+            "maintainer_url": "https://t.me/its_bishal",
+            "version_code": "Tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "Sweet",
       "name": "Redmi Note 10 Pro",
       "supported_versions": [
