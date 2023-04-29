@@ -1,0 +1,17 @@
+Device: Redmi Note 10 
+Device maintainer: Bishal Das
+
+=====28th APRIL, 2023====== 
+
+CherishOS v4.7.5 - OFFICIAL | Android 13
+
+ Gapps build
+ Disable SF composition prediction model 
+ Disable sdm rotator downscaler
+ Enable zram on boot
+ Minor fixes and improvements 
+
+NOTES:
+Use MIUI 13.0.11 firmware
+Use TWRP/OFOX
+Clean flash is preferred

@@ -3,16 +3,33 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====02 Apr 2023======
+=====26 Apr 2023======
 
-- Synced nexus kernel latest from branch staging
-- Fixed overlay in lockscreen
-- Added Volte icon(reboot systemui recommended)
-- Fixed notification always translate 
-- Pre-grant POST_NOTIFICATIONS to some apps 
-- Implemented firewall status bar indicator
-- Added Global VPN feature 
-- Misc. Fixes and Improvements
+- Added Combined signal icons toggle
+- Added QS Header Image
+- Added Add support 120fps for Asphalt 9
+- Added custom monet
+- Added support for parallel space (Launcher3)
+- Added locki all apps visible in launcher3
+- Added Pause apps feature (Launcher3)
+- Made brightness mirror background transparent 
+- Fixed crash with HW assist button 
+- Fixed scrim issues regarding transparency
+- Fixed lockscreen album art with no filters
+- Fixed Dynamically adjust Lockscreen clock font spacing 
+- Fixed some problems in DataSwitchTile 
+- Fixed some problems with audio in some sdm660 devices
+- Fixed documents UI not read the storage
+- Improved the system
+
+Device Changelog:
+
+- Cleanly rework Alioth trees and vendor according to t.me/althafvly V14.0.4.0.TKHMIXM update
+- Speed profile services and wifi-service to reduce RAM and storage
+- Added DC Dimming
+- Removed mi camera(because the problem with front cam)
+- Upstreamed kernel 4.19.280
+- Other Performance optimizations
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001

@@ -4,6 +4,18 @@ Device: Realme 5 Series (5/5i/5s/NFC)
 Device maintainer: Christopher Keith Irvine (MAdMiZ)
 Required firmware: Realme UI c.67 or higher
 
+===== 2023.04.27 =====
+× Fixed all known Camera issues
+× Switch to powersave governor on system battery saver and on-charging mode
+× Disable boost Prefer idle on system battery saver mode
+× Disabled many useless loggings
+× Disable some more GMS components
+× Remove aptX(HD) encoder shared libs
+× Disabled Bluetooth APCF Extended features
+× Register more game libraries to sched_lib_name
+× Cleaned up many more useless /rootdir services
+
+
 ===== 2023.03.31 =====
 × Added RealmeParts
 × Sync LMKD values from RMX3197 A13
