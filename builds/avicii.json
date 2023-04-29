@@ -4,13 +4,13 @@
                         "maintainer": "Snippetguy",
                         "oem": "Oneplus",
                         "device": "Oneplus Nord",
-                        "filename": "Cherish-OS-v3.9.5-20220831-0238-avicii-OFFICIAL-GApps.zip",
-                        "download": "https://sourceforge.net/projects/cherish-os/files/device/avicii/Cherish-OS-v3.9.5-20220831-0238-avicii-OFFICIAL-GApps.zip/download",
-                        "timestamp": 1661913514,
-                        "md5": "c82af5ae7bb46a3795f6d133d2bda16b",
-                        "sha256": "f199e20ce1348129dc9272ef8fe87565736cb783a3cea58c7daf818799c3f1dd",
-                        "size": 2100992207,
-                        "version": 3.9.5,
+                        "filename": "Cherish-OS-v4.7.5-20230429-0826-avicii-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/avicii/Cherish-OS-v4.7.5-20230429-0826-avicii-OFFICIAL-GApps.zip/download",
+                        "timestamp": 1682756779,
+                        "md5": "f185bf66277a6891fe01efdd173945ec",
+                        "sha256": "b1e753281204f7a4ed50a8a7b5a0ced08feec4cabc115e71a30591245ee2ceca",
+                        "size": 1897795540,
+                        "version": 4.7.5,
                         "buildtype": "Active Development Releases",
                         "forum": "https://t.me/cherishOS",
                         "gapps": "",
@@ -20,9 +20,9 @@
                         "recovery": "",
                         "paypal": "https://www.paypal.me/hungphan2001",
                         "telegram": "https://t.me/snippetroms",
-                        "dt": "https://github.com/Sandeep-FED/device_op_avicii device/oneplus/avicii",
-                        "common-dt": "https://github.com/Sandeep-FED/device_op_sm7250-common",
-                        "kernel": "https://github.com/PixysOS-Devices/kernel_oneplus_sm7250"
+                        "dt": "https://github.com/Sandeep-FED/android_device_oneplus_avicii",
+                        "common-dt": "",
+                        "kernel": "https://github.com/Sandeep-FED/android_kernel_oneplus_sm7250"
                 }
         ]
 }
