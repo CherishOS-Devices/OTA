@@ -3,15 +3,6 @@ Build type: Monthly
 Device: Oneplus Nord
 Device maintainer: Snippetguy
 
-=====31th august, 2022======
+=====29th APRIL, 2023======
 
-- QS tiles/layout customizations
-- Allow disabling ripple effect on unlock
-- FP authentication vibration
-- Fix navbar color on certain apps
-- Fixes/improvements for QS tiles count settings
-- Stop using marquee for Q tile labels
-- Fix QS customizer corner radius
-- Reduce QS tile padding
-- Dropped some graphic flag for screen record lag fix
-- Fix FP wake-up animation 
+- Sync with latest 4.7.5 source changes
