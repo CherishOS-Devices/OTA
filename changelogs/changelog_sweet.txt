@@ -1,6 +1,33 @@
 Device: Redmi Note 10 Pro
 Device maintainer: JYR_RC
 
+=====29th APRIL, 2023====== 
+
+CherishOS v4.7.5 - OFFICIAL | Android 13
+
+Build Gapps And Vanilla
+
+Nik gapps recommended In vanilla
+
+Miuicamera default.
+
+Latest kernel Aghisna version
+Aghisna-R13
+AZURE-CLANG-VERSION
+Ln8000 Driver.
+
+Audio codecs spacial sound.
+
+OrangeFox Recovery Recommended.
+
+Supported OTA Gapps Build.
+
+
+********************************
+
+Device: Redmi Note 10 Pro
+Device maintainer: JYR_RC
+
 =====27th MARCH, 2023====== 
 
 CherishOS v4.6 - OFFICIAL | Android 13
