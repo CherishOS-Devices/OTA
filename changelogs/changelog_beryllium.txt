@@ -1,7 +1,14 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Pocophone F1
-Device maintainer: AYUSH
+Device maintainer: 𝔸𝕂𝕊ℍ𝔸𝕋
+
+=====02nd May, 2023======
+- Tweaked powerhint for more smoothness
+- Added rounded corners
+- Switched to Kawaii kernel
+- Blur enabled by default(Can be disable through display settings)
+- Some fixes here and there.
 
 =====28th Oct, 2022======
 
