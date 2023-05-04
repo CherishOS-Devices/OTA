@@ -1,0 +1,28 @@
+{
+        "response": [
+                {
+                        "maintainer": "Bishal Das",
+                        "oem": "Redmi",
+                        "device": "Redmi note 10",
+                        "filename": "Cherish-OS-v4.7.5-20230428-0734-mojito-OFFICIAL-GApps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/mojito/Cherish-OS-v4.7.5-20230428-0734-mojito-OFFICIAL-GApps.zip",        
+                        "timestamp": 1682689059,
+                        "md5": "aef4f2a6c77e4459bbaa24de58dcb706",
+                        "sha256": "d53b77c0855d1345e9f6885a563db26eeb2c590b",
+                        "size": 2040109465.6,
+                        "version": "4.7.5", 
+                        "buildtype": "Stable",
+                        "forum": "https://t.me/cherishOS",
+                        "gapps": "",
+                        "firmware": "https://xiaomifirmwareupdater.com/firmware/mojito/",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "https://www.paypal.me/hungphan2001",
+                        "telegram": "https://t.me/mojitosupport",
+                        "dt": "https://github.com/CherishOS-Devices/device_xiaomi_mojito",
+                        "common-dt": "",
+                        "kernel": "https://github.com/"
+                }
+        ]
+}

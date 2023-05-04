@@ -1,6 +1,20 @@
 [
    {
       "brand": "Xiaomi",
+      "codename": "Mojito",
+      "name": "Redmi Note 10",
+      "supported_versions": [
+         {
+            "maintainer_name": "Bishal Das",
+            "maintainer_url": "https://t.me/its_bishal",
+            "version_code": "Tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "Sweet",
       "name": "Redmi Note 10 Pro",
       "supported_versions": [
@@ -177,8 +191,8 @@
          {
             "maintainer_name": "Snippetguy",
             "maintainer_url": "https://t.me/snippetguy",
-            "version_code": "twelve",
-            "version_name": "twelve",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
             "xda_thread": ""
          }
       ]
@@ -441,8 +455,8 @@
       "name": "Pocophone F1",
       "supported_versions": [
          {
-            "maintainer_name": "AYUSH",
-            "maintainer_url": "https://t.me/baka_hokage",
+            "maintainer_name": "𝔸𝕂𝕊ℍ𝔸𝕋",
+            "maintainer_url": "https://t.me/leopubglover",
             "version_code": "tiramisu",
             "version_name": "Tiramisu",
             "xda_thread": ""
