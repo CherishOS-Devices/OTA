@@ -4,6 +4,23 @@ Device: Realme 5 Series (5/5i/5s/NFC)
 Device maintainer: Christopher Keith Irvine (MAdMiZ)
 Required firmware: Realme UI c.67 or higher
 
+===== 2023.05.07 =====
+× Disable Notification LED settings
+× Enable LTE_CA workaround
+× Set LTE+ threshold bandwidth to 0
+× power-libperfmgr: Remove dumpstate support
+× configs/powerhint: Make use of all available CPU frequencies
+× configs/powerhint: Make use of SchedBoost again
+× configs/powerhint: Set screen-off schedutil ratelimits
+× Improved CPU sets configuration
+× Enabled R8 optimizations for SystemUI & system_server
+× Set swappiness to a lower value of 30
+× Set input_boost_freq to 1.3 Ghz
+× Set input_boost_ms to 140 ms.
+× Increased Headset and In-Built Mic Volume
+× Disabled Bluetooth APCF Extended features
+× Addressed Some Waakelocks
+
 ===== 2023.04.27 =====
 × Fixed all known Camera issues
 × Switch to powersave governor on system battery saver and on-charging mode
