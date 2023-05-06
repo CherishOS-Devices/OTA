@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Moto G7
+Device maintainer: FPSensor
+
+# Notes
+
+ - 4.9.333 kernel based
+ - user build type
+ - vanilla only
+
+# Changelogs
+
+===== 2023.05.05 ====
+
+ - initial official release
+ - minor fixes and improvments 

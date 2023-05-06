@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "FPSensor",
+			"oem": "Motorola",
+			"device": "Moto G7",
+			"filename": "Cherish-OS-v4.8-20230506-0553-river-OFFICIAL-Vanilla.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/river/Cherish-OS-v4.8-20230506-0553-river-OFFICIAL-Vanilla.zip/download",
+			"timestamp": 1683352394,,
+			"md5": "797a22e3e6dcd4f5906d9887a2331725",
+			"sha256": "2be1c964806e947330be0fcc981babf8ab76b8f31e6948c56b6bd49d1ac3824b",
+			"size": 894870407,
+			"version": 4.8,
+			"buildtype": "Active Development Releases",
+			"forum": "https://t.me/CherishOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/GKartyt",
+			"telegram": "https://t.me/FPSensorSupport",
+			"dt": "https://github.com/CherishOS-Devices/device_motorola_river",
+			"common-dt": "https://github.com/FPSensor/device_motorola_sdm632-common",
+			"kernel": "https://github.com/FPSensor/kernel_motorola_sdm632"
+		}
+	]
+}
