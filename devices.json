@@ -666,5 +666,18 @@
            "xda_thread": ""
          }
    }
+     {
+     "brand": "Motorola",
+     "codename": "river",
+     "name": "Moto G7",
+     "supported_versions": [
+        {
+           "maintainer_name": "FPSensor",
+           "maintainer_url": "https://t.me/FPSensor",
+           "version_code": "tiramisu",
+           "version_name": "Tiramisu",
+           "xda_thread": ""
+         }
+   }
    ]
 ]
