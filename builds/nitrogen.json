@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Sanek-creed",
+			"oem": "Xiaomi",
+			"device": "Mi Max 3",
+			"filename": "Cherish-OS-v4.8-20230507-1132-nitrogen-UNOFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/nitrogen/Cherish-OS-v4.8-20230507-1132-nitrogen-UNOFFICIAL-GApps.zip/download",
+			"timestamp": 1683458999,
+			"md5": "62cb19488f9651afbebdfd479e6a508f",
+			"sha256": "0927935bd5da46674470b7bf39ab5c4f7a3fb7f7b0779f3630ae3c60a82f9173",
+			"size": 1455386614,
+			"version": 4.8,
+			"buildtype": "",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/cherishos_nitrogen",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
