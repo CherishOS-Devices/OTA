@@ -2,6 +2,8 @@ Highlights & Device Specific Changes:
 Device: Redmi K30 5G
 Device maintainer: alosrobot
 
+===== 2023.05.07 =====
+added refesh rate in display settings
 ===== 2023.04.12 =====
 [Device side]
 × added google call record
