@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Mi Max 3 (nitrogen)
+Device maintainer: Sanek-creed
+
+====================
+     07-05-2023
+====================
+
+* Initial release
+* Synced with latest CherishOS source
+* Added dirac
+* Removed aptX(HD) encoder shared libs
+* prop: Disable SF backpressure
+* Fix error pop-up in every reboot
+* Added system boost tweaks
+* Switch to SkiaGL threaded
+* Disable Blur
+* Disable blur on app launch
+* Disabled ripple unlock animation by default
