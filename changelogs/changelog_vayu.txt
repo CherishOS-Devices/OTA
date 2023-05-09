@@ -3,25 +3,18 @@ Build type: Monthly
 Device: Poco x3 Pro
 Device maintainer: randomas3000
 
-===== 27 apr, 2023 =====
+===== 06 may, 2023 =====
 
-- fixed bug with internal storage
+- May security patch merged in source rom
+- QS Styles improved
+- Replaced lockscreen icons with two-tone icons 
+- Added Statusbar clock background chip styles 
+- pocket mode: Update style to latest OOS specs 
+- Fixed blur intensity in lockscreen
+- PixelPropsUtils: Spoof ROG Phone 3 for FIFA Mobile 
+- Fixed google restore thanks @EvolutionX
+- Improved QS notification expansion animation 
+- Improved the system
 
-===== 25 apr, 2023 =====
-
-- upstream with latest sources
-- april 2023 security patch level
-- added LTE_CA feature
-
-===== 29 march, 2023 =====
-
-- updated to latest sources
-- added bass boost preset for dirac
-- some other changes and improvements
-
-===== 23 Dec, 2022 =====
-
-- initial official build
-- december 2022 security patches
-- fixed issues with blur
-- added battery health and pocked mode overlay
+If you like our work you can donate to us at
+Paypal:- paypal.me/hungphan2001
