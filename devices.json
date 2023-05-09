@@ -679,5 +679,17 @@
            "xda_thread": ""
          }
    }
+     {
+     "brand": "Realme",
+     "codename": "nashc",
+     "name": "Realme 8",
+     "supported_versions": [
+        {
+           "maintainer_name": "Eren Yeager",
+           "maintainer_url": "https://t.me/sukuna_me",
+           "version_code": "tiramisu",
+           "version_name": "Tiramisu",
+           "xda_thread": ""
+         }
    ]
 ]
