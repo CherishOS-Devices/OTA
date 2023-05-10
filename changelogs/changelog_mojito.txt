@@ -1,6 +1,17 @@
 Device: Redmi Note 10 
 Device maintainer: Bishal Das
 
+=====10th MAY, 2023======
+CherishOS v4.8 - OFFICIAL | Android 13
+  
+Minor changes and improvements
+
+NOTES:
+Use MIUI 13.0.11 firmware
+Use TWRP/OFOX
+Clean flash is preferred
+MiCamera is included
+
 =====28th APRIL, 2023====== 
 
 CherishOS v4.7.5 - OFFICIAL | Android 13
