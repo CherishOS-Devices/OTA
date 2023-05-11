@@ -3,20 +3,20 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-====12 April, 2023 ====
+==== 11 May, 2023 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Switched FP to cheetah April
-• Added offline charging support
-• Set down swappiness to a lower value of 30
-• Enabled aptX(HD) offload
-• Defer triggering WiFi load to HAL
-• Dropped config_setColorTransformAccelerated
-• Enabled ro.hwui.render_ahead and set it to 20 frames
-• Enabled suspend to RAM
-• Disabled vsync for CPU rendered Apps
-• Added Turn off blur option under display settings
-• Allowed all apps to use smart replies
+• Switched FP to cheetah May
+• Extended audio offload buffer size to 256kb
+• Disabled debug.sf.latch_unsignaled
+• Removed pro audio capability
+• Used HintManager for HWUI
+• Updated irqbalance for better performance
+• Enabled SurfaceFlinger Cache by default
+• Switched to AutoSingleLayer Android 13 Setting
+• Enabled apk fs-verity
+• Imported audio configs from LA.UM.9.2.r1-03700-SDMxx0.0
+• Removed FM Tuner from audio input devices
 • CTS passed by default
 • Misc small improvements and bug fixes
 
