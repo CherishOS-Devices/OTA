@@ -3,12 +3,11 @@ Build type: Monthly
 Device: Oneplus Nord
 Device maintainer: PSavarMattas
 
+=====08th JUNE, 2023======
+
+- Selinux changes on Device Tree.
+- Conflicting code in hardware/oplus optimized.
+
 =====29th APRIL, 2023======
 
 - Sync with latest 4.7.5 source changes
-
-=====08th JUNE, 2023======
-
-- Sync with latest 4.8 source changes.
-- Device Tree Update (Maintainer Name Changed).
-- Conflicting code in hardware/oplus optimized.
