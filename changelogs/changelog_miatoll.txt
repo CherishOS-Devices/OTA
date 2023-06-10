@@ -3,7 +3,33 @@ Build type: Monthly
 Device: Xiaomi POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
 Device maintainer: COSMIC
 
-=====18th Jan, 2023======
+===== 28th May, 2023 ===
+
+- Added support for Miui camera
+- Added support for KernelSU
+- Switched to FBEv2 encryption
+- Improved vibration
+- Removed extra gapps in gapps build
+- Imported Google photos properties from pixelify
+- Enabled LTE_CA workaround
+- Enabled apk fs-verity
+- Enabled LTE+ icon when available
+- Imported more surface flinger flags
+- Removed unused libs
+- Switched to common Xiaomi light AIDL
+- Switched to common Xiaomi fingerprint HIDL
+- Switched to AIDL power hal
+- Removed aptX(HD) encoder shared libs
+- Build QTI vibrator from source
+- Updated USB controller configuration
+- Flatten APEXs for performance
+- Update media codecs from V13.0.2.0.SJZMIXM and blobs from v13.0.4.0SJZMIXM
+- Improved screen recording
+- Increased QS panel smoothness after QPR2 update
+- Updated cheetah fp to May 2023
+- Overall increased Stability, smoothness & ram management
+
+===== 18th Jan, 2023 ===
 
 - Added QR scanner shortcut in lock screen
 - Dropped smart charging
