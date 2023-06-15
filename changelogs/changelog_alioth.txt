@@ -3,30 +3,24 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====08 May 2023======
+=====14 June 2023======
 
 Source Changelog:
-- May security patch merged in source rom
-- QS Styles improved
-- Replaced lockscreen icons with two-tone icons 
+- Introduced OOS style notification clear all button
+- Refactored notification reticker 
+- Added Spoof current storage encryption status
 - Added Statusbar clock background chip styles 
-- pocket mode: Update style to latest OOS specs 
-- Fixed blur intensity in lockscreen
-- PixelPropsUtils: Spoof ROG Phone 3 for FIFA Mobile 
-- Fixed google restore thanks @EvolutionX
-- Improved QS notification expansion animation 
+- Added more lockscreen clock fonts 
+- Added more Icon Shapes from Iconify 
 - Improved the system
 
 Device Changelog:
-- Added non burst sizes to mandatory streams for ultra high resolution sensors in camera2
-- Imported missing Vibrator Effects for QTI Effects Hal
-- Added Lecia camera again 
-- Upstreamed kernel 4.19.282
-- Disabled sf EGL image tracking 
-- Removed unsupported configuration options in audio
-- hardware_qcom-caf_sm8250: Display, Media and Audio: Merge tag LA.UM.9.12.r1-15400-SMxx50.QSSI13.0
-- sm8250-common: overays: Enable 5G SA and NSA
-- Other Performance optimizations
+- Added Lecia camera from VoidUI 
+- Upstreamed Nexus kernel 4.19.284
+- Alioth: Updated IPA Firmware from Miui 14.0.9.0 EU
+- Alioth: Updated Camera lib from Miui 14.0.9.0 EU
+- Alioth: Updated A2DP Offload from Miui 14.0.9.0 EU
+- Alioth: Updated Audio Lib from Miui 14.0.9.0 EU
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001
