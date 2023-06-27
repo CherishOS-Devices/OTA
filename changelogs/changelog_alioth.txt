@@ -3,24 +3,15 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====14 June 2023======
+=====27 June 2023======
 
 Source Changelog:
-- Introduced OOS style notification clear all button
-- Refactored notification reticker 
-- Added Spoof current storage encryption status
-- Added Statusbar clock background chip styles 
-- Added more lockscreen clock fonts 
-- Added more Icon Shapes from Iconify 
+- Completed rebasing source 
+- Merged June security patch
+- Fixed some of the problems
+- Temporarily removed some features
 - Improved the system
-
-Device Changelog:
-- Added Lecia camera from VoidUI 
-- Upstreamed Nexus kernel 4.19.284
-- Alioth: Updated IPA Firmware from Miui 14.0.9.0 EU
-- Alioth: Updated Camera lib from Miui 14.0.9.0 EU
-- Alioth: Updated A2DP Offload from Miui 14.0.9.0 EU
-- Alioth: Updated Audio Lib from Miui 14.0.9.0 EU
+- Added some new customizations
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001
