@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Eren Yeager",
+			"oem": "Realme",
+			"device": "nashc",
+			"filename": "Cherish-OS-v4.8-20230507-0815-nashc-OFFICIAL-Gapps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/nashc/Cherish-OS-v4.8-20230507-0815-nashc-OFFICIAL-GApps.zip/download",
+			"timestamp": 1683483951,
+			"md5": "f8eb0d704593107102c930f2a9a880c7",
+			"sha256": "639823d4bee744dd8afbff5ae16fc9d0e389fa57",
+			"size": 1329532311,
+			"version": 4.8,
+			"buildtype": "Monthly",
+			"forum": "https://t.me/cherishOS",
+                        "vanilla": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/sukuna_me",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
