@@ -1,10 +1,24 @@
-Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Oneplus Nord
 Device maintainer: PSavarMattas
+Highlights & Device Specific Changes:
+
+=====30th JUNE, 2023======
+
+- Vendor Security Patch updated to May, 2023
+- Added OnePlus Camera
+- Added OnePlus Gallery
+- Added Support for Dolby Atmos
+- Imported Media Codec Configs from OOS
+
+Note:
+- Kernel can be changed to NeverSettle Kernel for better optimizations
+
+Special Thanks to Sanju0910 for OnePlus Blobs & Vendor
 
 =====08th JUNE, 2023======
 
+- Sync with latest 4.8 source changes
 - Selinux changes on Device Tree.
 - Conflicting code in hardware/oplus optimized.
 
