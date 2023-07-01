@@ -42,3 +42,12 @@ Device maintainer: Toyohama
 -Fix smart charging
 -Fix udfps pressed color
 -Switch to QTI Vibrator AIDL
+
+=====30th June, 2023======
+
+-Update to lastest Twilight Kernel
+-Migrate to AIDL ClearKey DRM HAL
+-Switch to jemalloc for libc
+-Add google camera
+-Fixed screen recording lag
+-Fixed systemui lag
