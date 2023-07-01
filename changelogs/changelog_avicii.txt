@@ -5,11 +5,14 @@ Highlights & Device Specific Changes:
 
 =====30th JUNE, 2023======
 
-- Vendor Security Patch updated to May, 2023
 - Added OnePlus Camera
 - Added OnePlus Gallery
 - Added Support for Dolby Atmos
 - Imported Media Codec Configs from OOS
+- Vendor Security Patch updated to May, 2023
+
+Bugs:
+- The lockscreen wallpaper can't be changed due to source issue it will be the same as the homescreen wallpaper.
 
 Note:
 - Kernel can be changed to NeverSettle Kernel for better optimizations
