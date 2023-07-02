@@ -3,21 +3,18 @@ Device: Oneplus Nord
 Device maintainer: PSavarMattas
 Highlights & Device Specific Changes:
 
-=====30th JUNE, 2023======
+=====02th JULY, 2023======
 
-- Added OnePlus Camera
-- Added OnePlus Gallery
-- Added Support for Dolby Atmos
-- Imported Media Codec Configs from OOS
-- Vendor Security Patch updated to May, 2023
+- Ported to NeverSettle Kernel v1.5.5
+- Added OnePlus Camera 
+- Added OnePlus Gallery 
+- Added Support for Dolby Atmos 
+- Imported Media Codec Configs from OOS 
+- Vendor Security Patch updated to May, 2023 
 
-Bugs:
-- The lockscreen wallpaper can't be changed due to source issue it will be the same as the homescreen wallpaper.
-
-Note:
-- Kernel can be changed to NeverSettle Kernel for better optimizations
-
-Special Thanks to Sanju0910 for OnePlus Blobs & Vendor
+Credits:
+- NeverSettle Kernel by Sanju0910
+- OnePlus Blobs & Vendor by Sanju0910
 
 =====08th JUNE, 2023======
 
