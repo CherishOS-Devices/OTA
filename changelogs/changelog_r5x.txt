@@ -4,6 +4,21 @@ Device: Realme 5 Series (5/5i/5s/NFC)
 Device maintainer: Christopher Keith Irvine (MAdMiZ)
 Required firmware: Realme UI c.67 or higher
 
+===== 2023.07.10 =====
+× overlay: Enable performant auth feature
+× gps: Implement xtra-daemon control via property
+× rootdir: Increase ZRAM size to 60% of RAM size
+× rootdir: Remove on charger state CPUs
+× audio: Import Viper4Android
+× rootdir: Remove max ZRAM compression streams setting
+× init: Better use the device model
+× treewide: Cleanup iorap props and sepolicy
+× configs/powerhint: List more latest unlocked CPU frequencies
+× configs/powerhint: Set 500ms timeout for interaction boosts
+× configs/powerhint: Drop interaction boost for big cores
+× rro_ overlay: Disable AOD
+
+
 ===== 2023.07.01 =====
 × powerhint: Enable F2FS background GC
 × rootdir: Use s2idle instead of deep
