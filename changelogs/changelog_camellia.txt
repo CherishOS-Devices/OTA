@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Device: Redmi Note 10 5G/Poco M3 Pro 5G 
+Device maintainer: ramshell688
+
+===== Jun 09, 2023 ======
+
+Changelog:
+- Initial release
+
+Credit:
+- @rio113 for dt
+- @VipulSharma_007 for tester
