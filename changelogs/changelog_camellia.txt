@@ -1,5 +1,5 @@
 Highlights & Device Specific Changes:
-Device: Redmi Note 10 5G/Poco M3 Pro 5G 
+Device: Redmi Note 10 5G/Redmi Note 10T/Redmi Note 11SE/Poco M3 Pro
 Device maintainer: ramshell688
 
 ===== Jun 09, 2023 ======
