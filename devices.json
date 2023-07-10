@@ -16,7 +16,7 @@
    {
       "brand": "Xiaomi",
       "codename": "camellia",
-      "name": "Redmi Note 10 5G/Redmi Note 10T/Redmi Note 11SE/Poco M3 Pro",
+      "name": "POCO M3 Pro/Redmi Note 10T/Redmi Note 10 5G/Redmi Note 11SE",
       "supported_versions": [
          {
 	    "maintainer_name": "ramshell688",
