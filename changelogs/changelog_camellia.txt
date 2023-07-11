@@ -1,11 +1,15 @@
 Highlights & Device Specific Changes:
-Device: Redmi Note 10 5G/Redmi Note 10T/Redmi Note 11SE/Poco M3 Pro
-Device maintainer: ramshell688
+Device: POCO M3 Pro/Redmi Note 10T/10 5G/11 SE
+Device maintainer: Rams
 
-===== Jun 09, 2023 ======
+===== Jun 10, 2023 ======
 
 Changelog:
 - Initial release
+- July security patch
+- Gapps & Vanilla built
+- Gapps OTA supported
+- SELinux is permissive
 
 Credit:
 - @rio113 for dt
