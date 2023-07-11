@@ -15,6 +15,20 @@
    },
    {
       "brand": "Xiaomi",
+      "codename": "camellia",
+      "name": "POCO M3 Pro/Redmi Note 10T/10 5G/11 SE",
+      "supported_versions": [
+         {
+	    "maintainer_name": "Rams",
+	    "maintainer_url": "https://t.me/ramsprojects",
+	    "version_code": "Tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+	 }
+      ]
+   },
+   {
+      "brand": "Xiaomi",
       "codename": "Sweet",
       "name": "Redmi Note 10 Pro",
       "supported_versions": [
