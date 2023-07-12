@@ -263,7 +263,7 @@
             "maintainer_name": "alosrobot",
             "maintainer_url": "https://github.com/anischotora",
             "version_code": "tiramisu",
-            "version_name": "tiramisu",
+            "version_name": "tiramisu"
          }
       ]
    },
@@ -594,120 +594,128 @@
      "codename": "laurel_sprout",
      "name": "Mi A3",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "RAYAN",
            "maintainer_url": "https://t.me/Universeworldbekind",
            "version_code": "twelve",
            "version_name": "Twelve",
            "xda_thread": ""
-         },
-        ]
-     {
+         }
+      ]
+   },
+   {
      "brand": "Xiaomi",
      "codename": "juice",
      "name": "Redmi 9T/Poco M3",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "Chikoni_UwU",
            "maintainer_url": "https://t.me/chikoni_uwu",
            "version_code": "tiramisu",
            "version_name": "Tiramisu",
            "xda_thread": ""
-         },
+         }
       ]
-      {
+   },
+   {
      "brand": "Xiaomi",
      "codename": "laurel_sprout",
      "name": "Mi A3",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "RAYAN",
            "maintainer_url": "https://t.me/Universeworldbekind",
            "version_code": "twelve",
            "version_name": "Twelve",
            "xda_thread": ""
-         },
+         }
       ]
-      {
+   },
+   {
      "brand": "Xiaomi",
      "codename": "mars",
      "name": "Mi 11 Pro",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "Crisp",
            "maintainer_url": "https://t.me/Crisp_su",
            "version_code": "tiramisu",
            "version_name": "Tiramisu",
            "xda_thread": ""
-         },
+         }
       ]
-     {
+   },
+   {
      "brand": "Xiaomi",
      "codename": "certus",
      "name": "Redmi 6/6a",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "Chikoni_UwU",
            "maintainer_url": "https://t.me/chikoni_uwu",
            "version_code": "twelve",
            "version_name": "Twelve",
            "xda_thread": ""
          }
-   }
-     {
+      ]
+   },
+   {
      "brand": "Poco",
      "codename": "vayu",
      "name": "Poco x3 Pro",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "randomas3000",
            "maintainer_url": "https://t.me/randomas_3000",
            "version_code": "tiramisu",
            "version_name": "Tiramisu",
            "xda_thread": ""
          }
-   }
-     {
+     ]
+   },
+   {
      "brand": "Samsung",
      "codename": "a10",
      "name": "Samsung Galaxy A10",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "ryan",
            "maintainer_url": "https://t.me/itzryanhere",
            "version_code": "tiramisu",
            "version_name": "Tiramisu",
            "xda_thread": ""
          }
-   }
-     {
+      ]
+   },
+   {
      "brand": "Motorola",
      "codename": "river",
      "name": "Moto G7",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "FPSensor",
            "maintainer_url": "https://t.me/FPSensor",
            "version_code": "tiramisu",
            "version_name": "Tiramisu",
            "xda_thread": ""
          }
-   }
-     {
+      ]
+   },
+   {
      "brand": "Realme",
      "codename": "nashc",
      "name": "Realme 8",
      "supported_versions": [
-        {
+         {
            "maintainer_name": "Eren Yeager",
            "maintainer_url": "https://t.me/sukuna_me",
            "version_code": "tiramisu",
            "version_name": "Tiramisu",
            "xda_thread": ""
          }
-   ]
-   }
-     {
+      ]
+   },
+   {
      "brand": "Oneplus",
      "codename": "martini",
      "name": "OnePlus 9RT",
@@ -719,5 +727,6 @@
            "version_name": "Tiramisu",
            "xda_thread": ""
          }
-   ]
+      ]
+   }
 ]
