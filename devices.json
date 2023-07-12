@@ -716,6 +716,20 @@
       ]
    },
    {
+      "brand": "Redmi",
+      "codename": "twolip",
+      "name": "Redmi Note 6 Pro",
+      "supported_versions": [
+          {
+            "maintainer_name": "Sundram",
+            "maintainer_url": "https://t.me/Nerd_sundram",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+          }
+       ]
+    },
+   {
      "brand": "Oneplus",
      "codename": "martini",
      "name": "OnePlus 9RT",

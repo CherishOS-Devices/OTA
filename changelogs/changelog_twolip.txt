@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 6 Pro
+Device maintainer: Sundram
+
+===== 12 july, 2023 =====
+
+- Reduced Status bar padding
+- Added Props for better battery life
+- Fixed Mic issue in Apps like whatsapp 
+- Switch to Zstd zram compression 
+
+If you like our work you can donate to us at
+Paypal:- paypal.me/hungphan2001
