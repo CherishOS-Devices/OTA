@@ -1,6 +1,20 @@
 [
    {
       "brand": "Xiaomi",
+      "codename": "Redwood",
+      "name": "POCO X5 PRO 5G",
+      "supported_versions": [
+         {
+            "maintainer_name": "PRIYANSHU",
+            "maintainer_url": "https://t.me/thepriyanshujangid",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+         }
+      ]
+   },
+ {
+      "brand": "Xiaomi",
       "codename": "Mojito",
       "name": "Redmi Note 10",
       "supported_versions": [
