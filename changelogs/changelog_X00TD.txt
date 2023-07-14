@@ -3,18 +3,11 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-==== 01 July, 2023 ====
+==== 13 July, 2023 ====
 • Synced with latest cherish source changes
 • Decrypted by default
-• Switched FP to cheetah June
-• Props: Imported more surface flinger flags
-• Props: Enabled SurfaceFlinger Cache by default 
-• Props: Used HintManager for HWUI 
-• Displayconfig: Added brightness ramp rate
-• Dropped config_setColorTransformAccelerated
-• Unpinned updatable-media from memory 
-• Migrated to AIDL ClearKey DRM HAL
-• Removed vendor RenderScript implementation 
+• Switched FP to cheetah July
+• Same Device Changes included in v4.10
 • CTS passed by default
 • Misc small improvements and bug fixes
 
