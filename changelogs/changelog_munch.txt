@@ -2,17 +2,13 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== May 14, 2023 ======
+===== July 10, 2023 ======
 
 Changelog:
-- Add BatteryBar
-- Add Block Sensor
-- Add StatusBarIcon
-- Add CPUInfoOverlay
-- Addressed Some Wakelocks
-- Limit AOD & ambient display refresh rate to 60Hz
-- Debloat GApps
-- Synced with latest cherish source changes
+- Synced with latest cherish 4.10 source
+- Updated blobs from miui v14.0.3.0.TLMMIXM
+- Updated CarrierConfig from v14.0.3.0.TLMMIXM
+- Improved overall performance
 - Misc. Fixes and Improvement
 - Others...
 

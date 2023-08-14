@@ -3,15 +3,30 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====27 June 2023======
+=====10 July 2023======
+
+Device Changelog:
+- Added missing thermal configs
+- Fixed Lecia Camera can not make picture
+- Upstreamed kernel 4.19.288 for kernel MeoMeo
+- Updated ACDB from Miui 14.0.9.0 EU to latest QCOM Version
 
 Source Changelog:
-- Completed rebasing source 
-- Merged June security patch
-- Fixed some of the problems
-- Temporarily removed some features
+- July security patch merged
+- Replaced lockscreen icons with two-tone icons 
+- Added monet settings
+- Added Landscape iOS battery styles from Iconify
+- Added support for custom themed icon pack in Launcher3 
+- Fixed wallpaper can not set in homescreen/lockscreen
+- Fixed security not work in vanilla build
+- Fixed wallpapper and style force close in vanilla build
+- Fixed force close in setting home layout
+- Fixed issues with center clock
+- Fixed list style alert dialog to use system font 
+- Removed stock battery percents option
+- Improved QS notification expansion animation 
 - Improved the system
-- Added some new customizations
+
 
 If you like our work you can donate to us at
 Paypal:- paypal.me/hungphan2001
