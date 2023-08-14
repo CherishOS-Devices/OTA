@@ -3,6 +3,10 @@ Device: Redmi K30 5G
 Device maintainer: alosrobot
 
 ===== 2023.07.06 =====
+* fast charging fixed
+* drop miui cam
+* drop moto dolby
+===== 2023.07.06 =====
 × fix some bugs
 ===== 2023.05.07 =====
 added refesh rate in display settings
