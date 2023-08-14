@@ -756,5 +756,19 @@
            "xda_thread": ""
          }
       ]
-   }
+   },
+   {
+      "brand": "POCO",
+      "codename": "fleur",
+      "name": "POCO M4 Pro/Redmi Note 11S",
+      "supported_versions": [
+          {
+            "maintainer_name": "gabutuniverse(fajar)",
+            "maintainer_url": "https://t.me/gabutuniverse",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+          }
+       ]
+    }
 ]
