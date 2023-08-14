@@ -4,13 +4,13 @@
 			"maintainer": "𝔸𝕂𝕊ℍ𝔸𝕋",
 			"oem": "Xiaomi",
 			"device": "Xiaomi Pocophone F1",
-			"filename": "Cherish-OS-v4.8-20230505-0717-beryllium-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherish-os/files/device/beryllium/Cherish-OS-v4.8-20230505-0717-beryllium-OFFICIAL-GApps.zip/download",
-			"timestamp": 1683270817,
-			"md5": "6ebcacce602296643df71c5d47593d99",
-			"sha256": "08e2b0c9efb73a4780665ceb27924ff374a90067788839fe83e2e3bdc258dbaa",
-			"size": 1629800214,
-			"version": 4.8,
+			"filename": "Cherish-OS-v4.10-20230711-1655-beryllium-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/beryllium/Cherish-OS-v4.10-20230711-1655-beryllium-OFFICIAL-GApps.zip/download",
+			"timestamp": 1689094350,
+			"md5": "1d91e5c5ce2b2377384a7c3ab6d3490f",
+			"sha256": "b9a81a52df9b069123a2508f45b4d3d29783c67a8df199d4e7b8ce077e8eb444",
+			"size": 1747917758,
+			"version": 4.10,
 			"buildtype": "Active Development Releases",
 			"forum": "",
                         "gapps": "",
@@ -22,7 +22,7 @@
 			"telegram": "https://t.me/cherishospocof1",
 			"dt": "https://github.com/CherishOS-Devices/device_xiaomi_beryllium",
 			"common-dt": "https://github.com/CherishOS-Devices/device_xiaomi_sdm845-common",
-			"kernel": "https://github.com/Krtonia/kawaii_kernel_sdm845"
+			"kernel": "https://github.com/ArrowOS-Devices/android_kernel_xiaomi_beryllium"
 		}
 	]
 }
