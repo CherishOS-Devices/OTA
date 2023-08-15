@@ -4,6 +4,22 @@ Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 Device maintainer: ꪖ​ꪀ𝘴ꫝ|邪惡的 (EvilAnsh)
 Required firmware: Latest
 
+===== 2023.08.13 =====
+• Synced Latest CherishOS v4.11 changes
+• Aug security patch merged
+• Shipped with the latest LINEAGE-PLUS kernel (v4.14.320)
+• Used the latest Cosmic Clang 18 in compiling the kernel
+• Added QS Header Image back
+• overlay: Enable sidefps performant auth by default
+• overlay: Enable auto-power-save modes
+• Misc. Fixes and Improvements
+
+===== 2023.07.28 =====
+• Synced Latest CherishOS v4.10 changes
+• Shipped with the latest Lineage kernel (v4.14.320)
+• Used the latest Cosmic Clang 17 in compiling the kernel
+• Misc. Fixes and Improvements
+
 ===== 2023.05.11 =====
 • Synced Latest CherishOS v4.8 changes
 • May ASB (android-13.0.0_r44)
@@ -19,7 +35,7 @@ Required firmware: Latest
 • Improved the system
 • Misc. Fixes and Improvements
 
-===== 2023.04.29
+===== 2023.04.29 =====
 • Synced Latest CherishOS v4.7.5 changes
 • April ASB (android-13.0.0_r41)
 • Upstreamed kernel to 4.14.314
