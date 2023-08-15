@@ -3,12 +3,7 @@ Build type: Monthly
 Device: Redmi Note 5 Pro
 Device maintainer: ARIJIT SAHA
 
-=====10 July 2023======
+=====14 August 2023======
 
-• Synced with latest cherish 4.10 source
-• Speed up system animation
-• Fixed previous issues in 4.9
-• Improved qs pulling animation
-• Improved battery backup
-• Removed some duplicate props
+• Synced with latest cherish 4.11 source
 • Many more underhood changes
