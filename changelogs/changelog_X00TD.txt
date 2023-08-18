@@ -3,17 +3,23 @@ Build type: Monthly
 Device: Asus Zenfone Max Pro M1(X00TD)
 Device maintainer: NotHarshhaa
 
-==== 13 July, 2023 ====
+==== 18 August, 2023 ====
 • Synced with latest cherish source changes
-• Decrypted by default
-• Switched FP to cheetah July
-• Same Device Changes included in v4.10
+• Switched FP to cheetah August
+• Added basic USB HAL that reports no status change
+• Used 64-bit user-space binder interface
+• Build all extra VNDK versions
+• Dropped VR Hal
+• Build graphics allocator @3.0 and @4.0
+• Disabled GPS by default at boot
+• Disabled ZSL mode
 • CTS passed by default
 • Misc small improvements and bug fixes
 
 => Notes : -
 • SELinux Enforcing
-• GApps are included
+• GApps are not included
+• NikGapps Basic is recommended
 • Based on 4.4 kernel , NON-FBE
 • Orfox R11.1/BRP/Twrp-3.6.1_9.0 recovery is recommended
 • Recommended Firmware : 063,087 and higher
