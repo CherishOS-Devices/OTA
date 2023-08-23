@@ -3,6 +3,13 @@ Build type: Monthly
 Device: Redmi Note 6 Pro
 Device maintainer: Sundram
 
+===== 22 August, 2023 =====
+
+- Use Qualcom implementation for audio effects.
+- Increase 5Ghz Signal tolerance.
+- Import speed profile services.
+- Many more Underhood changes
+
 ===== 12 july, 2023 =====
 
 - Reduced Status bar padding
