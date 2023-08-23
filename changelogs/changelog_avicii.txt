@@ -3,6 +3,12 @@ Device: Oneplus Nord
 Device maintainer: PSavarMattas
 Highlights & Device Specific Changes:
 
+=====17nd AUGUST, 2023======
+
+- Sync with latest 4.11 source changes
+- NeverSettle Kernel removed instead Escrima Kernel is used
+- Vendor Security Patch updated to July, 2023
+
 =====09nd JULY, 2023======
 
 - Sync with latest 4.10 source changes
