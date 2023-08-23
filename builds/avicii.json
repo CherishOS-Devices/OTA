@@ -4,13 +4,13 @@
 			"maintainer": "PSavarMattas",
 			"oem": "Oneplus",
 			"device": "Oneplus Nord",
-			"filename": "Cherish-OS-v4.10-20230709-0246-avicii-OFFICIAL-GApps.zip",
-			"download": "https://sourceforge.net/projects/cherishos-avicii/files/Cherish-OS-v4.10-20230709-0246-avicii-OFFICIAL-GApps.zip/download",
-			"timestamp": 1688870704,
-			"md5": "6a14e7b601a150d666b6a6c7e173fd63",
-			"sha256": "7bec2a816a61ba5cf318b378f190126a9d2d88bff94a76aa313df497e63ce25e",
-			"size": 2199023499,
-			"version": 4.10,
+			"filename": "Cherish-OS-v4.11-20230817-1200-avicii-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/avicii/Cherish-OS-v4.11-20230817-1200-avicii-OFFICIAL-GApps.zip/download",
+			"timestamp": 1692273302,
+			"md5": "94b51e63e69d477ff6ec8fe8e7d8c9d7",
+			"sha256": "d2b53ee64c0ff78d7b205acf4d4abf1f2eab93cdbfec94e42eb6c647b93e43ad",
+			"size": 2215845581,
+			"version": 4.11,
 			"buildtype": "Active Development Releases",
 			"forum": "https://t.me/cherishOS",
                         "gapps": "",
@@ -22,7 +22,7 @@
 			"telegram": "https://t.me/psmbuilds",
 			"dt": "https://github.com/psavarmattas/device_oneplus_avicii.git",
 			"common-dt": "",
-			"kernel": "https://gitlab.com/Sanju0910/android_kernel_oneplus_avicii"
+			"kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm7250.git"
 		}
 	]
 }
