@@ -47,8 +47,8 @@
       "name": "Redmi Note 10 Pro",
       "supported_versions": [
          {
-            "maintainer_name": "JYR_RC",
-            "maintainer_url": "https://t.me/JYR_RC",
+            "maintainer_name": "Hariom Harsh",
+            "maintainer_url": "https://t.me/xd1198",
             "version_code": "Tiramisu",
             "version_name": "Tiramisu",
             "xda_thread": "https://forum.xda-developers.com/m/jyr_rc.12465769/"
@@ -756,5 +756,19 @@
            "xda_thread": ""
          }
       ]
-   }
+   },
+   {
+      "brand": "POCO",
+      "codename": "fleur",
+      "name": "POCO M4 Pro/Redmi Note 11S",
+      "supported_versions": [
+          {
+            "maintainer_name": "gabutuniverse(fajar)",
+            "maintainer_url": "https://t.me/gabutuniverse",
+            "version_code": "tiramisu",
+            "version_name": "Tiramisu",
+            "xda_thread": ""
+          }
+       ]
+    }
 ]

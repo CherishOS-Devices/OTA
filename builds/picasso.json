@@ -3,7 +3,14 @@
 		{
 			"maintainer": "alosrobot",
 			"oem": "Redmi",
-			"device": "Redmi K30 5G",
+			"device": "Redmi K30 5G"
+			"filename": "Cherish-OS-v4.11-20230813-1725-picasso-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/picasso/Cherish-OS-v4.11-20230813-1725-picasso-OFFICIAL-GApps.zip/download",
+			"timestamp": 1691947074,
+			"md5": "b033a72bf979286586bef5a988bc57c2",
+			"sha256": "c096f3e6d9d61d022fb520915ca2cf1a71953d7fd316dbb57f1e38a1531adef2",
+			"size": 2079818759,
+			"version": 4.11,
 			"filename": "Cherish-OS-v4.10-20230706-0737-picasso-OFFICIAL-GApps.zip",
 			"download": "https://sourceforge.net/projects/cherish-os/files/device/picasso/Cherish-OS-v4.10-20230706-0737-picasso-OFFICIAL-GApps.zip/download",
 			"timestamp": 1688629059,
