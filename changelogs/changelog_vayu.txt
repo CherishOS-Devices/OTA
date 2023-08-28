@@ -3,25 +3,8 @@ Build type: Monthly
 Device: Poco x3 Pro
 Device maintainer: randomas3000
 
-===== 27 apr, 2023 =====
-
-- fixed bug with internal storage
-
-===== 25 apr, 2023 =====
-
-- upstream with latest sources
-- april 2023 security patch level
-- added LTE_CA feature
-
-===== 29 march, 2023 =====
-
-- updated to latest sources
-- added bass boost preset for dirac
-- some other changes and improvements
-
-===== 23 Dec, 2022 =====
-
-- initial official build
-- december 2022 security patches
-- fixed issues with blur
-- added battery health and pocked mode overlay
+===== 27-aug-2023 =====
+- updated to august security patch
+- fixed device treee related issues
+- added dirac logo 
+- enabled some props for AAC bt codec
