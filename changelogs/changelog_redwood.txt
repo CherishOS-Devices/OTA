@@ -1,0 +1,18 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: POCO X5 Pro 5G (redwood)
+Device maintainer: PRIYANSHU
+
+===== 15 July, 2023 =====
+
+• Added AOD at 60hz 
+• Added Moto Dolby Atmos for loud and clear sound output 
+• haptics are improved for better UI toggling & typing experience 
+• fixed low brightness
+• Added pocket mode support 
+• Added smart pixel support
+• Added 120fps screen recording support
+
+===== 13 July, 2023 =====
+
+- Initial Cherish 4.10

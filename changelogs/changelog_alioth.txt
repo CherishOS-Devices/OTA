@@ -3,15 +3,16 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====27 June 2023======
-
-Source Changelog:
-- Completed rebasing source 
-- Merged June security patch
-- Fixed some of the problems
-- Temporarily removed some features
+=====10 July 2023======
+ Aug security patch merged
+- Added support for kalama and taro platform 
+- Added back button for freeform window 
+- Added QS Header Image
+- Added text Tell user when face unlock detection is running 
+- PixelPropsUtils: Refactor 
+- Updated from cheetah TQ3A.230705.001 in charger
+- Updated translation from the crowdin
+- Resolved crash when updating control list services
+- Fixed possible NPE in StatusBarIconList causing bootloop
+- Fixed match legacy toast view with SystemUI
 - Improved the system
-- Added some new customizations
-
-If you like our work you can donate to us at
-Paypal:- paypal.me/hungphan2001

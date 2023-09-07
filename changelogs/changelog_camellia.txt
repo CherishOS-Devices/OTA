@@ -1,0 +1,24 @@
+Highlights & Device Specific Changes:
+Device: POCO M3 Pro/Redmi Note 10T/10 5G/11 SE
+Device maintainer: Rams (ramshell688)
+
+===== Aug 13, 2023 =====
+
+Changelog:
+- Fixed ADB Sideload
+- August security patch
+- SELinux is Enforcing
+- Switch HWUI rendering backend to skiagl
+
+===== Jul 10, 2023 ======
+
+Changelog:
+- Initial official release
+- July security patch
+- Gapps & Vanilla built
+- Gapps OTA supported
+- SELinux is permissive
+
+Credit:
+- @rio113 for dt
+- @VipulSharma_007 for tester

@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Pocophone F1
 Device maintainer: 𝔸𝕂𝕊ℍ𝔸𝕋
 
+=====12th July,2023======
+* Synced with latest source
+* Added Moto Dolby Support
+* Inlined new MIcam
+* Fixed google recorder issues
+* Switched HWUI rendering backend to opengl
+* Enabled perf hint window
+
 =====06 May,2023======
 - Synced on the latest May Source
 - Enabled Call Recording Option on Gapps build

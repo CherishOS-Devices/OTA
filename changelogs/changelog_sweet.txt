@@ -74,3 +74,21 @@ Clear Speaker.
 OrangeFox Recovery Recommended.
 
 Clean install is recommended.
+
+=====12th AUGUST, 2023====== 
+
+CherishOS v4.11 - OFFICIAL | Android 13
+
+HBM added.
+
+Dc dimming added.
+
+Added Miui Camera
+
+Fix lag while opening aapp and Qs lags
+
+Dolby added.
+
+Fixed the Screen lag during Screen recording.
+
+August Security patch merged.

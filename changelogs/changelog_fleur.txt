@@ -1,0 +1,44 @@
+Highlights & Device Specific Changes
+Device: POCO M4 Pro 4G/Redmi Note 11S 4G
+Device maintainer: gabutuniverse
+
+===== August 27, 2023 ======
+- Enable LTE_CA workaround 
+- Remove frozen and unfrozen cgroup 
+- Disable CPU hotplug data parsing on mi_thermald
+- Add HDR and AOSP color props
+- Many more under the hood changes and optimizations
+- And etc..
+
+===== July 17, 2023 ======
+- Fixed Video flicker issue
+- Fixed Refresh Rate issue
+- Fixed Fingerprint Issue 
+- Gapps OTA supported
+- July security patch
+- Updated Kernel from MIUI 13.0.9.0.SKEMIXM
+- Updated Blobs from MIUI 13.0.9.0.SKEMIXM
+- Enable Charger suspend
+- Remove unused blobs from MemeUI
+- Switch back to Hybrid scheduler
+- Shut up even more log-spamming services 
+- Remove IO read_ahead_kb tune 
+- Kill IMS log spam 
+- Prefer hwcodecs for thumbnails
+- Update SF props from cheetah 
+- Compact and Allow cached app heaps in the background
+- Set Correct INTERACTION uclamp value down to 50% 
+- Boost schedtune during bootup 
+- Add blkio tuning from sunfish 
+
+===== July 04, 2023 ======
+- Initial Enforcing Build
+- Enable config_avoidGfxAccel 
+- Import Mali EGL Configs
+- Drop uneeded stp_dump3 service
+- Build AOSP FMRadio 
+- Drop AEE Feature 
+
+Credits: 
+- thx to @rusyd4, @daylight017, @akbluck for tester
+- Thanks to all for helped and supported me!

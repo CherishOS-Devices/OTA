@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Sundram",
+			"oem": "Redmi",
+			"device": "Redmi Note 6 Pro",
+			"filename": "Cherish-OS-v4.11-20230816-1815-twolip-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/twolip/Cherish-OS-v4.11-20230816-1815-twolip-OFFICIAL-GApps.zip/download",
+			"timestamp": 1692209628,
+			"md5": "f28a4e3e0b9f1623b685c9ade9b27303",
+			"sha256": "cc8cf077f5944ea2b49b97d6985bf94048ffe4703707c4e349a55454254dbcbb",
+			"size": 1419765916,
+			"version": 4.11,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+                        "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/hungphan2001",
+			"telegram": "https://t.me/TulipIndia",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
