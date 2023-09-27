@@ -2,26 +2,23 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== August 18, 2023 ======
+===== September 26, 2023 ======
 
 Changelog:
-- Add Dolby Atmos
-- Add Viper4A
-- Update to Leica 5.0 (Crash when switching to 0,6x with new ui)
-- Add KSU by default
+- Merge Sep patch
+- Remove Viper4A
+- Switch to SurgeX Kernel
+- Enable Secure NFC
 - Synced with latest cherish source changes
 - Misc. Fixes and Improvement
-Others...
+- ...
 
 Note:
 - Skkk TWRP Recommended (you can use other custom recovery)
-- Fw included (Fw 14.0.3 global included, you should flash your lastest regional fw)
+- Fw included (Fw 14.0.4 global included)
 - Let the ROM settle. It will be smooth after sometime.
-- Known bugs: LeicaCam (in changelog), preview livewallpaper (It works fine, just preview issue), popup notification for AOSP messaging
 
 Credit: 
-- @madmax7896 for dt.
-- @NotZetaa for kernel
-- @聖小熊、@Lostark13、@ItzDFPlayer、@Sevtinge for LeicaCamMod
+- @madmax7896 for resources
 
 CherishOS | Built with 💖
