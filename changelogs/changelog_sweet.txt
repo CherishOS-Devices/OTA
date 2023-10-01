@@ -92,3 +92,17 @@ Dolby added.
 Fixed the Screen lag during Screen recording.
 
 August Security patch merged.
+
+=====28th SEPTEMBER, 2023======
+
+CherishOS v4.12 - OFFICIAL | Android 13
+
+Switched to perf+ Kernel
+
+Improved Smoothness
+
+September Security Patch Merged
+
+Dolby Nuked
+
+Many other internal improvements
