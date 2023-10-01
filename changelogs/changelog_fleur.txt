@@ -2,6 +2,14 @@ Highlights & Device Specific Changes
 Device: POCO M4 Pro 4G/Redmi Note 11S 4G
 Device maintainer: gabutuniverse
 
+===== August 27, 2023 ======
+- Enable LTE_CA workaround 
+- Remove frozen and unfrozen cgroup 
+- Disable CPU hotplug data parsing on mi_thermald
+- Add HDR and AOSP color props
+- Many more under the hood changes and optimizations
+- And etc..
+
 ===== July 17, 2023 ======
 - Fixed Video flicker issue
 - Fixed Refresh Rate issue
@@ -32,6 +40,5 @@ Device maintainer: gabutuniverse
 - Drop AEE Feature 
 
 Credits: 
-- thx to @rusyd4 for tester and ur pc (local build)
-- @RafaelPratama, @Erico_Cristiant ,@al1r4d for tester and supported me!
+- thx to @rusyd4, @daylight017, @akbluck for tester
 - Thanks to all for helped and supported me!

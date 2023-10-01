@@ -2,23 +2,23 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== July 10, 2023 ======
+===== September 26, 2023 ======
 
 Changelog:
-- Synced with latest cherish 4.10 source
-- Updated blobs from miui v14.0.3.0.TLMMIXM
-- Updated CarrierConfig from v14.0.3.0.TLMMIXM
-- Improved overall performance
+- Merge Sep patch
+- Remove Viper4A
+- Switch to SurgeX Kernel
+- Enable Secure NFC
+- Synced with latest cherish source changes
 - Misc. Fixes and Improvement
-- Others...
+- ...
 
 Note:
-- OTA Support
-- Dolby Included
-- MiuiCam (Leica) Included
+- Skkk TWRP Recommended (you can use other custom recovery)
+- Fw included (Fw 14.0.4 global included)
+- Let the ROM settle. It will be smooth after sometime.
 
 Credit: 
-- @madmax7896 for dt.
-- @NotZetaa for kernel
+- @madmax7896 for resources
 
 CherishOS | Built with 💖

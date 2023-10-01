@@ -1,16 +1,36 @@
 Highlights & Device Specific Changes:
 Device: POCO M3 Pro/Redmi Note 10T/10 5G/11 SE
-Device maintainer: Rams
+Build type: Monthly
+Device maintainer: Rams (ramshell688)
 
-===== Jun 10, 2023 ======
+===== Sep 26, 2023 =====
+
+- September security patch
+- Fix FP sensor not working for some devices
+- Fix Bluetooth audio randomly disconnecting
+- Add dynamic thermal profile implementation
+- Enable GL comp backpressure
+- Import 2.1 sensors multihal
+- Import task_profile configuration
+- Switch to Aperture camera
+
+===== Aug 13, 2023 =====
 
 Changelog:
-- Initial release
+- Fixed ADB Sideload
+- August security patch
+- SELinux is Enforcing
+- Switch HWUI rendering backend to skiagl
+
+===== Jul 10, 2023 ======
+
+Changelog:
+- Initial official release
 - July security patch
 - Gapps & Vanilla built
 - Gapps OTA supported
 - SELinux is permissive
 
-Credit:
+Credits:
 - @rio113 for dt
 - @VipulSharma_007 for tester
