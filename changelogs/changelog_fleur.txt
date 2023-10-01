@@ -2,6 +2,18 @@ Highlights & Device Specific Changes
 Device: POCO M4 Pro 4G/Redmi Note 11S 4G
 Device maintainer: gabutuniverse
 
+===== September 30, 2023 ======
+- Fixed Sound cracked (yo oss audio in fleur is shit)
+- Fixed In-call bug 
+- Always report max cpu freq to unity tasks
+- Decreased kernel logs 
+- Increase 5 GHz network signal tolerance 
+- Switch to new AIDL memtrack HAL 
+- tuning SchedTune, cpusets and etc
+- Switch Thermal 1.0 to MTK Thermal 2.0
+- Add FMRadio
+- Many more under the hood changes and optimizations
+
 ===== August 27, 2023 ======
 - Enable LTE_CA workaround 
 - Remove frozen and unfrozen cgroup 
