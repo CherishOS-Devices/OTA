@@ -4,9 +4,17 @@ Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 Device maintainer: ꪖ​ꪀ𝘴ꫝ|邪惡的 (EvilAnsh)
 Required firmware: Latest
 
+===== 2023.10.08 =====
+• Synced Latest CherishOS v4.12 changes
+• Sep security patch merged
+• Shipped with the latest lineage kern:el (v4.14.325)
+• Used the latest Cosmic Clang 18 in compiling the kernel
+• Added support for power off alarm
+• Fixed random bluetooth disconnection
+• Misc. Fixes and Improvements
+
 ===== 2023.08.13 =====
 • Synced Latest CherishOS v4.11 changes
-• Aug security patch merged
 • Shipped with the latest LINEAGE-PLUS kernel (v4.14.320)
 • Used the latest Cosmic Clang 18 in compiling the kernel
 • Added QS Header Image back
