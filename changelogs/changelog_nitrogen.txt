@@ -4,11 +4,8 @@ Device: Mi Max 3 (nitrogen)
 Device maintainer: Sanek-creed
 
 ====================
-     07-09-2023
+     09-10-2023
 ====================
 
-• Synced with latest cherish 4.11 source
-• Increase 5Ghz Signal tolerance.
-• Kill property for skia reduceOpsTaskSplitting
-• Enable performant auth feature
+• Synced with latest cherish 4.12 source
 • Many more Underhood changes
