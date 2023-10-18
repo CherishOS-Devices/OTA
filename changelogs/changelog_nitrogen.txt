@@ -4,11 +4,8 @@ Device: Mi Max 3 (nitrogen)
 Device maintainer: Sanek-creed
 
 ====================
-     10-07-2023
+     09-10-2023
 ====================
 
-• Synced with latest cherish 4.10 source
-• Removed RenderScript implementation 
-• Switch back to GcamGo
-• Disable Wlan Firmware logs
-• Clean up useless log spams
+• Synced with latest cherish 4.12 source
+• Many more Underhood changes

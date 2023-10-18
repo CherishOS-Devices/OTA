@@ -3,6 +3,16 @@ Build type: Monthly
 Device: Realme x3/x3 superzoom
 Device maintainer: Perses
 
+=====3rd Oct, 2023======
+- Based on September Security Patch
+- Addressed brightness dim when fp enrolled
+- Included with Anubis Kernel
+- switch to BBR TCP
+- bump kernel clang to r498229b (17.0.4)
+- Safetynet Passes By Default
+- Clean Flash from C08 Mandatory!!
+- Many More Improvements Under The Hood
+
 =====10th Jan, 2023======
 * Merged Jan Patch
 * Merge Kernel to CLO tag LA.UM.9.1.r1-12900-SMxxx0.QSSI13.0
