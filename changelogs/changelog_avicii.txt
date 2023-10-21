@@ -3,17 +3,21 @@ Device: Oneplus Nord
 Device maintainer: PSavarMattas
 Highlights & Device Specific Changes:
 
-=====17nd AUGUST, 2023======
+=====18th OCTOBER, 2023======
+
+- Sync with latest 4.12 source changes
+
+=====17st AUGUST, 2023======
 
 - Sync with latest 4.11 source changes
 - NeverSettle Kernel removed instead Escrima Kernel is used
 - Vendor Security Patch updated to July, 2023
 
-=====09nd JULY, 2023======
+=====09st JULY, 2023======
 
 - Sync with latest 4.10 source changes
 
-=====02th JULY, 2023======
+=====02nd JULY, 2023======
 
 - Ported to NeverSettle Kernel v1.5.5
 - Added OnePlus Camera 
