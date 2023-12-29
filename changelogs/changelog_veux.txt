@@ -1,8 +1,18 @@
 Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Redmi/POCO
-Device maintainer: mlzdbz
+Build type: Weekly
+Device: Note 11 Pro+/Poco X4 Pro
+Device maintainer: ꜰʀᴇᴀᴋʏ ᴘʀᴀᴛᴇᴇᴋ
 ![Device Changelog](https://github.com/CherishOS/android_manifest/raw/tiramisu/assets/cherish.png)
+
+## v5.1
+```
+veux: Added with ukiyo kernel with KSU Support
+veux: Audio Hals are Updated
+veux: Removed MiUi Cam and Dolby for now
+veux: Updated DT and VT to latest MiUi version
+veux: Updated Partition Size
+veux: NFC will work for Glabal Varients only
+```
 
 ## v4.6.1
 ```
