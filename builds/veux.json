@@ -18,11 +18,11 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://www.paypal.me/hungphan2001",
+			"paypal": "https://www.paypal.me/phandinhhung2001",
 			"telegram": "https://t.me/mlzdbzz",
 			"dt": "https://github.com/CherishOS-Devices/android_device_xiaomi_veux.git",
-			"kernel": "https://github.com/CherishOS-Devices/android_device_xiaomi_veux-kernel.git"
-			"vendor": "https://github.com/CherishOS-Devices/android_vendor_xiaomi_veux.git"
+			"kernel": "https://github.com/CherishOS-Devices/android_device_xiaomi_veux-kernel.git",
+			"vendor": "https://github.com/CherishOS-Devices/android_vendor_xiaomi_veux.git",
 			"headers": "https://github.com/CherishOS-Devices/android_kernel_xiaomi_sm6375.git"
 		}
 	]
