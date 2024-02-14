@@ -3,23 +3,19 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====25 Sep 2023======
+=====14 Feb 2024======
 
-- Sep security patch merged
-- Used Laucher3 in gapps build
-- Added Smart 5G service 
-- Added Lockscreen Weather styles
-- Added QS battery customizations
-- Added sensor block package list configurable
-- Added Sensor block per-package switch
-- Added Bring back support for Parallel space
-- Fixed Biometric dialog corner radius 
-- Fixed quickswitch with gesture pill disabled 
-- Fixed class cast exception when animating play/pause button
-- Fixed logspam from AppIdleHistory on first boot 
-- Fixed NullPointerException during bluetooth turning off 
-- Fixed custom seekbar pref disabled color views 
+- Feb Security patch merged
+- Added UDFPS animation
+- Added affordance shorcut for AI Voice Assistant
+- Added STREAM_NOTIFICATION row
+- Added option changing face unlock method when locked in face unlock
+- Added support apply monet in icon Settings
+- Fixed external layout direction changes with expanded volume rows
+- Enabled pulsing animation for faceunlock
+- Fixed hang when dumping local cache info
+- Improve design of "VO" icon in VoLTE
 - Improved the system
 
 If you like our work you can donate to us at
-Paypal:- paypal.me/hungphan2001
+Paypal:- paypal.me/phandinhhung2001
