@@ -13,6 +13,20 @@
          }
       ]
    },
+   {
+      "brand": "Xiaomi",
+      "codename": "stone",
+      "name": "Redmi Note 12 5G / POCO X5 5G",
+      "supported_versions": [
+          {
+            "maintainer_name": "taki",
+            "maintainer_url": "https://t.me/takixamru",
+            "version_code": "UpsideDownCake",
+            "version_name": "UpsideDownCake",
+            "xda_thread": "https://xdaforums.com/t/rom-14-0-u-unofficial-stone-cherish-os-5-2.4644208/"
+          }
+       ]
+    },
  {
       "brand": "Xiaomi",
       "codename": "Mojito",

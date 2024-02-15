@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi NOTE 12 5G/POCO X5 5G
+Device maintainer: takixamru
+
+=====14 Feb 2024======
+
+- Initial A14 Official Update With Febuary Patch
+- Dolby And Viper4FX in built
+- Offline Charging Works Now
+- Better Device MODEL Detection
+- Netfix And Other Games Are Running Now
+- Play Intergrity And Safety Net Passes Now
+- Imported Carrier Conifg Nothing Phone 1
+- No Refresh rate flicker 120hz-60hz
+- No Youtube Lag
+- Increased Smoothness X100
+ 
+If you like our work you can donate to us at
+Paypal:- paypal.me/phandinhhung2001
