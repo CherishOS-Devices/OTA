@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "taki",
+			"oem": "xiaomi",
+			"device": "Redmi NOTE 12 5G/POCO X5 5G",
+			"filename": "Cherish-OS-v5.3-20240214-1758-stone-OFFICIAL-GApps.zip",
+			"download": "https://sourceforge.net/projects/cherish-os/files/device/stone/Cherish-OS-v5.3-20240214-1758-stone-OFFICIAL-GApps.zip/download",
+			"timestamp": 20240214,
+			"md5": "e33c2082eddf2fd50fea72703d418838",
+			"sha256": "9f51b91eaa8ad5cebcd97619dc40e28a0bd15022",
+			"size": 1877889508,
+			"version": 5.3,
+			"buildtype": "Releases",
+			"forum": "https://t.me/cherishOS",
+            "gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://pixeldrain.com/u/gdURHZmW",
+			"paypal": "https://www.paypal.me/phandinhhung2001",
+			"telegram": "https://t.me/takisnetwork",
+			"dt": "https://github.com/Amrito-Projects/device_xiaomi_stone.git",
+			"common-dt": "https://github.com/Amrito-Projects/device_xiaomi_sm6375-common.git",
+			"kernel": "https://github.com/Amrito-Projects/device_xiaomi_stone-kernel.git"
+		}
+	]
+}
