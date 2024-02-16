@@ -2,23 +2,34 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== September 26, 2023 ======
+===== February 16, 2024 ======
 
 Changelog:
-- Merge Sep patch
-- Remove Viper4A
-- Switch to SurgeX Kernel
-- Enable Secure NFC
+- Update blobs to latest CN
+- Switch to N0Kernel
+- Build Lineage Health (Control Charge)
+- Disable Skia tracing by default
+- Build Minigapps
+- Enable VoNR Calls support (not test)
+- Switch HWUI rendering backend to opengl & Force OpenGL renderer
+- Update clear speaker audio using DTMF + Chirp tones
+- Disable frame rate override feature
+- Add touch profiles for gaming and benchmarking
+- Import Xiaomi TouchFeature service
+- Add Pakistan mcc configs
+- Fixed Youtube scroll lag when playing a video
+- Fixed Front Camera Recording
 - Synced with latest cherish source changes
 - Misc. Fixes and Improvement
 - ...
 
 Note:
 - Skkk TWRP Recommended (you can use other custom recovery)
-- Fw included (Fw 14.0.4 global included)
+- Fw included (Fw 14.0.9 CN included)
 - Let the ROM settle. It will be smooth after sometime.
 
 Credit: 
 - @madmax7896 for resources
+- @EmanuelCN for kernel
 
 CherishOS | Built with 💖
