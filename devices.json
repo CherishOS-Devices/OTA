@@ -1,4 +1,18 @@
 [
+  {
+      "brand": "Xiaomi",
+      "codename": "Marble",
+      "name": "POCO F5",
+      "supported_versions": [
+         {
+            "maintainer_name": "JYR_RC",
+            "maintainer_url": "https://t.me/JYR_RC",
+            "version_code": "UpsideDownCake",
+            "version_name": "UpsideDownCake",
+            "xda_thread": ""
+         }
+      ]
+   },
    {
       "brand": "Xiaomi",
       "codename": "Redwood",

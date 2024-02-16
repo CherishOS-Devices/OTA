@@ -1,0 +1,12 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 12 Turbo/Poco F5
+Device maintainer: JYR_RC 
+
+=====17 Feb 2024======
+
+- Feb Security patch merged
+- Update blobs hyperOS
+- Switch to evenstar kernel
+- Improved the system
+- Important,Firmware installation for your region is required!!!
